@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-26",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-09-26T13:51:03+09:00",
+  "news": [
+    {
+      "id": "us-china-summit-truce",
+      "region": "world",
+      "headline": "米中首脳会談、貿易休戦を2カ月延長　主要懸案はなお未解決",
+      "summary": [
+        {
+          "ja": "トランプ米大統領と習近平中国国家主席のワシントン会談で、11月に期限を迎える予定だった米中の貿易休戦が2カ月延長された。",
+          "en": "At their Washington summit, U.S. President Donald Trump and Chinese President Xi Jinping agreed to extend the U.S.-China trade truce, which had been due to expire in November, by two months."
+        },
+        {
+          "ja": "一方、関税、中国による米国製品購入、レアアース、AI、台湾などの主要な対立点では大きな突破口は示されなかった。",
+          "en": "However, no major breakthrough was announced on core disputes including tariffs, Chinese purchases of U.S. goods, rare earths, AI, and Taiwan."
+        }
+      ],
+      "background": "米中は2025年の激しい関税応酬後、関税や輸出規制の一部を抑える暫定的な休戦を続けてきた。今回の延長は関係悪化を先送りする一方、恒久的な合意ではない。",
+      "why_it_matters": "米中貿易は世界の製造業、半導体、農産物、物流、物価に直結する。短期的には市場の不確実性を抑えるが、年末に再び交渉期限が来る。",
+      "sources": [
+        {
+          "name": "Reuters / Investing.com",
+          "url": "https://www.investing.com/news/world-news/four-takeaways-from-trumps-summit-with-xi-in-washington-4916246"
+        },
+        {
+          "name": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/trump-xi-end-summit-with-tea-tour-of-us-archives-and-little-sign-of-progress-ce785adfd18bf627"
+        }
+      ]
+    },
+    {
+      "id": "japan-us-yen-concern",
+      "region": "japan",
+      "headline": "トランプ氏が円安に懸念、日本政府が日米首脳会談のやり取りを公表",
+      "summary": [
+        {
+          "ja": "片山さつき財務相は25日、日米首脳会談でトランプ米大統領が円の弱さに懸念を示したと明らかにした。",
+          "en": "Finance Minister Satsuki Katayama said on Friday that U.S. President Donald Trump had expressed concern about the yen's weakness during his summit with Prime Minister Sanae Takaichi."
+        },
+        {
+          "ja": "日本側も過度に弱い円は問題だとの認識を示しており、為替をめぐる日米当局の発言が市場で注目されている。",
+          "en": "Japan also conveyed that an excessively weak yen is problematic, drawing market attention to comments from both governments on exchange rates."
+        }
+      ],
+      "background": "円相場は日米の金利差や金融政策見通しに強く左右される。日本銀行は9月17日に政策金利を1.25%へ引き上げたが、円安圧力はその後も残っていた。",
+      "why_it_matters": "円安は輸入物価を押し上げる一方、輸出企業の円換算利益を押し上げることがある。米国側の為替への言及は、介入や政策協調への思惑にも影響する。",
+      "sources": [
+        {
+          "name": "Reuters / Fidelity",
+          "url": "https://www.fidelity.com/news/article/default/202609242354RTRSNEWSCOMBINED_L1N45H01I_1"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/bank-japan-set-raise-interest-rates-31-year-high-2026-09-17/"
+        }
+      ]
+    },
+    {
+      "id": "japan-stocks-five-day-rise",
+      "region": "japan",
+      "headline": "日経平均5日続伸、半導体・銀行株が押し上げ",
+      "summary": [
+        {
+          "ja": "25日の東京市場で日経平均は前営業日比1.30%高の66,364.20円、TOPIXは1.31%高の4,128.59で終えた。",
+          "en": "On September 25, the Nikkei 225 closed 1.30% higher at 66,364.20, while the TOPIX rose 1.31% to 4,128.59."
+        },
+        {
+          "ja": "AI・半導体関連株に加え、金利上昇や配当権利取りへの期待を背景に銀行株も買われた。",
+          "en": "AI and semiconductor shares led gains, while bank stocks also advanced on higher interest rates and demand ahead of dividend entitlement dates."
+        }
+      ],
+      "background": "株価指数は個別企業の値動きをまとめた指標だが、日経平均は値がさ株の影響を受けやすく、TOPIXは東証の幅広い銘柄を時価総額ベースで反映する。",
+      "why_it_matters": "AI投資期待だけでなく、金利上昇が銀行株に追い風になるなど、同じ金利変化でも業種ごとに影響が異なることが見える。",
+      "sources": [
+        {
+          "name": "Reuters / Yahoo! Finance Japan",
+          "url": "https://finance.yahoo.co.jp/news/detail/1f7f97c5a1bc4b1a6795ac09d1d542e2a2c8b867"
+        },
+        {
+          "name": "Yahoo! Finance Japan TOPIX",
+          "url": "https://finance.yahoo.co.jp/quote/998405.T/history"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-putin-talks",
+      "region": "world",
+      "headline": "プーチン氏、ウクライナ和平案は「すべて選択肢」と発言",
+      "summary": [
+        {
+          "ja": "ロシアのプーチン大統領は25日、ウクライナ戦争をめぐる和平提案はすべて選択肢として残っていると述べた。",
+          "en": "Russian President Vladimir Putin said on Friday that all proposals for a settlement of the war in Ukraine remained on the table."
+        },
+        {
+          "ja": "ただし、最近の攻撃を踏まえてロシアがどの対応を取るべきか慎重に判断するとし、即時の交渉再開を約束したわけではない。",
+          "en": "He added that Russia would have to consider its response carefully in light of recent attacks, stopping short of committing to an immediate resumption of negotiations."
+        }
+      ],
+      "background": "ロシアによるウクライナ侵攻は2022年に始まり、停戦条件、安全保障、占領地域の扱いなどをめぐって双方の立場には大きな隔たりがある。",
+      "why_it_matters": "首脳の発言が実際の停戦交渉に結びつくかは不透明だが、戦争の継続は欧州安全保障、エネルギー、穀物市場、防衛支出に広く影響する。",
+      "sources": [
+        {
+          "name": "Reuters / Investing.com",
+          "url": "https://www.investing.com/news/world-news/putin-says-all-ukraine-peace-proposals-on-table-but-russia-must-weigh-its-interests-4917941"
+        }
+      ]
+    },
+    {
+      "id": "unga-pandemic-preparedness",
+      "region": "world",
+      "headline": "国連でパンデミック対策を再点検、次の感染症危機への備えが議題に",
+      "summary": [
+        {
+          "ja": "国連総会のハイレベルウィークで25日、パンデミックの予防・備え・対応をテーマにしたハイレベル会合が開かれた。",
+          "en": "A high-level meeting on pandemic prevention, preparedness and response was held on September 25 during the United Nations General Assembly's High-level Week."
+        },
+        {
+          "ja": "新型コロナの経験を踏まえ、国際協力、医療体制、早期警戒、将来の感染症危機への備えが改めて焦点となっている。",
+          "en": "Drawing on lessons from COVID-19, the meeting renewed attention on international cooperation, health-system capacity, early warning, and readiness for future outbreaks."
+        }
+      ],
+      "background": "感染症は国境を越えるため、一国の医療体制だけでは封じ込めに限界がある。監視、情報共有、ワクチンや医療資源へのアクセスなどは国際制度の設計問題でもある。",
+      "why_it_matters": "次のパンデミックへの準備は、医療だけでなく経済、サプライチェーン、学校、移動、行政の継続性に直結する。",
+      "sources": [
+        {
+          "name": "United Nations General Assembly",
+          "url": "https://www.un.org/pga/81/meetings-and-events/"
+        },
+        {
+          "name": "United Nations News",
+          "url": "https://www.un.org/en/tags/newsunorg"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "as_of": "2026-09-25 closing data unless otherwise noted",
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.18,
+        "change_pct": -1.05,
+        "source": "Investing.com",
+        "source_url": "https://www.investing.com/currencies/usd-jpy-historical-data"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 179.15,
+        "change_pct": -0.84,
+        "source": "Investing.com",
+        "source_url": "https://www.investing.com/currencies/eur-jpy-historical-data"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1399,
+        "change_pct": 0.22,
+        "source": "Investing.com",
+        "source_url": "https://www.investing.com/currencies/eur-usd-historical-data"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 66364.2,
+        "change_pct": 1.3,
+        "source": "Reuters / Yahoo! Finance Japan",
+        "source_url": "https://finance.yahoo.co.jp/news/detail/1f7f97c5a1bc4b1a6795ac09d1d542e2a2c8b867"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4128.59,
+        "change_pct": 1.31,
+        "source": "Yahoo! Finance Japan",
+        "source_url": "https://finance.yahoo.co.jp/quote/998405.T/history"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7743.41,
+        "change_pct": 0.51,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/history/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27068.72,
+        "change_pct": 0.48,
+        "source": "MarketScreener",
+        "source_url": "https://www.marketscreener.com/quote/index/NASDAQ-COMPOSITE-4944/quotes/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51772.3,
+        "change_pct": 0.82,
+        "source": "MarketScreener",
+        "source_url": "https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/quotes/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.07,
+        "unit": "%",
+        "change_bp": -0.5,
+        "source": "Reuters / Yahoo! Finance Japan",
+        "source_url": "https://finance.yahoo.co.jp/news/detail/1f7f97c5a1bc4b1a6795ac09d1d542e2a2c8b867"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.891,
+        "unit": "%",
+        "change_bp": -0.4,
+        "source": "Investing.com",
+        "source_url": "https://www.investing.com/rates-bonds/u.s.-2-year-bond-yield-historical-data"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.167,
+        "unit": "%",
+        "change_bp": -2.6,
+        "source": "Investing.com",
+        "source_url": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD_SPOT",
+        "value": 4287.02,
+        "unit": "USD/oz",
+        "change_pct": 0.52,
+        "source": "Investing.com",
+        "source_url": "https://www.investing.com/currencies/xau-usd-historical-data"
+      },
+      {
+        "symbol": "WTI_SPOT",
+        "value": 91.39,
+        "unit": "USD/bbl",
+        "change_pct": -1.58,
+        "source": "Investing.com",
+        "source_url": "https://jp.investing.com/currencies/wti-usd-historical-data"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BTC/USD",
+        "value": 84692.59,
+        "unit": "USD",
+        "change_pct": 0.37,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/",
+        "note": "2026-09-25 close"
+      }
+    ],
+    "market_moves": [
+      {
+        "title": "日本株が1%超上昇",
+        "body": "日経平均は+1.30%、TOPIXは+1.31%。AI・半導体株に加え、金利上昇と配当権利取り期待から銀行株も買われた。"
+      },
+      {
+        "title": "円が対ドル・ユーロで反発",
+        "body": "USD/JPYは前日比約-1.05%、EUR/JPYは約-0.84%。日米首脳会談で円安への懸念が話題になったことも注目された。"
+      },
+      {
+        "title": "日本10年金利、一時1996年以来の高水準",
+        "body": "新発10年国債利回りは一時3.115%まで上昇した後、3.070%で引けた。金利上昇は銀行株には追い風となる一方、企業や住宅の借入コストには上昇圧力となる。"
+      },
+      {
+        "title": "WTI原油が下落",
+        "body": "WTIスポットは前日比約-1.58%。中東情勢を巡る外交期待と供給懸念の綱引きが続いている。"
+      }
+    ]
+  },
+  "daily_culture": {
+    "title": "ピアノは、すべての音程を少しずつ間違えている",
+    "body": "一般的な現代ピアノの基準になっている十二平均律では、オクターブ以外の主要な音程は、純粋な整数比からわずかにずれている。\n\n二つの音の振動数が単純な整数比になると、強い調和が生まれる。完全五度なら3対2、オクターブなら2対1である。では、この「きれいな比」だけで12音の鍵盤を作ればよさそうに思える。\n\nところが数学がそれを許さない。完全五度を12回積み重ねた比率 (3/2)^12 と、オクターブを7回積み重ねた 2^7 は一致しない。前者の方が約1.36%大きい。この小さな食い違いが「ピタゴラスコンマ」である。\n\nつまり、完全に純粋な五度と完全なオクターブを同時に守りながら、12音をきれいに一周させることはできない。\n\n歴史上の調律法は、この矛盾をさまざまな場所へ配分してきた。ある調では美しく響く代わりに、別の調では強く濁る方式もあった。現在広く使われる十二平均律は、オクターブを正確に保ちながら、その内部を対数的に12等分する。その結果、完全五度は純正な3対2よりほんの少し狭くなる。\n\nこれは「雑に調律している」という意味ではない。むしろ逆で、両立しない条件の間で誤差を体系的に配分している。\n\nその妥協によって、同じ鍵盤のままさまざまな調へ転調できる。ピアノの音は、自然界に最初から存在する唯一の正解を並べたものではない。数学的な矛盾に対して、人間がどの誤差を許すかを選んだ設計なのである。\n\n鍵盤を見るとき、そこには音楽だけでなく「複数の理想が同時には満たせないとき、どう折り合いをつけるか」という設計問題まで埋め込まれている。",
+    "explore": [
+      "十二平均律",
+      "ピタゴラスコンマ",
+      "純正律",
+      "中全音律",
+      "音律と転調"
+    ],
+    "sources": [
+      {
+        "name": "Music Theory Online",
+        "url": "https://www.mtosmt.org/issues/mto.98.4.4/mto.98.4.4.scholtz.html"
+      },
+      {
+        "name": "Washington University in St. Louis mathematics notes",
+        "url": "https://www.math.wustl.edu/~wright/Math109/00Book.pdf"
+      },
+      {
+        "name": "The Mathematical Intelligencer / Springer",
+        "url": "https://link.springer.com/article/10.1007/s00283-022-10260-4"
+      }
+    ],
+    "registry": {
+      "topic_key": "twelve_tone_equal_temperament_compromise",
+      "angle_key": "incompatible_pure_intervals_require_distributed_error",
+      "entities": [
+        "十二平均律",
+        "ピタゴラスコンマ",
+        "完全五度",
+        "オクターブ",
+        "純正律"
+      ],
+      "knowledge_claims": [
+        "純正な完全五度12回とオクターブ7回は一致しない",
+        "十二平均律はオクターブを12個の等しい対数的ステップに分割する",
+        "十二平均律の完全五度は純正比3対2からわずかにずれる",
+        "調律法は両立しない音程条件の誤差を異なる方法で配分する"
+      ]
+    }
+  },
+  "daily_quiz": {
+    "genre": "天文・地球科学",
+    "question": "太陽系の8惑星のうち、自転周期が公転周期よりも長い惑星は何でしょう？",
+    "answer": "金星",
+    "explanation": "金星の恒星自転周期は約243地球日、公転周期は約225地球日です。そのため「1回自転するより先に1年が終わる」惑星です。なお、金星は逆行自転しているため、太陽が同じ位置に戻る太陽日は約117地球日で、ここでいう自転周期とは区別されます。",
+    "sources": [
+      {
+        "name": "NASA Science — Venus Facts",
+        "url": "https://science.nasa.gov/venus/venus-facts/"
+      },
+      {
+        "name": "NASA/JPL Planetary Physical Parameters",
+        "url": "https://ssd.jpl.nasa.gov/planets/phys_par.html"
+      }
+    ],
+    "registry": {
+      "fact_key": "planet_with_rotation_period_longer_than_orbital_period",
+      "answer_key": "venus",
+      "entities": [
+        "金星",
+        "自転周期",
+        "公転周期"
+      ]
+    }
+  }
+}
