@@ -1,45 +1,13 @@
 <!doctype html>
 <html lang="ja">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>NEWSPAPER | 人生クエスト</title>
-<style>
-:root{--bg:#f4f1e9;--paper:#fffdf7;--ink:#171717;--muted:#74706a;--line:#d8d2c7;--accent:#8b1e1e}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:ui-serif,"Hiragino Mincho ProN","Yu Mincho",serif;line-height:1.75}
-main{width:min(920px,calc(100% - 28px));margin:26px auto 64px;background:var(--paper);border:1px solid var(--line);padding:clamp(20px,4vw,48px)}
-header{text-align:center;border-bottom:3px double var(--ink);padding-bottom:16px;margin-bottom:28px}.kicker{font:700 12px/1.2 ui-monospace,monospace;letter-spacing:.22em;color:var(--muted)}
-h1{font-size:clamp(36px,8vw,72px);line-height:1;margin:8px 0}.date{font-size:14px;color:var(--muted)}
-nav{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:14px}button{font:inherit;background:transparent;border:1px solid var(--line);padding:6px 11px;cursor:pointer}button:hover{border-color:var(--ink)}
-section{margin:34px 0}.section-title{display:flex;align-items:end;gap:12px;border-bottom:2px solid var(--ink);margin-bottom:14px}.section-title h2{margin:0;font-size:25px}.section-title span{font:11px ui-monospace,monospace;color:var(--muted);letter-spacing:.12em;padding-bottom:5px}
-.news-item{border-bottom:1px solid var(--line);padding:16px 0}.news-head{display:flex;gap:10px;align-items:flex-start}.tag{font:700 10px ui-monospace,monospace;border:1px solid var(--line);padding:2px 5px;margin-top:5px;white-space:nowrap}.news-item h3{margin:0;font-size:20px;line-height:1.45}.summary{margin:10px 0}.en{color:#5f5c57;font-family:ui-serif,Georgia,serif;font-size:.95em;margin-top:2px}.details{display:none;margin-top:12px;padding:14px;border-left:3px solid var(--line);background:#faf7f0}.details.open{display:block}.label{font:700 11px ui-monospace,monospace;letter-spacing:.12em;color:var(--accent);margin-top:12px}.sources a{color:inherit;text-decoration:underline;text-underline-offset:3px;margin-right:12px}
-.market-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));border-top:1px solid var(--line);border-left:1px solid var(--line)}.market{padding:10px;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}.symbol{font:700 11px ui-monospace,monospace;color:var(--muted)}.value{font:700 20px ui-monospace,monospace}.change{font:12px ui-monospace,monospace}.moves{margin-top:14px}.move{padding:10px 0;border-bottom:1px dotted var(--line)}
-.culture-title{font-size:28px;line-height:1.4;margin:0 0 14px}.culture-body{white-space:pre-line}.explore{display:flex;gap:7px;flex-wrap:wrap;margin-top:14px}.chip{border:1px solid var(--line);padding:3px 8px;font-size:13px}
-.quiz-box{border:1px solid var(--ink);padding:18px}.quiz-q{font-size:22px;font-weight:700}.answer{display:none;margin-top:14px;border-top:1px solid var(--line);padding-top:14px}.answer.open{display:block}.error{padding:18px;border:1px solid #b55;background:#fff3f3;font-family:ui-sans-serif,sans-serif}.loading{text-align:center;padding:50px;color:var(--muted)}
-@media(max-width:600px){main{width:100%;margin:0;border:0;padding:18px}h1{font-size:45px}.news-item h3{font-size:18px}.culture-title{font-size:23px}}
-</style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>NEWSPAPER | 人生クエスト</title>
+  <link rel="stylesheet" href="./styles.css" />
 </head>
-<body><main><div id="app" class="loading">NEWSPAPERを読み込み中…</div></main>
-<script>
-const BASE='.';
-const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
-const fmt=n=>typeof n==='number'?new Intl.NumberFormat('ja-JP',{maximumFractionDigits:4}).format(n):esc(n);
-const qs=new URLSearchParams(location.search);
-async function getJson(path){const r=await fetch(`${BASE}/${path}?v=${Date.now()}`,{cache:'no-store'});if(!r.ok)throw new Error(`${path}: ${r.status}`);return r.json()}
-function dayOffset(date,delta){const d=new Date(date+'T00:00:00+09:00');d.setDate(d.getDate()+delta);return new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Tokyo'}).format(d)}
-async function load(){
- try{
-  let path,date=qs.get('date');
-  if(date) path=`newspaper/${date}.json`; else {const latest=await getJson('newspaper/latest.json');path=latest.path;date=latest.date}
-  const d=await getJson(path);render(d);
- }catch(e){document.querySelector('#app').className='error';document.querySelector('#app').innerHTML=`読み込みに失敗しました。<br><small>${esc(e.message)}</small>`}
-}
-function renderNews(news=[]){return news.map((n,i)=>`<article class="news-item"><div class="news-head"><span class="tag">${esc((n.region||'NEWS').toUpperCase())}</span><h3>${esc(n.headline)}</h3></div><div class="summary">${(n.summary||[]).map(s=>`<div><div>${esc(s.ja)}</div><div class="en">${esc(s.en)}</div></div>`).join('')}</div><button onclick="toggle('news-${i}')">背景・重要性・出典</button><div id="news-${i}" class="details"><div class="label">BACKGROUND</div><div>${esc(n.background)}</div><div class="label">WHY IT MATTERS</div><div>${esc(n.why_it_matters)}</div><div class="label">SOURCES</div><div class="sources">${(n.sources||[]).map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join('')}</div></div></article>`).join('')}
-function marketRows(m={}){const groups=[['FX',m.fx],['STOCKS',m.stocks],['RATES',m.rates],['COMMODITIES',m.commodities],['CRYPTO',m.crypto||m.cryptos]];return groups.map(([name,arr])=>Array.isArray(arr)&&arr.length?`<h3>${name}</h3><div class="market-grid">${arr.map(x=>{const ch=x.change_pct!=null?`${x.change_pct>0?'+':''}${x.change_pct}%`:x.change_bp!=null?`${x.change_bp>0?'+':''}${x.change_bp}bp`:'';return `<div class="market"><div class="symbol">${esc(x.symbol||x.name)}</div><div class="value">${fmt(x.value)}${esc(x.unit||'')}</div><div class="change">${esc(ch)}</div></div>`}).join('')}</div>`:'' ).join('')}
-function culture(c={}){const body=c.body||c.bodyMarkdown||c.content||c.text||'';const exp=c.explore||c.explore_terms||[];return `<h3 class="culture-title">${esc(c.title||'DAILY CULTURE')}</h3><div class="culture-body">${esc(body)}</div>${exp.length?`<div class="label">EXPLORE</div><div class="explore">${exp.map(x=>`<span class="chip">${esc(x)}</span>`).join('')}</div>`:''}`}
-function quiz(q={}){return `<div class="quiz-box"><div class="tag">${esc(q.genre||'DAILY QUIZ')}</div><div class="quiz-q">${esc(q.question)}</div><button style="margin-top:14px" onclick="toggle('quiz-answer')">答えを見る</button><div class="answer" id="quiz-answer"><div class="label">ANSWER</div><div style="font-size:22px;font-weight:700">${esc(q.answer)}</div><div class="label">EXPLANATION</div><div>${esc(q.explanation)}</div>${q.sources?.length?`<div class="label">SOURCES</div><div class="sources">${q.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join('')}</div>`:''}</div></div>`}
-function render(d){const moves=d.markets?.market_moves||d.markets?.moves||[];document.querySelector('#app').className='';document.querySelector('#app').innerHTML=`<header><div class="kicker">LIFE QUEST / DAILY INTELLIGENCE</div><h1>NEWSPAPER</h1><div class="date">${esc(d.date)} · ${esc(d.timezone||'Asia/Tokyo')}</div><nav><button onclick="go('${dayOffset(d.date,-1)}')">← 前日</button><button onclick="location.href='.'">LATEST</button><button onclick="go('${dayOffset(d.date,1)}')">翌日 →</button></nav></header><section><div class="section-title"><h2>NEWS</h2><span>WORLD + JAPAN</span></div>${renderNews(d.news)}</section><section><div class="section-title"><h2>MARKETS</h2><span>${esc(d.markets?.as_of||'')}</span></div>${marketRows(d.markets)}${moves.length?`<div class="moves"><div class="label">MARKET MOVES</div>${moves.map(x=>`<div class="move"><strong>${esc(x.title||x.asset||x.symbol||'')}</strong><br>${esc(x.explanation||x.summary||x.reason||'')}</div>`).join('')}</div>`:''}</section><section><div class="section-title"><h2>DAILY CULTURE</h2><span>ONE MORE WAY TO SEE THE WORLD</span></div>${culture(d.daily_culture)}</section><section><div class="section-title"><h2>DAILY QUIZ</h2><span>ONE QUESTION</span></div>${quiz(d.daily_quiz)}</section>`;document.title=`NEWSPAPER ${d.date} | 人生クエスト`}
-function toggle(id){document.getElementById(id)?.classList.toggle('open')}
-function go(date){location.href=`?date=${date}`}
-load();
-</script></body></html>
+<body>
+  <main><div id="app" class="loading">NEWSPAPERを読み込み中…</div></main>
+  <script src="./app.js"></script>
+</body>
+</html>
