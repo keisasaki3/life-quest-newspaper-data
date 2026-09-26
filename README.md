@@ -1,6 +1,12 @@
 # Life Quest Newspaper Data
 
-人生クエスト `NEWSPAPER` タブ用の公開データリポジトリ。
+人生クエスト `NEWSPAPER` 用の公開データ＋簡易ビュー。
+
+## Viewer
+
+- https://life-quest-newspaper.onrender.com
+
+このビューは確認用。人生クエスト本体はJSONを直接読み込む。
 
 ## Endpoints
 
@@ -17,7 +23,15 @@
 4. Update `registry/quiz.json`.
 5. Update `newspaper/latest.json` last.
 
-`latest.json` is intentionally a small pointer. The app reads the pointer and then fetches the referenced daily issue. This prevents a partially generated issue from becoming the published latest edition.
+`latest.json` is a small pointer. The app/viewer reads the pointer and then fetches the referenced daily issue so a partially generated issue cannot become the published latest edition.
+
+## Viewer files
+
+- `index.html`
+- `styles.css`
+- `app.js`
+
+Render automatically deploys `main` as a static site.
 
 ## Daily issue schema
 
