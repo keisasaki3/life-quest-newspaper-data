@@ -1,4 +1,24 @@
 {
   "schemaVersion": 1,
-  "items": []
+  "items": [
+    {
+      "date": "2026-09-26",
+      "title": "ピアノは、すべての音程を少しずつ間違えている",
+      "topic_key": "twelve_tone_equal_temperament_compromise",
+      "angle_key": "incompatible_pure_intervals_require_distributed_error",
+      "entities": [
+        "十二平均律",
+        "ピタゴラスコンマ",
+        "完全五度",
+        "オクターブ",
+        "純正律"
+      ],
+      "knowledge_claims": [
+        "純正な完全五度12回とオクターブ7回は一致しない",
+        "十二平均律はオクターブを12個の等しい対数的ステップに分割する",
+        "十二平均律の完全五度は純正比3対2からわずかにずれる",
+        "調律法は両立しない音程条件の誤差を異なる方法で配分する"
+      ]
+    }
+  ]
 }
