@@ -8,11 +8,16 @@
       "answer": "金星",
       "fact_key": "planet_with_rotation_period_longer_than_orbital_period",
       "answer_key": "venus",
-      "entities": [
-        "金星",
-        "自転周期",
-        "公転周期"
-      ]
+      "entities": ["金星", "自転周期", "公転周期"]
+    },
+    {
+      "date": "2026-09-27",
+      "genre": "日本史",
+      "question": "1993年、日本で最初にユネスコの世界文化遺産として登録された資産の一つで、現存する世界最古級の木造建築群を含む奈良県の寺院は何でしょう？",
+      "answer": "法隆寺",
+      "fact_key": "japan_first_world_heritage_horyuji_oldest_wooden_buildings",
+      "answer_key": "horyuji",
+      "entities": ["法隆寺", "法隆寺地域の仏教建造物", "世界遺産"]
     }
   ]
 }
