@@ -1,4 +1,18 @@
 {
   "schemaVersion": 1,
-  "items": []
+  "items": [
+    {
+      "date": "2026-09-26",
+      "genre": "天文・地球科学",
+      "question": "太陽系の8惑星のうち、自転周期が公転周期よりも長い惑星は何でしょう？",
+      "answer": "金星",
+      "fact_key": "planet_with_rotation_period_longer_than_orbital_period",
+      "answer_key": "venus",
+      "entities": [
+        "金星",
+        "自転周期",
+        "公転周期"
+      ]
+    }
+  ]
 }
