@@ -6,19 +6,16 @@
       "title": "ピアノは、すべての音程を少しずつ間違えている",
       "topic_key": "twelve_tone_equal_temperament_compromise",
       "angle_key": "incompatible_pure_intervals_require_distributed_error",
-      "entities": [
-        "十二平均律",
-        "ピタゴラスコンマ",
-        "完全五度",
-        "オクターブ",
-        "純正律"
-      ],
-      "knowledge_claims": [
-        "純正な完全五度12回とオクターブ7回は一致しない",
-        "十二平均律はオクターブを12個の等しい対数的ステップに分割する",
-        "十二平均律の完全五度は純正比3対2からわずかにずれる",
-        "調律法は両立しない音程条件の誤差を異なる方法で配分する"
-      ]
+      "entities": ["十二平均律", "ピタゴラスコンマ", "完全五度", "オクターブ", "純正律"],
+      "knowledge_claims": ["純正な完全五度12回とオクターブ7回は一致しない", "十二平均律はオクターブを12個の等しい対数的ステップに分割する", "十二平均律の完全五度は純正比3対2からわずかにずれる", "調律法は両立しない音程条件の誤差を異なる方法で配分する"]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "教皇選挙の「白い煙」は、じつは化学で設計された通信だ",
+      "topic_key": "papal_conclave_smoke_signal_chemistry",
+      "angle_key": "traditional_ritual_as_engineered_low_bandwidth_communication",
+      "entities": ["コンクラーベ", "システィーナ礼拝堂", "白煙", "黒煙", "煙信号"],
+      "knowledge_claims": ["コンクラーベでは黒煙が未決、白煙が教皇選出を示す", "現代の仕組みでは投票用紙用と発煙用の2つのストーブを使う", "黒煙と白煙は異なる化学混合物で明瞭化される", "2005年以降は白煙に加えて鐘も教皇選出を知らせる"]
     }
   ]
 }
