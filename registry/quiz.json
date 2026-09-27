@@ -18,6 +18,15 @@
       "fact_key": "smallest_prefecture_by_area_kagawa",
       "answer_key": "kagawa",
       "entities": ["香川県", "高山市", "都道府県の面積"]
+    },
+    {
+      "date": "2026-09-28",
+      "genre": "化学",
+      "question": "金属の元素のうち、常温（25℃）で液体なのはどれでしょう？",
+      "answer": "水銀",
+      "fact_key": "only_metal_liquid_at_room_temperature_mercury",
+      "answer_key": "mercury",
+      "entities": ["水銀", "融点", "ガリウム", "セシウム"]
     }
   ]
 }
