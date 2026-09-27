@@ -17,11 +17,11 @@
 
 ## Publish flow
 
-1. Generate and verify the daily issue. NEWS follows [STYLE.md](STYLE.md).
+1. Generate and verify the daily issue. Claude does this every morning by [GENERATE.md](GENERATE.md); NEWS follows [STYLE.md](STYLE.md). Check with `python3 scripts/validate_issue.py YYYY-MM-DD`.
 2. Write `newspaper/YYYY-MM-DD.json`.
 3. Update `registry/culture.json`.
 4. Update `registry/quiz.json`.
-5. Update `newspaper/latest.json` last.
+5. Update `newspaper/latest.json` last, and publish all of the above in one merge to `main`.
 
 `latest.json` is a small pointer. The app/viewer reads the pointer and then fetches the referenced daily issue so a partially generated issue cannot become the published latest edition.
 
