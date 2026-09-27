@@ -16,6 +16,14 @@
       "angle_key": "abstract_theory_required_for_everyday_navigation",
       "entities": ["GPS", "特殊相対性理論", "一般相対性理論", "原子時計"],
       "knowledge_claims": ["GPS衛星の時計は特殊相対論で1日約7マイクロ秒遅れる", "一般相対論で1日約45マイクロ秒進む", "差し引き1日約38マイクロ秒進み、補正しないと1日約10kmの誤差がたまる", "衛星の時計はあらかじめ遅いリズムに調整されている"]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "世界で一番通じる言葉「OK」は、新聞記者のダジャレから生まれた",
+      "topic_key": "origin_of_ok_oll_korrect",
+      "angle_key": "global_word_born_from_newspaper_in_joke",
+      "entities": ["OK", "ボストン・モーニング・ポスト", "アレン・ウォーカー・リード", "Old Kinderhook"],
+      "knowledge_claims": ["OKは1839年のボストン・モーニング・ポストで oll korrect の略として登場した", "当時は綴りを崩した頭字語の流行があった", "1840年の大統領選でヴァン・ビューレンの愛称Old KinderhookとOKクラブが広めた", "1960年代にアレン・ウォーカー・リードが語源を突き止めた"]
     }
   ]
 }
