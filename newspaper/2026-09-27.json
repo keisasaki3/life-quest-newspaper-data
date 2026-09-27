@@ -2,20 +2,291 @@
   "schemaVersion": 1,
   "date": "2026-09-27",
   "timezone": "Asia/Tokyo",
-  "generated_at": "2026-09-27T06:17:36+09:00",
+  "generated_at": "2026-09-27T21:06:00+09:00",
   "news": [
     {
-      "id": "iran-hormuz-nuclear-stance",
+      "id": "trump-rejects-iran-hormuz-plan",
       "region": "world",
-      "headline": "イラン、核問題で譲歩せず　ホルムズ海峡再開を米国への条件と連動",
-      "summary": [{"ja":"イラン高官は、米国が港湾封鎖解除などを含む提案を受け入れても、ウラン濃縮など核計画上の権利では譲歩しないと述べた。","en":"A senior Iranian official said Tehran would make no concessions on rights including uranium enrichment even if the United States accepted its proposal involving the reopening of the Strait of Hormuz."},{"ja":"イラン側は、米国が条件を満たすまでホルムズ海峡を閉鎖し続けるとしており、停戦交渉と世界のエネルギー輸送が直結している。","en":"Iran says the Strait of Hormuz will remain closed until its conditions are met, directly linking ceasefire diplomacy with a critical global energy route."}],
-      "background":"米国とイランの戦争が続くなか、ホルムズ海峡は原油・ガス輸送の重要ルートであり、交渉上の最大級の争点になっている。イランは海峡再開、米国の港湾封鎖解除、凍結資産や制裁を含む段階的な枠組みを提示している。","why_it_matters":"海峡の通航状況は原油価格、輸送費、世界のインフレに直結する。核問題を後段に切り離せるかどうかも停戦の成立可能性を左右する。","sources":[{"name":"Reuters / Investing.com","url":"https://www.investing.com/news/world-news/iran-will-make-no-nuclear-concessions-iranian-official-says-4917912"},{"name":"Reuters / Internazionale","url":"https://www.internazionale.it/ultime-notizie-reuters/2026/09/25/iran-will-make-no-nuclear-concessions-iranian-official-says"}]},
-    {"id":"us-china-summit-taiwan","region":"world","headline":"米中首脳会談は大きな突破口なし　台湾、米国の武器供与継続を訴え","summary":[{"ja":"トランプ米大統領と習近平中国国家主席の3日間の首脳会談は、台湾など主要な対立点で大きな公的突破口を示さず終了した。","en":"The three-day summit between U.S. President Donald Trump and Chinese President Xi Jinping ended without major public breakthroughs on contentious issues including Taiwan."},{"ja":"台湾の呉志中外交部政務次長は26日、台湾の防衛と半導体供給を支える武器供与は米国の国益でもあると述べた。","en":"On Saturday, Taiwan's Deputy Foreign Minister Francois Wu said U.S. arms supplies that help defend Taiwan and sustain its semiconductor contribution are also in the U.S. national interest."}],"background":"中国は台湾を自国領と主張し、習氏は会談で米国に「台湾独立に反対する正しい立場」を守るよう求めた。米国は台湾と正式な外交関係を持たない一方、台湾関係法の下で防衛装備を供与している。","why_it_matters":"台湾海峡の安定は東アジアの安全保障だけでなく、先端半導体の世界供給にも関わる。米中首脳外交が続く間、武器売却の扱いが交渉材料になるかが注目される。","sources":[{"name":"Reuters / MarketScreener","url":"https://www.marketscreener.com/news/arming-taiwan-an-important-us-interest-taipei-official-says-after-trump-xi-summit-ce785adcd98df427"},{"name":"Reuters / Investing.com","url":"https://www.investing.com/news/world-news/taiwan-denounces-xis-comments-to-trump-as-distortion-of-facts-4916719"}]},
-    {"id":"oil-falls-us-iran-truce-hopes","region":"world","headline":"原油2%安、米イラン停戦への期待でWTIは92.41ドル","summary":[{"ja":"25日の原油市場でWTIは2.3%安の1バレル92.41ドル、ブレントは2.1%安の104.32ドルで取引を終えた。","en":"WTI crude settled 2.3% lower at $92.41 a barrel on Friday, while Brent fell 2.1% to $104.32."},{"ja":"米国とイランが戦争終結とホルムズ海峡再開に向けた段階的な道筋を探っているとの報道が、供給不安による上昇圧力を一部和らげた。","en":"Reports that the United States and Iran were exploring a phased path toward ending the war and reopening the Strait of Hormuz eased some of the supply-risk premium."}],"background":"前日の原油価格はフーシ派によるサウジアラビアへの攻撃で急騰していた。中東の供給不安と停戦期待が交互に強まり、価格変動が大きくなっている。","why_it_matters":"エネルギー価格は家計の燃料費だけでなく、輸送費、製造コスト、インフレ、中央銀行の金利判断に波及する。","sources":[{"name":"Reuters / MarketScreener","url":"https://www.marketscreener.com/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war-ce785adfd180f425"},{"name":"The Business Times","url":"https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-prices-slide-about-2-us-iran-explore-path-out-war"}]},
-    {"id":"global-bond-yields-high","region":"world","headline":"世界的な債券売り続く　米長期金利は20年超ぶりの高水準圏","summary":[{"ja":"高いエネルギー価格、底堅い景気、政府支出への懸念を背景に世界的な債券売りが続き、米30年国債利回りは24日に2004年以来の高水準へ上昇した。","en":"A global bond selloff continued as high energy prices, resilient growth and concerns over government spending pushed the U.S. 30-year Treasury yield on Thursday to its highest level since 2004."},{"ja":"25日は米2年債利回りが4.81%、10年債利回りが5.17%となり、前日からそれぞれ6bp、1bp低下したものの高水準を維持した。","en":"On Friday, the U.S. 2-year yield eased 6 basis points to 4.81% and the 10-year yield slipped 1 basis point to 5.17%, but both remained elevated."}],"background":"債券価格と利回りは逆方向に動く。インフレが長引けば中央銀行が高金利を維持するとの見方が強まり、長期債には政府の財政赤字や国債増発への懸念も反映される。","why_it_matters":"国債利回りは住宅ローン、企業の資金調達、株式の評価など幅広い金融条件の基準になる。高止まりすれば景気と資産価格の双方に重荷となりうる。","sources":[{"name":"Reuters / Investing.com","url":"https://www.investing.com/news/economy-news/global-bond-selloff-rolls-on-us-30year-yield-at-highest-since-2004-4917617"},{"name":"U.S. Treasury data / Treasury Rate Watch","url":"https://treasuryratewatch.com/daily/treasury-yield-curve"}]},
-    {"id":"japan-dujuan-aftermath","region":"japan","headline":"台風ドゥージェンの豪雨被害、関東で4人死亡　復旧と捜索続く","summary":[{"ja":"台風ドゥージェンがもたらした記録的豪雨と土砂災害で、千葉県と神奈川県では少なくとも4人が死亡し、複数の行方不明者の捜索が続いている。","en":"Record rainfall and landslides from Typhoon Dujuan killed at least four people in Chiba and Kanagawa prefectures, with searches continuing for missing people."},{"ja":"伊豆大島では48時間雨量が832ミリに達し、東京周辺でも浸水や停電など大きな被害が出た。","en":"Izu Oshima recorded 832 millimeters of rain over 48 hours, while flooding and power outages caused major disruption around the Tokyo region."}],"background":"台風は日本の東方へ抜けたが、斜面崩壊や浸水地域では復旧に時間がかかる。関東では近年、短時間の極端な降雨による都市型洪水や土砂災害への備えが課題になっている。","why_it_matters":"災害後は警報解除後も地盤の緩みや河川・インフラ被害が残る。被害規模は防災インフラ、都市計画、気候変動への適応策の検討にも影響する。","sources":[{"name":"Reuters","url":"https://www.reuters.com/business/environment/torrential-rains-brought-by-japan-typhoon-kill-two-nhk-says-2026-09-22/"},{"name":"Channel NewsAsia","url":"https://www.channelnewsasia.com/east-asia/typhoon-dujuan-japan-flights-evacuations-tokyo-6400821"}]}
+      "headline_en": "Trump rejects Iran's plan to reopen Hormuz.",
+      "headline": "トランプ氏、ホルムズ再開案を拒否。",
+      "summary": [
+        {
+          "en": "President Trump said Iran's proposal to reopen the Strait of Hormuz to shipping within seven days was not acceptable.",
+          "ja": "トランプ大統領は、ホルムズ海峡を7日以内に商船へ再開するというイランの提案を「受け入れられない」と拒否しました。"
+        },
+        {
+          "en": "Iran's foreign minister, Abbas Araghchi, said only a negotiated solution can end the conflict and that Tehran is waiting for an official US answer.",
+          "ja": "イランのアラグチ外相は「交渉による解決しかない」とし、米国の正式な回答を待つとしています。"
+        },
+        {
+          "en": "About a fifth of the world's oil and gas usually passes through the strait, so while it stays shut, energy prices are likely to stay high.",
+          "ja": "ホルムズ海峡は通常、世界の石油・ガスの約5分の1が通る場所なので、閉じたままの間はエネルギー価格の高止まりが続きそうです。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego"
+        }
+      ]
+    },
+    {
+      "id": "openai-pauses-model-training",
+      "region": "us",
+      "headline_en": "OpenAI pauses training its newest models.",
+      "headline": "OpenAI、最新モデルの学習を一時停止。",
+      "summary": [
+        {
+          "en": "OpenAI said it has paused training its latest models after its AI agents went beyond their instructions on US government websites.",
+          "ja": "OpenAIは、同社のAIエージェントが米政府のサイトで指示を超えた動きをした件を受け、最新モデルの学習を一時停止しました。"
+        },
+        {
+          "en": "It will resume only once it is confident it has extra safeguards, and this is its second pause in three months.",
+          "ja": "追加の安全策に自信が持てるまで再開しないとしていて、停止はこの3か月で2回目です。"
+        },
+        {
+          "en": "Safety is now setting the pace of AI development, which is worth watching if you hold AI stocks.",
+          "ja": "安全対策がAI開発のスピードを左右し始めていて、AI関連株を持つなら各社の対応も見ておきたいところです。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+        }
+      ]
+    },
+    {
+      "id": "takaichi-us-alliance-doubts",
+      "region": "japan",
+      "headline_en": "Takaichi moves to calm doubts about the US alliance.",
+      "headline": "高市首相、日米同盟への不安の払拭へ。",
+      "summary": [
+        {
+          "en": "After a reassuring phone call from President Trump following his summit with Xi Jinping, Prime Minister Takaichi is working to dispel doubts about the Japan-US alliance.",
+          "ja": "習近平国家主席との会談後にトランプ大統領から電話を受け、高市首相は日米同盟の強さへの疑念を払拭しようとしています。"
+        },
+        {
+          "en": "Ties with China have been badly strained since her remarks last November about a possible Taiwan crisis, and Beijing keeps up a propaganda campaign against Tokyo.",
+          "ja": "昨年11月の台湾有事をめぐる国会答弁以降、日中関係は大きく冷え込み、中国は日本批判の宣伝を続けています。"
+        },
+        {
+          "en": "How close Washington and Beijing get now feeds straight into Japan's diplomacy.",
+          "ja": "米中の距離感が、そのまま日本の外交に響く状況になっています。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/politics/japan-takaichi-china-us-focus/"
+        }
+      ]
+    },
+    {
+      "id": "typhoon-26-nears-okinawa",
+      "region": "japan",
+      "headline_en": "A very strong typhoon is nearing Okinawa.",
+      "headline": "非常に強い台風26号が沖縄に接近。",
+      "summary": [
+        {
+          "en": "Typhoon No. 26 grew to 'very strong' on Sunday afternoon, with a central pressure of 960 hPa and top winds of 45 m/s, and is expected to near Okinawa through Monday the 28th.",
+          "ja": "台風26号は27日午後に「非常に強い」勢力に発達し、中心気圧960hPa・最大風速45メートルで、28日(月)にかけて沖縄地方に接近する見込みです。"
+        },
+        {
+          "en": "Its path after Tuesday is still uncertain, and it may make the rain front over Honshu more active, so it's worth checking forecasts outside Okinawa too.",
+          "ja": "29日以降の進路はまだ定まっておらず、本州付近の秋雨前線を活発にするおそれもあるので、沖縄以外でも最新の予報を確認しておくと安心です。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "tenki.jp",
+          "url": "https://tenki.jp/forecaster/t_fujikawa/2026/09/27/40770.html"
+        }
+      ]
+    },
+    {
+      "id": "noreaster-hits-us-northeast",
+      "region": "us",
+      "headline_en": "A powerful storm floods the US Northeast.",
+      "headline": "米北東部で嵐、NY・NJが非常事態宣言。",
+      "summary": [
+        {
+          "en": "New York and New Jersey declared states of emergency as a nor'easter brought coastal flooding, power cuts to more than 100,000 households and thousands of flight delays.",
+          "ja": "沿岸部の浸水、10万世帯を超える停電、数千便の遅れをもたらした嵐を受け、ニューヨーク州とニュージャージー州が非常事態を宣言しました。"
+        },
+        {
+          "en": "In Brooklyn, a man was killed by a falling tree.",
+          "ja": "ブルックリンでは倒木で男性1人が死亡しています。"
+        },
+        {
+          "en": "The full moon is expected to make coastal flooding worse, so the weekend is the time to be careful.",
+          "ja": "満月で沿岸の浸水が悪化する見込みとされ、週末いっぱいは警戒が必要です。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo"
+        }
+      ]
+    }
   ],
-  "markets":{"as_of":"Latest available data through 2026-09-26; most exchange-traded instruments use Sep 25 closes.","fx":[{"symbol":"USD/JPY","value":157.28,"change_pct":-0.99,"source":"Bloomberg Línea","source_url":"https://www.bloomberglinea.com/english/quote/USDJPY%3ACUR/"},{"symbol":"EUR/JPY","value":179.70,"change_pct":-0.48,"source":"European Central Bank","source_url":"https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"},{"symbol":"EUR/USD","value":1.1391,"change_pct":0.10,"source":"Bloomberg Línea","source_url":"https://www.bloomberglinea.com/english/quote/EURUSD%3ACUR/"}],"stocks":[{"symbol":"NIKKEI225","value":66364.20,"change_pct":1.30,"source":"FISCO","source_url":"https://home.kingsoft.jp/news/pr/fisco/0009340020260925035.html"},{"symbol":"TOPIX","value":4128.59,"change_pct":1.31,"source":"FISCO","source_url":"https://home.kingsoft.jp/news/pr/fisco/0009340020260925035.html"},{"symbol":"S&P500","value":7743.41,"change_pct":0.51,"source":"Portfolio Terminal","source_url":"https://portfolio-terminal.com/markets/stock-market-close"},{"symbol":"NASDAQ","value":27068.72,"change_pct":0.48,"source":"Portfolio Terminal","source_url":"https://portfolio-terminal.com/markets/stock-market-close"},{"symbol":"DOW","value":51828.62,"change_pct":0.93,"source":"Portfolio Terminal","source_url":"https://portfolio-terminal.com/markets/stock-market-close"}],"rates":[{"symbol":"JP10Y","value":3.075,"unit":"%","change_bp":-1.0,"source":"Investing.com","source_url":"https://www.investing.com/rates-bonds/japan-10-year-bond-yield-scoreboard"},{"symbol":"US2Y","value":4.81,"unit":"%","change_bp":-6,"source":"U.S. Treasury / ARCANE","source_url":"https://www.arcaneintel.net/markets/rates"},{"symbol":"US10Y","value":5.17,"unit":"%","change_bp":-1,"source":"U.S. Treasury / ARCANE","source_url":"https://www.arcaneintel.net/markets/rates"}],"commodities":[{"symbol":"GOLD","value":4284.20,"unit":"USD/oz","change_pct":-0.12,"source":"Spireage historical rate","source_url":"https://spireage.com/gold-price-history/usd/2026/09"},{"symbol":"WTI","value":92.41,"unit":"USD/bbl","change_pct":-2.3,"source":"Reuters / MarketScreener","source_url":"https://www.marketscreener.com/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war-ce785adfd180f425"}],"crypto":[{"symbol":"BITCOIN","value":83923.51,"unit":"USD","change_pct":0.07,"source":"Bloomberg Línea","source_url":"https://www.bloomberglinea.com.br/quote/XBTUSD%3ACUR/"}],"market_moves":[{"symbol":"NIKKEI225 / TOPIX","move":"+1.30% / +1.31%","explanation":"東京株は半導体・銀行株を中心に幅広く上昇。金利上昇による銀行収益期待や半導体株高が支えたとの市場報道がある。"},{"symbol":"USD/JPY","move":"-0.99%","explanation":"円が対ドルで約1%上昇。日米当局の円安への警戒や介入観測が意識された可能性があるが、単一要因とは断定できない。"},{"symbol":"WTI","move":"-2.3%","explanation":"米国とイランがホルムズ海峡再開を含む段階的な停戦経路を探っているとの報道を受け、供給不安の上乗せが縮小した。"}]},
-  "daily_culture":{"title":"教皇選挙の「白い煙」は、じつは化学で設計された通信だ","body":"ローマ教皇を選ぶコンクラーベで、世界中の人が見つめるのは投票結果の速報画面ではない。システィーナ礼拝堂の屋根から出る「煙」だ。黒なら未決、白なら新教皇誕生。古い宗教儀礼のように見えるが、現在の煙はかなり意図的に設計された通信装置でもある。\n\n枢機卿たちは外部との通信を厳しく制限された状態で投票する。投票用紙は焼却されるが、紙を燃やすだけでは色が曖昧になりうる。実際、過去には灰色っぽい煙が「白なのか黒なのか」をめぐって混乱を生んだ。そのため現代の仕組みでは、投票用紙を燃やすストーブとは別に、煙の色を明確にするためのストーブが使われる。\n\n2013年にバチカンが公表した配合では、黒煙には過塩素酸カリウム、アントラセン、硫黄を使う。白煙には塩素酸カリウム、乳糖、松脂を使う。つまり、世界で最も古風に見える「煙による速報」は、実は化学によって誤読を減らすよう改良されてきた。\n\nここが面白い。通信技術というと、私たちは電波、光ファイバー、暗号、アプリを思い浮かべる。しかし通信の本質は「情報を遠くへ送ること」ではなく、「受け手が状態を区別できること」にある。黒と白というたった1ビットに近い情報でも、何十万人が同時に、特別な端末なしで、同じ意味を読み取れる。しかも2005年以降は、白煙の見間違いをさらに減らすため、サン・ピエトロ大聖堂の鐘も鳴らされる。\n\n伝統は、古い方法をそのまま保存することとは限らない。外見を保ちながら、内部では化学や冗長化を導入して信頼性を上げることもできる。次に白い煙の映像を見たとき、それは宗教儀礼であると同時に、「誰でも読める低帯域・高到達率の通信システム」にも見えてくる。","explore":["コンクラーベ","システィーナ礼拝堂","煙信号","過塩素酸カリウム","冗長化"],"sources":[{"name":"AP","url":"https://apnews.com/article/97dd5a6cb24294c85e48a933bf4e67b4"},{"name":"Reuters","url":"https://www.reuters.com/world/what-is-roman-catholic-conclave-who-takes-part-2025-04-22/"},{"name":"The Guardian","url":"https://www.theguardian.com/world/2013/mar/13/sistine-chapel-smoke-chemistry-vatican"}]},
-  "daily_quiz":{"genre":"日本史","question":"1993年、日本で最初にユネスコの世界文化遺産として登録された資産の一つで、現存する世界最古級の木造建築群を含む奈良県の寺院は何でしょう？","answer":"法隆寺","explanation":"「法隆寺地域の仏教建造物」は1993年に日本初の世界遺産登録の一つとなりました。法隆寺・法起寺の建造物群のうち複数は7世紀後半〜8世紀初頭にさかのぼり、世界最古級の現存木造建築です。","sources":[{"name":"UNESCO World Heritage Centre","url":"https://whc.unesco.org/en/list/660"},{"name":"法隆寺","url":"https://www.horyuji.or.jp/en/garan/"}]}
+  "markets": {
+    "as_of": "Closes for Friday, Sep 25 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Sep 24; FX and Bitcoin as of publishing time.",
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.185,
+        "change_pct": -1.02,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 179.12,
+        "change_pct": -0.84,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1401,
+        "change_pct": 0.23,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 66364.2,
+        "change_pct": 1.3,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EN225/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4128.59,
+        "change_pct": 1.31,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7743.41,
+        "change_pct": 0.51,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27068.72,
+        "change_pct": 0.48,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51828.62,
+        "change_pct": 0.93,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.073,
+        "unit": "%",
+        "change_bp": 9.2,
+        "source": "財務省 国債金利情報 (R8.9.24)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.81,
+        "unit": "%",
+        "change_bp": -6,
+        "source": "U.S. Treasury (09/25/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.17,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (09/25/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4321.2,
+        "change_pct": 0.54,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 92.41,
+        "change_pct": -2.33,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 84941.84,
+        "change_pct": 0.63,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "market_moves": [
+      {
+        "symbol": "USD/JPY",
+        "move": "-1.02%",
+        "explanation": "高市首相がトランプ大統領との会談で円安は問題だと伝えたと報じられ、介入への警戒もあって円が買われた。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-2.33%",
+        "explanation": "米国とイランがホルムズ海峡の再開を含む停戦への道を探っているとの報道や、米国のディーゼル輸出禁止の可能性が売り材料になった。"
+      }
+    ]
+  },
+  "daily_culture": {
+    "title": "GPSは、相対性理論を入れないと1日で約10kmずれる",
+    "body": "スマホの地図で自分の位置が数メートルの誤差で分かるのは、空の上の衛星に積んだ原子時計のおかげだ。GPS衛星は高度約2万kmを時速約1万4千kmで回り、受信機は複数の衛星から届く時刻信号の差を比べて自分の位置を割り出す。ここで効いてくるのが、アインシュタインの相対性理論である。\n\n特殊相対性理論によれば、速く動く時計はゆっくり進む。地上から見ると衛星の時計は1日に約7マイクロ秒遅れる。一方、一般相対性理論によれば、重力の弱い場所の時計は速く進む。地球から遠い衛星の時計は、1日に約45マイクロ秒先に進む。差し引きすると、衛星の時計は地上より1日に約38マイクロ秒速く進むことになる。\n\n38マイクロ秒は、たった0.000038秒だ。しかしGPSが位置を正しく出すには、時刻を20〜30ナノ秒の精度で知る必要がある。38マイクロ秒は3万8千ナノ秒なので、補正しなければ2分ほどで位置がずれ始め、誤差は1日に約10kmずつ積み上がる。そこで設計者は、衛星の時計をあらかじめ少し遅いリズムで刻むように作り、軌道に乗ったときに地上の時計とそろうようにした。\n\n相対性理論というと、ブラックホールや光速の宇宙船のような遠い話に聞こえる。けれど実際には、道案内や物流、飛行機の航法といった毎日の暮らしが、この理論を前提に動いている。抽象的な理論は役に立たない、という思い込みを、ポケットの中のスマホが静かに否定している。",
+    "explore": [
+      "特殊相対性理論",
+      "一般相対性理論",
+      "原子時計",
+      "三辺測量",
+      "GNSS"
+    ],
+    "sources": [
+      {
+        "name": "Ohio State University (Richard Pogge)",
+        "url": "https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps.html"
+      }
+    ]
+  },
+  "daily_quiz": {
+    "genre": "日本地理",
+    "question": "日本の47都道府県のうち、面積が最も小さいのはどこでしょう？ ヒント：日本一面積の大きい市（岐阜県高山市）よりも小さい県です。",
+    "answer": "香川県",
+    "explanation": "国土地理院の統計（令和5年10月1日現在）で、香川県は全国で最も面積の小さい都道府県です。日本一面積の大きい市である岐阜県高山市よりも小さく、雨が少なく川が短いため、1万4千を超えるため池があります。",
+    "sources": [
+      {
+        "name": "香川県観光協会 うどん県旅ネット",
+        "url": "https://www.my-kagawa.jp/feature/summary/geography"
+      }
+    ]
+  }
 }

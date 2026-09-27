@@ -61,7 +61,7 @@
 3. `registry/quiz.json` の `items` の末尾に `{date, genre, question, answer, fact_key, answer_key, entities}` を追加
 4. `newspaper/latest.json` を `{schemaVersion: 1, date: DATE, path: "newspaper/DATE.json", published_at: "<今の時刻 +09:00>"}` に更新
 
-JSON は UTF-8、2スペースインデント、日本語はエスケープしない。registry は既存の項目の書き方を崩さず、末尾に1件足すだけにする（ファイル全体を整形し直さない）。
+JSON は UTF-8、2スペースインデント、日本語はエスケープしない。registry への追加は `python3 scripts/registry_add.py culture|quiz ENTRY.json` を使う（同じ日付があれば置き換え、書き方は既存のまま）。
 
 ## 6. 検証
 
