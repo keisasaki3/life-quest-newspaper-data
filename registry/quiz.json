@@ -12,12 +12,12 @@
     },
     {
       "date": "2026-09-27",
-      "genre": "日本史",
-      "question": "1993年、日本で最初にユネスコの世界文化遺産として登録された資産の一つで、現存する世界最古級の木造建築群を含む奈良県の寺院は何でしょう？",
-      "answer": "法隆寺",
-      "fact_key": "japan_first_world_heritage_horyuji_oldest_wooden_buildings",
-      "answer_key": "horyuji",
-      "entities": ["法隆寺", "法隆寺地域の仏教建造物", "世界遺産"]
+      "genre": "日本地理",
+      "question": "日本の47都道府県のうち、面積が最も小さいのはどこでしょう？ ヒント：日本一面積の大きい市（岐阜県高山市）よりも小さい県です。",
+      "answer": "香川県",
+      "fact_key": "smallest_prefecture_by_area_kagawa",
+      "answer_key": "kagawa",
+      "entities": ["香川県", "高山市", "都道府県の面積"]
     }
   ]
 }

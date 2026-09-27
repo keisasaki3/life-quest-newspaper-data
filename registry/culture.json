@@ -11,11 +11,11 @@
     },
     {
       "date": "2026-09-27",
-      "title": "教皇選挙の「白い煙」は、じつは化学で設計された通信だ",
-      "topic_key": "papal_conclave_smoke_signal_chemistry",
-      "angle_key": "traditional_ritual_as_engineered_low_bandwidth_communication",
-      "entities": ["コンクラーベ", "システィーナ礼拝堂", "白煙", "黒煙", "煙信号"],
-      "knowledge_claims": ["コンクラーベでは黒煙が未決、白煙が教皇選出を示す", "現代の仕組みでは投票用紙用と発煙用の2つのストーブを使う", "黒煙と白煙は異なる化学混合物で明瞭化される", "2005年以降は白煙に加えて鐘も教皇選出を知らせる"]
+      "title": "GPSは、相対性理論を入れないと1日で約10kmずれる",
+      "topic_key": "gps_relativistic_clock_correction",
+      "angle_key": "abstract_theory_required_for_everyday_navigation",
+      "entities": ["GPS", "特殊相対性理論", "一般相対性理論", "原子時計"],
+      "knowledge_claims": ["GPS衛星の時計は特殊相対論で1日約7マイクロ秒遅れる", "一般相対論で1日約45マイクロ秒進む", "差し引き1日約38マイクロ秒進み、補正しないと1日約10kmの誤差がたまる", "衛星の時計はあらかじめ遅いリズムに調整されている"]
     }
   ]
 }
