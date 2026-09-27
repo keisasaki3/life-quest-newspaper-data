@@ -17,7 +17,7 @@
 
 ## Publish flow
 
-1. Generate and verify the daily issue.
+1. Generate and verify the daily issue. NEWS follows [STYLE.md](STYLE.md).
 2. Write `newspaper/YYYY-MM-DD.json`.
 3. Update `registry/culture.json`.
 4. Update `registry/quiz.json`.
@@ -46,6 +46,6 @@ Top-level fields:
 - `daily_culture`
 - `daily_quiz`
 
-NEWS article fields include sentence-paired Japanese/English summaries, background, why-it-matters, and sources.
+NEWS article fields include `headline_en` / `headline`, sentence-paired English/Japanese summaries, sources, and optional background / why-it-matters. How to write them: [STYLE.md](STYLE.md).
 
 DAILY CULTURE and DAILY QUIZ contain registry metadata used to prevent semantic repetition across past issues.
