@@ -9,11 +9,18 @@
 - `STYLE.md`、`newspaper/latest.json`、直近2日分の `newspaper/*.json`、`registry/culture.json`、`registry/quiz.json` を読む。
 - `newspaper/DATE.json` がもう `main` にあれば、何もせず終わる（二重発行しない）。
 
+## 道具
+
+- 市場データ：`python3 scripts/fetch_markets.py` が MARKETS の数値（Yahoo Finance、株探のTOPIX、米財務省、財務省の国債金利）をまとめて出す。`missing` に出たものは手で確かめるか外す。
+- 記事本文：`python3 scripts/fetch_text.py URL`、見出し一覧：`python3 scripts/fetch_text.py --rss URL`。WebFetch は開けないサイトが多いので、こちらを使う。
+- 見出し集め：BBC（`https://feeds.bbci.co.uk/news/world/rss.xml`、`/business/`、`/technology/`）、The Japan Times（`https://www.japantimes.co.jp/feed/`）、Google News（`https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en`、日本語は `hl=ja&gl=JP&ceid=JP:ja`）。Google News のリンクは開けないので、見つけた記事は発行元のサイトで探して開く。WebSearch も使ってよい。
+- Reuters・AP・Bloomberg・NYT・WSJ・FT・朝日・毎日などはボット対策で本文を開けない。BBC、The Guardian、Al Jazeera、NPR、CNN、DW、The Japan Times、Nikkei Asia、共同（英語）、NHK WORLD、時事、読売、tenki.jp、官公庁のサイトは開ける。開けない出典は `sources` に使わない。
+
 ## 1. NEWS（5本前後）
 
 - 対象は日本時間で前日朝〜今朝のニュース。世界・日本・米国を中心に、大事な順に5本前後。
 - Web検索で候補を集め、記事本文を開いて事実を確かめる。見出しや検索結果の要約だけで書かない。
-- 出典は Reuters、AP、NHK、日経、Bloomberg、BBC、共同、各国政府・中央銀行など一次に近いものを優先。`sources[0]` に主な出典を1つ。
+- 出典は本文を開いて確かめた記事だけ。一次に近いもの（政府・中央銀行・気象庁など）や大手の報道を優先。`sources[0]` に主な出典を1つ。
 - 前日の号と同じ話題は、新しい展開があるときだけ。
 - 書き方は `STYLE.md` のとおり（英日両方、ひとこと見出し、事実→最後の文が解説、出典）。日本の記事は `region: "japan"`（アプリが🇯🇵を付ける）。
 - `background` / `why_it_matters` は任意。書くなら日本語で1〜2文。
@@ -54,7 +61,7 @@
 3. `registry/quiz.json` の `items` の末尾に `{date, genre, question, answer, fact_key, answer_key, entities}` を追加
 4. `newspaper/latest.json` を `{schemaVersion: 1, date: DATE, path: "newspaper/DATE.json", published_at: "<今の時刻 +09:00>"}` に更新
 
-JSON は UTF-8、2スペースインデント、日本語はエスケープしない。
+JSON は UTF-8、2スペースインデント、日本語はエスケープしない。registry は既存の項目の書き方を崩さず、末尾に1件足すだけにする（ファイル全体を整形し直さない）。
 
 ## 6. 検証
 
