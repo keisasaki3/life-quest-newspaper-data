@@ -27,6 +27,15 @@
       "fact_key": "only_metal_liquid_at_room_temperature_mercury",
       "answer_key": "mercury",
       "entities": ["水銀", "融点", "ガリウム", "セシウム"]
+    },
+    {
+      "date": "2026-09-29",
+      "genre": "生物",
+      "question": "首の長いキリンの首の骨（頸椎）はいくつでしょう？",
+      "answer": "7個",
+      "fact_key": "giraffe_has_seven_cervical_vertebrae",
+      "answer_key": "7",
+      "entities": ["キリン", "頸椎", "哺乳類"]
     }
   ]
 }

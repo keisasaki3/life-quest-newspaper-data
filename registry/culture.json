@@ -24,6 +24,14 @@
       "angle_key": "global_word_born_from_newspaper_in_joke",
       "entities": ["OK", "ボストン・モーニング・ポスト", "アレン・ウォーカー・リード", "Old Kinderhook"],
       "knowledge_claims": ["OKは1839年のボストン・モーニング・ポストで oll korrect の略として登場した", "当時は綴りを崩した頭字語の流行があった", "1840年の大統領選でヴァン・ビューレンの愛称Old KinderhookとOKクラブが広めた", "1960年代にアレン・ウォーカー・リードが語源を突き止めた"]
+    },
+    {
+      "date": "2026-09-29",
+      "title": "1時間が60分なのは、4000年前のバビロニアの数え方のなごり",
+      "topic_key": "sexagesimal_origin_of_hours_minutes_seconds",
+      "angle_key": "clock_units_inherited_from_ancient_astronomy",
+      "entities": ["60進法", "バビロニア", "古代エジプト", "ヒッパルコス", "プトレマイオス"],
+      "knowledge_claims": ["エジプトの日時計は昼を12に分けた", "夜も星で12に分け、24時間の1日になった", "60進法はバビロニア人がシュメール人から受け継いだ", "分と秒はプトレマイオスによる角度の分割に由来する", "分を表示する時計は16世紀末ごろに現れた"]
     }
   ]
 }

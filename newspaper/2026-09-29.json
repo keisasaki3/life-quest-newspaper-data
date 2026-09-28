@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-09-29T05:23:58+09:00",
+  "news": [
+    {
+      "id": "typhoon-26-kanto",
+      "region": "japan",
+      "headline_en": "Typhoon No. 26 may reach Kanto on Thursday.",
+      "headline": "台風26号、木曜ごろ関東に接近のおそれ。",
+      "summary": [
+        {
+          "en": "Typhoon Surigae, the year's 26th named storm, was moving near Okinawa and the Amami islands on Monday, and the US military's typhoon center upgraded it to a super typhoon.",
+          "ja": "台風26号は28日、沖縄・奄美の近くを進み、米軍の台風警報センターは「スーパー台風」に引き上げました。"
+        },
+        {
+          "en": "It is forecast to approach the Izu Islands and could make landfall in the Tokai and Kanto regions around Thursday, likely weakened to a severe tropical storm.",
+          "ja": "伊豆諸島に近づき、木曜ごろ東海・関東に上陸するおそれがあり、そのころには勢力を落としている見込みです。"
+        },
+        {
+          "en": "Kanto is still recovering from last week's Typhoon Dujuan, so even a weaker storm could hit hard.",
+          "ja": "関東は先週の台風の被害から立ち直りきっておらず、弱まっても油断はできません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+        }
+      ]
+    },
+    {
+      "id": "typhon-missile-kadena",
+      "region": "japan",
+      "headline_en": "US Typhon missile system to stay at Kadena.",
+      "headline": "米ミサイル「タイフォン」、嘉手納に保管へ。",
+      "summary": [
+        {
+          "en": "The US Typhon midrange missile system, brought to Japan for joint drills with the Self-Defense Forces, will be stored at Kadena Air Base in Okinawa indefinitely from mid-October, the Okinawa Defense Bureau said.",
+          "ja": "自衛隊との共同訓練のため日本に持ち込まれた米軍の中距離ミサイル「タイフォン」が、10月中旬から沖縄の嘉手納基地に期限なしで保管されると、沖縄防衛局が明らかにしました。"
+        },
+        {
+          "en": "It is believed able to fire Tomahawk cruise missiles as far as 1,600 km, putting parts of China and Russia within reach.",
+          "ja": "射程約1600kmのトマホークを撃てるとされ、中国やロシアの一部が射程に入ります。"
+        },
+        {
+          "en": "A weapon that came only for drills is now staying, which quietly changes the security picture around Okinawa.",
+          "ja": "訓練のためだけに来た兵器が居続けることで、沖縄をめぐる安全保障の形が静かに変わります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/us-typhon-missile-japan-storage-okinawa/"
+        }
+      ]
+    },
+    {
+      "id": "japan-intelligence-panel",
+      "region": "japan",
+      "headline_en": "Takaichi starts a panel on a Japanese CIA.",
+      "headline": "高市首相、情報機関づくりへ有識者会議。",
+      "summary": [
+        {
+          "en": "Japan held the first meeting of a 17-member expert panel on building national intelligence-gathering capabilities and anti-espionage measures.",
+          "ja": "政府は、情報収集の力とスパイ対策を強めるための17人の有識者会議を初めて開きました。"
+        },
+        {
+          "en": "Prime Minister Sanae Takaichi said strengthening Japan's intelligence capabilities is an urgent priority, pointing to growing geopolitical challenges.",
+          "ja": "高市首相は、国際情勢の厳しさを挙げ、情報力の強化は急務だと述べました。"
+        },
+        {
+          "en": "How to balance a stronger spy agency with privacy and oversight will be the key question.",
+          "ja": "強い情報機関とプライバシーや監視の仕組みをどう両立させるかが焦点になります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/takaichi-intelligence-panel/"
+        }
+      ]
+    },
+    {
+      "id": "us-china-tariff-lists",
+      "region": "world",
+      "headline_en": "US and China list goods for tariff cuts.",
+      "headline": "米中、関税引き下げ品目を公表。",
+      "summary": [
+        {
+          "en": "The US and China published plans to cut tariffs on about $30 billion of imports from each other, following the Trump–Xi summit.",
+          "ja": "米国と中国は、首脳会談を受けて、互いに約300億ドル分の輸入品の関税を下げる計画を公表しました。"
+        },
+        {
+          "en": "The US list has 77 entries such as fireworks, toys and sporting goods, while China's has 1,619, including meat, seafood, grains and medical equipment.",
+          "ja": "米国側は花火やおもちゃ、スポーツ用品など77品目、中国側は肉や水産物、穀物、医療機器など1619品目です。"
+        },
+        {
+          "en": "It's small next to total trade, but it's the most concrete sign so far that the two are steadying ties.",
+          "ja": "貿易全体から見れば小さいですが、米中関係の安定を示す一番具体的な成果です。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/09/28/us-china-products-30-billion-tariff/"
+        }
+      ]
+    },
+    {
+      "id": "trump-arms-offer-xi",
+      "region": "us",
+      "headline_en": "Trump offered to sell weapons to Xi.",
+      "headline": "トランプ氏、習氏に武器の購入を持ちかけ。",
+      "summary": [
+        {
+          "en": "President Trump once asked Chinese leader Xi Jinping whether he would like to buy American weapons, US Ambassador to China David Perdue said on Fox News Sunday.",
+          "ja": "トランプ大統領が習近平国家主席に米国製兵器を買わないかと持ちかけたことがあると、パーデュー駐中国大使がテレビで明らかにしました。"
+        },
+        {
+          "en": "He did not say when the offer was made or whether Xi responded.",
+          "ja": "いつの話か、習氏がどう答えたかは明かしていません。"
+        },
+        {
+          "en": "For Japan and other US allies, it adds to the uncertainty over where Washington's China policy is heading.",
+          "ja": "日本など同盟国にとっては、米国の対中政策の行方がさらに読みにくくなります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/28/asia-pacific/politics/trump-sell-weapons-china/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "as_of": "Closes for Monday, Sep 28 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Sep 25; FX and Bitcoin as of publishing time on Tuesday morning.",
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.374,
+        "change_pct": -0.06,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 178.95,
+        "change_pct": -0.12,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1374,
+        "change_pct": -0.04,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 65877.62,
+        "change_pct": -0.73,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4112.0,
+        "change_pct": -0.4,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7683.69,
+        "change_pct": -0.77,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26820.38,
+        "change_pct": -0.92,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51481.51,
+        "change_pct": -0.67,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.071,
+        "unit": "%",
+        "change_bp": -0.2,
+        "source": "財務省 国債金利情報 (R8.9.25)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.92,
+        "unit": "%",
+        "change_bp": 11,
+        "source": "U.S. Treasury (09/28/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.24,
+        "unit": "%",
+        "change_bp": 7,
+        "source": "U.S. Treasury (09/28/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4151.8,
+        "change_pct": -3.92,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 92.91,
+        "change_pct": 0.54,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 83494.66,
+        "change_pct": -1.14,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "market_moves": [
+      {
+        "symbol": "GOLD",
+        "move": "-3.92%",
+        "explanation": "トランプ大統領がイランのホルムズ海峡再開案を拒否して原油が上がり、インフレ懸念から10月の米利上げ観測（約70%）が強まった。金利とドルの上昇で、利子の付かない金が売られ、8月5日以来の安値になった。"
+      },
+      {
+        "symbol": "US2Y",
+        "move": "+11bp",
+        "explanation": "原油高で10月の追加利上げを見込む動きが強まり、利上げに敏感な2年債の利回りが大きく上がった。10年債も5.2%台に戻った。"
+      }
+    ]
+  },
+  "daily_culture": {
+    "title": "1時間が60分なのは、4000年前のバビロニアの数え方のなごり",
+    "body": "時計の文字盤を見ると、1日は24時間、1時間は60分、1分は60秒。10進法で暮らしているのに、時間だけは12や60で区切られている。この不思議な数字は、古代エジプトとバビロニアから4000年近く受け継がれてきたものだ。\n\n1日を細かく分けたのは、日時計を使った古代エジプト人だとされる。紀元前1500年ごろには、日の出から日の入りまでを12に分ける日時計があった。夜も、決まった星の出を目印に12に分けた。昼の12と夜の12を合わせて、24時間の1日ができあがった。ただし当時の1時間は季節で長さが変わり、夏の昼の1時間は冬よりずっと長かった。\n\n60の方はバビロニアから来ている。バビロニア人は、シュメール人から受け継いだ60進法で天文の計算をしていた。60は1から6までのどの数でも割り切れ、10、12、15、20、30でも割れる。分数を扱うのにとても便利な数だ。\n\nこの60進法で円を分けたのがギリシャの天文学者たちだ。ヒッパルコスは経度を360度に分け、プトレマイオスは1度をさらに60に、それをまた60に分けた。ラテン語で「最初の小さな部分」が分（minute）、「2番目の小さな部分」が秒（second）の語源になった。つまり分と秒は、もともと時間ではなく角度の単位だった。\n\n時計に「分」の針が付いたのは16世紀の終わりごろで、それまで人々は1時間を60に分けて考えることはなかった。今では秒はセシウム原子の振動で決められているが、数え方は古代のまま残っている。毎日何気なく見ている時計の針は、4000年前の計算の道具をいまも回している。",
+    "explore": [
+      "60進法",
+      "シュメール",
+      "ヒッパルコス",
+      "プトレマイオス",
+      "日時計"
+    ],
+    "sources": [
+      {
+        "name": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/"
+      }
+    ]
+  },
+  "daily_quiz": {
+    "genre": "生物",
+    "question": "首の長いキリンの首の骨（頸椎）はいくつでしょう？",
+    "answer": "7個",
+    "explanation": "キリンの首の骨は、人間と同じ7個です。数は同じでも、1つ1つが最大で約25cmもあり、骨が長いことで首が長くなっています。",
+    "sources": [
+      {
+        "name": "Cleveland Zoological Society",
+        "url": "https://www.clevelandzoosociety.org/z/2021/03/02/truth-or-tail-giraffe-have-more-neck-bones-than-a-human"
+      }
+    ]
+  }
+}
