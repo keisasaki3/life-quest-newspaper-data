@@ -32,6 +32,14 @@
       "angle_key": "clock_units_inherited_from_ancient_astronomy",
       "entities": ["60進法", "バビロニア", "古代エジプト", "ヒッパルコス", "プトレマイオス"],
       "knowledge_claims": ["エジプトの日時計は昼を12に分けた", "夜も星で12に分け、24時間の1日になった", "60進法はバビロニア人がシュメール人から受け継いだ", "分と秒はプトレマイオスによる角度の分割に由来する", "分を表示する時計は16世紀末ごろに現れた"]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "東日本は50Hz、西日本は60Hz。電気の周波数が分かれた理由",
+      "topic_key": "japan_50hz_60hz_frequency_split",
+      "angle_key": "first_generator_purchase_locks_in_standard",
+      "entities": ["AEG", "ゼネラル・エレクトリック", "ウェスティングハウス", "周波数変換所"],
+      "knowledge_claims": ["日本は東が50Hz、西が60Hz", "1895年に東京へAEG、1896年に大阪へGEの発電機が入った", "AEGは1891年に50Hzを標準にした", "境目に4か所の周波数変換所がある"]
     }
   ]
 }

@@ -36,6 +36,15 @@
       "fact_key": "giraffe_has_seven_cervical_vertebrae",
       "answer_key": "7",
       "entities": ["キリン", "頸椎", "哺乳類"]
+    },
+    {
+      "date": "2026-09-30",
+      "genre": "世界地理",
+      "question": "面積が世界で一番小さい国はどこでしょう？",
+      "answer": "バチカン市国",
+      "fact_key": "smallest_country_by_area_vatican",
+      "answer_key": "vatican_city",
+      "entities": ["バチカン市国", "ローマ", "ローマ教皇"]
     }
   ]
 }
