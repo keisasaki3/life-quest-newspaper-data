@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-30",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-09-30T05:23:28+09:00",
+  "news": [
+    {
+      "id": "tokyo-rain-record",
+      "region": "japan",
+      "headline_en": "Tokyo sets a record with 34 straight rainy days.",
+      "headline": "東京、34日連続の雨で観測史上最長。",
+      "summary": [
+        {
+          "en": "Central Tokyo recorded rain for the 34th day in a row on Tuesday, breaking the 33-day record set in 2019, according to the Japan Meteorological Agency.",
+          "ja": "気象庁によると、東京都心は29日で34日連続の雨となり、2019年の33日を抜いて観測史上最長になりました。"
+        },
+        {
+          "en": "The streak began on Aug. 27, and over the past month central Tokyo got only 46.8 hours of sunshine, 36% of the usual amount.",
+          "ja": "連続記録は8月27日から続いていて、この1か月の日照時間は46.8時間と、平年の36%しかありません。"
+        },
+        {
+          "en": "With rain forecast for Wednesday and Thursday and Typhoon No. 26 nearing Kanto, the streak and the risk of more damage may both grow.",
+          "ja": "水・木曜も雨の予報で台風26号も関東に近づくため、記録が延びるとともに、被害の広がりにも注意が必要です。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/29/japan/tokyo-new-record-rainfall/"
+        }
+      ]
+    },
+    {
+      "id": "japan-census-population",
+      "region": "japan",
+      "headline_en": "Japan's population fell 2.5% in five years.",
+      "headline": "日本の人口、5年で2.5%減。",
+      "summary": [
+        {
+          "en": "Japan's population, including foreign residents, was 122.9 million as of Oct. 1, 2025, down 3.17 million from five years earlier, the national census showed.",
+          "ja": "国勢調査によると、外国人を含む日本の人口は2025年10月1日時点で1億2290万人で、5年前より317万人減りました。"
+        },
+        {
+          "en": "Japanese nationals fell 3.5%, while foreign residents rose 39.8% to a record 3.84 million, and Tokyo was the only prefecture to grow.",
+          "ja": "日本人は3.5%減る一方、外国人は39.8%増えて過去最多の384万人となり、人口が増えたのは東京都だけでした。"
+        },
+        {
+          "en": "Even the areas around Tokyo have started shrinking, so population decline is now everyone's issue, not just rural areas'.",
+          "ja": "首都圏の周辺県まで減少に転じ、人口減は地方だけの問題ではなくなっています。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/29/japan/society/japan-population-fall/"
+        }
+      ]
+    },
+    {
+      "id": "october-price-changes",
+      "region": "japan",
+      "headline_en": "Many prices change in Japan from Thursday.",
+      "headline": "10月から値上げ、ビールは値下げ。",
+      "summary": [
+        {
+          "en": "From Thursday, Japan unifies its tax on beer-type drinks, cutting the tax on beer by about ¥9 per 350 ml can and raising it on happoshu and third-segment beer by about ¥7.",
+          "ja": "1日からビール類の酒税が一本化され、350ml缶あたりビールは約9円の減税、発泡酒や第3のビールは約7円の増税になります。"
+        },
+        {
+          "en": "Prices of 3,033 food and drink items will rise in October, and Yu-Pack delivery fees and Metropolitan Expressway tolls also go up.",
+          "ja": "10月は食品・飲料3033品目が値上がりし、ゆうパックの料金や首都高の通行料も上がります。"
+        },
+        {
+          "en": "Beer gets a little cheaper, but most daily costs keep rising, so households will likely feel more pressure overall.",
+          "ja": "ビールは少し安くなりますが、暮らしの費用全体では負担が増えそうです。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/09/29/october-price-hikes/"
+        }
+      ]
+    },
+    {
+      "id": "trump-no-ai-venture-china",
+      "region": "us",
+      "headline_en": "Trump rules out an AI venture with China.",
+      "headline": "トランプ氏、中国とのAI共同開発を否定。",
+      "summary": [
+        {
+          "en": "President Trump ruled out any joint venture with China on artificial intelligence, saying it would mean giving away American secrets.",
+          "ja": "トランプ大統領は、中国とのAIの共同開発は米国の秘密を渡すことになるとして、否定しました。"
+        },
+        {
+          "en": "After Xi's visit last week, the two sides did launch an AI dialogue with more talks in November and a channel to handle AI-related incidents.",
+          "ja": "先週の習主席の訪米後、両国はAIに関する対話を始め、11月に次の協議を予定し、AIをめぐる事故に備えた連絡の窓口も設けています。"
+        },
+        {
+          "en": "The two will talk about AI, but they won't build it together, so the race stays a race.",
+          "ja": "話し合いはしても一緒には作らず、AIの競争はこれからも続きます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo"
+        }
+      ]
+    },
+    {
+      "id": "morocco-female-pm",
+      "region": "world",
+      "headline_en": "Morocco names its first female prime minister.",
+      "headline": "モロッコで初の女性首相。",
+      "summary": [
+        {
+          "en": "King Mohammed VI named Fatima Zahra El Mansouri as prime minister after her centrist party won the most seats in last week's parliamentary elections.",
+          "ja": "モロッコのムハンマド6世国王は、先週の議会選で最多議席をとった中道政党のファーティマ・ザハラー・マンスーリー氏を首相に任命しました。"
+        },
+        {
+          "en": "She is only the second woman to lead a government in the Arab world, after Tunisia's Najla Bouden, and has been mayor of Marrakesh.",
+          "ja": "アラブ世界で政府を率いる女性はチュニジアのブーデン氏に次いで2人目で、マラケシュ市長を務めてきました。"
+        },
+        {
+          "en": "Most power still lies with the king, so how much she can change will be watched closely.",
+          "ja": "ただ実権の多くは国王にあり、どこまで変えられるかが注目されます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "as_of": "Closes for Tuesday, Sep 29 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Sep 28; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.367,
+        "change_pct": 0.0,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 178.39,
+        "change_pct": -0.3,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1338,
+        "change_pct": -0.31,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 65481.27,
+        "change_pct": -0.6,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4041.13,
+        "change_pct": -1.72,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7670.84,
+        "change_pct": -0.17,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26797.54,
+        "change_pct": -0.09,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51349.92,
+        "change_pct": -0.26,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.082,
+        "unit": "%",
+        "change_bp": 1.1,
+        "source": "財務省 国債金利情報 (R8.9.28)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.89,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (09/29/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.26,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (09/29/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4205.7,
+        "change_pct": 0.89,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 89.13,
+        "change_pct": -3.75,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 83598.53,
+        "change_pct": 0.11,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "market_moves": [
+      {
+        "symbol": "WTI",
+        "move": "-3.75%",
+        "explanation": "サウジアラビアが東西パイプラインの運転を再開して紅海のヤンブー港から積み出しを再開し、中東からの原油輸出が戦争開始以来の高水準に戻ったことが売り材料になった。"
+      },
+      {
+        "symbol": "TOPIX",
+        "move": "-1.72%",
+        "explanation": "9月末の中間配当の権利落ち日で、その分株価が下がった（日経平均では約380円分とされる）。国内金利の高さや原油への警戒から、金融・資源株などにも売りが広がった。"
+      }
+    ]
+  },
+  "daily_culture": {
+    "title": "東日本は50Hz、西日本は60Hz。電気の周波数が分かれた理由",
+    "body": "コンセントに来ている電気は、1秒間に何十回も向きを変える交流だ。その回数である周波数が、日本では東京から東は50ヘルツ、名古屋から西は60ヘルツと、国の中で2つに分かれている。この分かれ目は、130年前の「発電機の買い物」から始まった。\n\n19世紀の終わり、電気の周波数はまだ国際的に決まっていなかった。ドイツのAEGは、電灯のちらつきが気になった経験から1891年に50ヘルツを標準にし、その規格がヨーロッパに広がった。一方アメリカのウェスティングハウスは、電灯とモーターの両方に向くとして60ヘルツを選び、ゼネラル・エレクトリック（GE）も1893年にカリフォルニアで50ヘルツの発電所を作ったが、1年後には60ヘルツに切り替えた。規格を決めていたのは技術の優劣より、会社どうしの勢力争いだった。\n\n日本はちょうどその時期に発電を本格化させた。1895年、東京にはAEGの発電機が入り、翌1896年、大阪にはGEの発電機が入った。最初にどこの国の機械を買ったかで、東と西の周波数が決まってしまったのだ。\n\n一度決まると、発電所も工場の機械も家庭の電化製品も、その周波数に合わせて増えていく。あとから統一するには莫大な費用がかかるため、分かれたまま現在に至っている。いまは東と西の境目に、周波数を変換して電気を融通する変換所が4か所あり、新信濃や佐久間などで東西の電気をつないでいる。\n\n国全体の電気のしくみは、明治の技術者が選んだ2つの規格に今も縛られている。最初の小さな選択が、100年以上も社会の形を決めることがある。",
+    "explore": [
+      "AEG",
+      "ウェスティングハウス",
+      "周波数変換所",
+      "佐久間ダム",
+      "交流"
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (Utility frequency)",
+        "url": "https://en.wikipedia.org/wiki/Utility_frequency"
+      }
+    ]
+  },
+  "daily_quiz": {
+    "genre": "世界地理",
+    "question": "面積が世界で一番小さい国はどこでしょう？",
+    "answer": "バチカン市国",
+    "explanation": "ローマ市内にあるバチカン市国の面積は約0.44平方キロメートル（44ヘクタール）で、面積でも人口でも世界最小の国です。人口は約900人です。",
+    "sources": [
+      {
+        "name": "Wikipedia (Vatican City)",
+        "url": "https://en.wikipedia.org/wiki/Vatican_City"
+      }
+    ]
+  }
+}
