@@ -40,6 +40,14 @@
       "angle_key": "first_generator_purchase_locks_in_standard",
       "entities": ["AEG", "ゼネラル・エレクトリック", "ウェスティングハウス", "周波数変換所"],
       "knowledge_claims": ["日本は東が50Hz、西が60Hz", "1895年に東京へAEG、1896年に大阪へGEの発電機が入った", "AEGは1891年に50Hzを標準にした", "境目に4か所の周波数変換所がある"]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "自由の女神は、もともと緑ではなく銅色だった",
+      "topic_key": "statue_of_liberty_green_patina",
+      "angle_key": "corrosion_that_protects",
+      "entities": ["自由の女神", "緑青", "バルトルディ", "ギュスターヴ・エッフェル"],
+      "knowledge_claims": ["自由の女神は完成時は銅色だった", "外板の銅は約2.4mm", "1906年までに緑青が全体をおおった", "議会は塗装を認めたが市民の反対で外側は塗られなかった", "緑青は銅を守る"]
     }
   ]
 }
