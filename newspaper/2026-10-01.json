@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-01T05:22:29+09:00",
+  "news": [
+    {
+      "id": "typhoon-26-weakens",
+      "region": "japan",
+      "headline_en": "Typhoon No. 26 weakens as it passes the Izu Islands.",
+      "headline": "台風26号、勢力を落として伊豆諸島を通過。",
+      "summary": [
+        {
+          "en": "As of 3 a.m. Thursday, Typhoon No. 26 was near Aogashima in the Izu Islands with a central pressure of 1,000 hPa and top winds of 18 m/s, moving northeast at 15 km/h.",
+          "ja": "台風26号は1日3時現在、伊豆諸島の青ヶ島付近にあり、中心気圧1000hPa・最大風速18メートルで、北東へ時速15kmで進んでいます。"
+        },
+        {
+          "en": "It is expected to be about 170 km southeast of Choshi by 3 p.m. Meanwhile, Typhoon No. 27 has formed near the Mariana Islands and is heading west-northwest.",
+          "ja": "1日15時には銚子市の南東約170kmに進む見込みです。一方、マリアナ諸島では台風27号が発生し、西北西へ進んでいます。"
+        },
+        {
+          "en": "Kanto's ground is soaked after weeks of rain, so landslides remain a risk even as the storm weakens, and the next typhoon is already on its way.",
+          "ja": "関東は長雨で地盤がゆるんでいるため、台風が弱まっても土砂災害に注意が必要で、次の台風も控えています。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "tenki.jp",
+          "url": "https://tenki.jp/bousai/typhoon/2626/"
+        }
+      ]
+    },
+    {
+      "id": "ips-heart-sheet-surgery",
+      "region": "japan",
+      "headline_en": "First surgery with approved iPS heart sheets.",
+      "headline": "iPS細胞の心筋シート、承認後初の手術。",
+      "summary": [
+        {
+          "en": "A hospital in Osaka transplanted sheets of heart muscle cells made from iPS cells into a woman in her 50s, the first clinical use since the therapy won conditional approval in March.",
+          "ja": "大阪の病院で、iPS細胞から作った心筋シートを50代の女性の心臓に移植する手術が行われ、3月に条件付きで承認されてから初めての実用になりました。"
+        },
+        {
+          "en": "In earlier trials on eight patients with ischemic heart disease, all saw their symptoms ease, and four had better heart function.",
+          "ja": "これまでの虚血性心疾患の患者8人での治験では、全員の症状が和らぎ、4人は心臓の機能も良くなりました。"
+        },
+        {
+          "en": "iPS research is moving from the lab into ordinary hospital treatment, one step at a time.",
+          "ja": "iPS細胞の研究が、研究室から普通の病院の治療へと一歩ずつ進んでいます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/30/japan/science-health/heart-stem-cells-surgery/"
+        }
+      ]
+    },
+    {
+      "id": "permanent-residency-rules",
+      "region": "japan",
+      "headline_en": "Japan tightens its permanent residency rules.",
+      "headline": "永住許可の基準、収入や日本語で厳しく。",
+      "summary": [
+        {
+          "en": "Japan officially revised its permanent residency guidelines, adding stricter income and pension standards and a Japanese-language requirement.",
+          "ja": "政府は永住許可のガイドラインを正式に改め、収入や年金の基準を厳しくし、日本語の要件も加えました。"
+        },
+        {
+          "en": "Applicants will be judged on whether their income has continuously exceeded the average of Japanese households of a similar size, and most new rules apply to applications from April 2027.",
+          "ja": "同じ人数の日本人世帯の平均収入を上回り続けているかが問われ、新しい基準の多くは2027年4月以降の申請から適用されます。"
+        },
+        {
+          "en": "With foreign residents now at a record 3.84 million, Japan is making it harder to stay for good even as it relies more on workers from abroad.",
+          "ja": "外国人住民が過去最多の384万人となる中、外国からの働き手に頼りながらも、永住へのハードルは上がります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/permanent-residency-guidelines-revision/"
+        },
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/29/japan/society/japan-population-fall/"
+        }
+      ]
+    },
+    {
+      "id": "troops-leave-iraq",
+      "region": "world",
+      "headline_en": "Last US and UK troops leave Iraq.",
+      "headline": "米英軍、イラクから完全撤退。",
+      "summary": [
+        {
+          "en": "The last British and American troops left Iraq on Wednesday, ending the coalition's anti-Islamic State mission that began in 2014.",
+          "ja": "英国と米国の最後の部隊が30日にイラクを離れ、2014年から続いた「イスラム国」掃討の有志連合の任務が終わりました。"
+        },
+        {
+          "en": "The withdrawal follows a deal signed two years ago, and Iraq's forces now take full responsibility for the country's security.",
+          "ja": "2年前の合意に基づく撤退で、今後はイラクの治安部隊が国の安全を全面的に担います。"
+        },
+        {
+          "en": "With the war with Iran still going on, whether Iraq can keep militias and IS in check on its own is the big question.",
+          "ja": "イランとの戦争が続く中、イラクが民兵組織やISを自力で抑えられるかが問われます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo"
+        }
+      ]
+    },
+    {
+      "id": "russia-energy-attack",
+      "region": "europe",
+      "headline_en": "Russia hits Ukraine's power grid hard again.",
+      "headline": "ロシア、ウクライナの電力網に大規模攻撃。",
+      "summary": [
+        {
+          "en": "Russia launched its largest attack on Ukraine's energy infrastructure since the spring, mainly targeting Kyiv and the surrounding region, and at least five people were killed.",
+          "ja": "ロシアが春以降で最大規模となるウクライナのエネルギー施設への攻撃を行い、主にキーウ周辺が狙われて少なくとも5人が死亡しました。"
+        },
+        {
+          "en": "Russia said it targeted the Trypilska power station, Kyiv's largest electricity supplier, and 11 regions were attacked overnight.",
+          "ja": "ロシアはキーウ最大の電力供給源のトリピリャ発電所を標的にしたとしていて、一晩で11の州が攻撃を受けました。"
+        },
+        {
+          "en": "Russia has hit the grid every winter since 2022, so this looks like the start of another hard winter for Ukraine.",
+          "ja": "ロシアは2022年以降毎冬電力網を狙っていて、ウクライナにまた厳しい冬が始まりそうです。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "as_of": "Closes for Wednesday, Sep 30 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Sep 29; FX and Bitcoin as of publishing time on Thursday morning.",
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.502,
+        "change_pct": 0.06,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 178.36,
+        "change_pct": -0.09,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1326,
+        "change_pct": -0.13,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 66753.72,
+        "change_pct": 1.94,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4108.65,
+        "change_pct": 1.67,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7651.54,
+        "change_pct": -0.25,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26861.06,
+        "change_pct": 0.24,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 50906.05,
+        "change_pct": -0.86,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.082,
+        "unit": "%",
+        "change_bp": 0.0,
+        "source": "財務省 国債金利情報 (R8.9.29)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.88,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (09/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.29,
+        "unit": "%",
+        "change_bp": 3,
+        "source": "U.S. Treasury (09/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4188.2,
+        "change_pct": 0.2,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 90.55,
+        "change_pct": 1.31,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 83623.92,
+        "change_pct": 0.0,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.94%",
+        "explanation": "前日の米国で半導体株が上がった流れを受けて東京エレクトロンなどが買われ、OpenAIの売上急増の報道でソフトバンクグループも6%超上がった。原油安も支えになり、東証の33業種すべてが上がって、8月19日以来の高値で引けた。"
+      },
+      {
+        "symbol": "DOW",
+        "move": "-0.86%",
+        "explanation": "理由ははっきりしていない。ナスダックは小幅に上がっていて、下げはダウに目立った。"
+      }
+    ]
+  },
+  "daily_culture": {
+    "title": "自由の女神は、もともと緑ではなく銅色だった",
+    "body": "ニューヨークの自由の女神といえば、あの青緑色の姿を思い浮かべる。だが1886年に完成したとき、女神は十円玉のような赤茶色に光っていた。いまの色は、100年以上かけて空気がつくった「さび」の色だ。\n\n女神の外側は、厚さわずか2.4ミリの銅板でできている。フランスの彫刻家バルトルディは、石や青銅より安くて軽く、船で運びやすい銅を選んだ。銅板を熱して木づちでたたいて形を作り、内側の鉄の骨組みはエッフェル塔で知られるギュスターヴ・エッフェルが設計した。高さは台座を除いて約46メートルある。\n\n銅は空気や水、汚れた空気の中の酸と反応して、表面に緑青（ろくしょう）と呼ばれる青緑色の膜を作る。女神の場合、1900年を過ぎたころから緑色が広がり始め、1906年には全身をおおっていた。\n\nこのとき、アメリカ議会は緑色を傷みのしるしだと考え、女神の内側も外側もペンキで塗る予算を認めた。ところが外側を塗る案には市民から強い反対が起きた。陸軍工兵隊が調べたところ、緑青は下の銅を守る膜で、女神の輪郭をやわらげて美しく見せているという結論になった。結局、塗られたのは内側だけだった。皮肉なことに、その後内側に塗り重ねられたペンキは、1980年代の大修理のとき、鉄の骨組みのひどいさびを覆い隠していたことがわかった。\n\n緑青は、銅がそれ以上さびないようにする天然のコーティングだ。もしあのとき外側を塗っていたら、私たちが知る女神の姿はなかった。汚れや傷みに見えるものが、実は守りの役目を果たしていることもある。",
+    "explore": [
+      "緑青",
+      "バルトルディ",
+      "ギュスターヴ・エッフェル",
+      "打ち出し細工",
+      "銅の酸化"
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (Statue of Liberty)",
+        "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+      }
+    ]
+  },
+  "daily_quiz": {
+    "genre": "歴史",
+    "question": "1872年に開業した日本で最初の鉄道は、新橋とどこの間を結んだでしょう？",
+    "answer": "横浜",
+    "explanation": "日本初の鉄道は1872年（明治5年）に新橋〜横浜間で開業しました。いまの東海道本線の始まりです。当時の新橋駅は、現在の新橋駅より東にありました。",
+    "sources": [
+      {
+        "name": "Wikipedia (Shinbashi Station)",
+        "url": "https://en.wikipedia.org/wiki/Shinbashi_Station"
+      }
+    ]
+  }
+}

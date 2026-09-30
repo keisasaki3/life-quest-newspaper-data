@@ -45,6 +45,15 @@
       "fact_key": "smallest_country_by_area_vatican",
       "answer_key": "vatican_city",
       "entities": ["バチカン市国", "ローマ", "ローマ教皇"]
+    },
+    {
+      "date": "2026-10-01",
+      "genre": "歴史",
+      "question": "1872年に開業した日本で最初の鉄道は、新橋とどこの間を結んだでしょう？",
+      "answer": "横浜",
+      "fact_key": "japan_first_railway_shinbashi_yokohama_1872",
+      "answer_key": "yokohama",
+      "entities": ["新橋", "横浜", "東海道本線", "明治"]
     }
   ]
 }
