@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-02T05:23:01+09:00",
+  "news": [
+    {
+      "id": "tankan-manufacturers-8yr-high",
+      "region": "japan",
+      "headline_en": "Big manufacturers' mood hits an eight-year high.",
+      "headline": "日銀短観、大企業製造業が8年ぶり高水準。",
+      "summary": [
+        {
+          "en": "Business sentiment at large Japanese manufacturers rose to 24 in the Bank of Japan's tankan survey, improving for a sixth straight quarter to an eight-year high.",
+          "ja": "日銀の短観で、大企業製造業の景況感は24となり、6期連続で改善して8年ぶりの高い水準になりました。"
+        },
+        {
+          "en": "Large non-manufacturers fell to 35 from 37, their first decline in five quarters, which an economist linked to higher oil prices.",
+          "ja": "一方、大企業非製造業は37から35に下がり5期ぶりの悪化で、エコノミストは原油高の影響を指摘しています。"
+        },
+        {
+          "en": "Factories can pass on costs and ride the AI boom, but shops and services are feeling the squeeze, and the BOJ will weigh both before its next rate move.",
+          "ja": "工場は値上げやAI需要で稼げても、小売やサービスは苦しく、日銀は次の利上げでその両方を見ることになります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/01/companies/tankan-better-sentiment/"
+        }
+      ]
+    },
+    {
+      "id": "hayabusa2-engine-failure",
+      "region": "japan",
+      "headline_en": "Hayabusa2's last working engine breaks down.",
+      "headline": "はやぶさ2、最後の主エンジンが故障。",
+      "summary": [
+        {
+          "en": "The only working ion engine on JAXA's Hayabusa2, which brought samples from asteroid Ryugu back to Earth in 2020, has broken down.",
+          "ja": "2020年に小惑星リュウグウの試料を持ち帰った「はやぶさ2」で、唯一動いていたイオンエンジンが故障しました。"
+        },
+        {
+          "en": "JAXA plans to combine working parts of failed engines, a trick used on the first Hayabusa, and restart as early as late this month.",
+          "ja": "JAXAは、初代はやぶさと同じように、壊れたエンジンの使える部分を組み合わせ、早ければ今月後半に再び動かす計画です。"
+        },
+        {
+          "en": "The probe is nearly 12 years old, well past its design life, so reaching asteroid 1998 KY26 in 2031 is now uncertain.",
+          "ja": "打ち上げから12年近くたって設計寿命を大きく超えており、2031年に小惑星1998 KY26へたどり着けるかは分からなくなっています。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/science-health/hayabusa2-last-engine-breaks/"
+        }
+      ]
+    },
+    {
+      "id": "permanent-residency-fee",
+      "region": "japan",
+      "headline_en": "Japan's permanent residency fee jumps 20 times.",
+      "headline": "永住許可の手数料、20倍の20万円に。",
+      "summary": [
+        {
+          "en": "Japan raised the fee for permanent residency 20-fold to ¥200,000, alongside new income, pension and Japanese-language requirements.",
+          "ja": "永住許可の手数料が20倍の20万円に上がり、収入や年金、日本語の新しい要件も加わりました。"
+        },
+        {
+          "en": "Applicants rushed to beat the change, with waits at Tokyo's main immigration bureau topping seven hours earlier this week.",
+          "ja": "値上げ前に申請しようと人が殺到し、東京の出入国在留管理局では今週、待ち時間が7時間を超えました。"
+        },
+        {
+          "en": "Japan needs foreign workers but is making it costlier to settle for good, a tension that will keep shaping policy.",
+          "ja": "外国人の働き手は必要なのに、定住するハードルは上がっていて、このずれが今後の政策の焦点になりそうです。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o"
+        }
+      ]
+    },
+    {
+      "id": "flydubai-cockpit-attack",
+      "region": "world",
+      "headline_en": "Passengers stop pilot attack on Israel-bound plane.",
+      "headline": "イスラエル行き旅客機で操縦士が襲撃、乗客が制止。",
+      "summary": [
+        {
+          "en": "On a Flydubai flight from Dubai to Tel Aviv, a pilot stabbed his fellow pilot and tried to take over, and the plane dropped more than 17,000 feet before passengers and crew overpowered him.",
+          "ja": "ドバイ発テルアビブ行きのフライドバイ機で、操縦士が同僚の操縦士を刺して機を乗っ取ろうとし、機体は5200メートル以上急降下しましたが、乗客と乗員が取り押さえました。"
+        },
+        {
+          "en": "The plane made an emergency landing in Saudi Arabia, and Israel's Netanyahu said the attacker had undergone Islamist radical indoctrination.",
+          "ja": "機はサウジアラビアに緊急着陸し、イスラエルのネタニヤフ首相は、襲った男が過激思想に染まっていたと述べました。"
+        },
+        {
+          "en": "It is a reminder that the biggest risk can sit inside the cockpit itself.",
+          "ja": "最大の危険が操縦室の中にあることもあると、改めて示した事件です。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o"
+        }
+      ]
+    },
+    {
+      "id": "europe-heat-deaths",
+      "region": "europe",
+      "headline_en": "Over 34,600 heat deaths in Western Europe this summer.",
+      "headline": "西欧の猛暑、死者3万4600人超。",
+      "summary": [
+        {
+          "en": "More than 34,600 people died from heat in five Western European countries this summer, the region's hottest June-to-August on record.",
+          "ja": "観測史上最も暑かったこの夏、西欧5か国で3万4600人以上が暑さで亡くなったと推計されています。"
+        },
+        {
+          "en": "Spain counted 5,805 heat deaths, its worst since records began in 2015, and France estimated 7,824 from three heat waves.",
+          "ja": "スペインは2015年の統計開始以来最多の5805人、フランスは3回の熱波で7824人と推計されました。"
+        },
+        {
+          "en": "Heat is becoming a disaster that kills quietly, without the headlines a storm gets.",
+          "ja": "猛暑は台風のように目立たないまま、多くの命を奪う災害になりつつあります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/environment/2026/10/01/climate-change/heat-deaths-western-europe/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "as_of": "Closes for Thursday, Oct 1 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Sep 30; FX and Bitcoin as of publishing time on Friday morning.",
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.043,
+        "change_pct": 0.31,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.72,
+        "change_pct": -0.42,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1249,
+        "change_pct": -0.69,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 68956.72,
+        "change_pct": 3.3,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4131.98,
+        "change_pct": 0.57,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7666.45,
+        "change_pct": 0.19,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26871.6,
+        "change_pct": 0.04,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 50926.56,
+        "change_pct": 0.04,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.057,
+        "unit": "%",
+        "change_bp": -2.5,
+        "source": "財務省 国債金利情報 (R8.9.30)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.78,
+        "unit": "%",
+        "change_bp": -10,
+        "source": "U.S. Treasury (10/01/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.24,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (10/01/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4207.6,
+        "change_pct": 0.5,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 93.15,
+        "change_pct": 3.02,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 84804.2,
+        "change_pct": 1.5,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+3.30%",
+        "explanation": "米マイクロン・テクノロジーの強い業績見通しで半導体需要への安心感が戻り、AI・半導体関連株に買いが集まった。約6週間ぶりに68000円を超えた。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "+3.02%",
+        "explanation": "中東情勢をめぐる報道が影響したとみられるが、今回は出典の本文で理由を確かめられなかった。"
+      }
+    ]
+  },
+  "daily_culture": {
+    "title": "プチプチは、壁紙を作ろうとして失敗した発明だった",
+    "body": "荷物を開けると出てくる、気泡の並んだ緩衝材。つい指でつぶしたくなるあのシートは、もともと荷物を守るためのものではなかった。最初の目的は、なんと部屋の壁紙だった。\n\n1957年、アメリカの2人の技術者、アルフレッド・フィールディングとマーク・シャヴァンヌは、立体的な模様のあるプラスチックの壁紙を作ろうとしていた。2枚のビニールを貼り合わせて空気を閉じ込め、でこぼこの表面にしたのだ。しかし壁紙としては売れず、計画は失敗に終わった。\n\nそこで2人は、空気の粒がクッションになることに目をつけた。壁に貼る代わりに、物を包めばいい。フィールディングは1960年にシールドエアー社を共同で立ち上げ、この緩衝材を売り出した。\n\n最初に大きく使われたのは、同じ1960年、IBMの新しいコンピューター「IBM 1401」を客先に送るときだった。高価で壊れやすい機械を守る包み材として採用され、受け取った人の多くはこのシートを初めて目にした。いまでは気泡の大きさは6ミリから26ミリ以上まであり、電子部品用には静電気を逃がすタイプもある。\n\n2015年には、気泡どうしがつながっていて、平らなまま運んで店でふくらませる新しいタイプも作られた。この形だと輸送時の場所は約50分の1で済むが、気泡がつながっているため、指でつぶすことはできない。\n\n失敗した壁紙は、世界中の荷物を守る道具に生まれ変わった。うまくいかなかったアイデアも、使い道を変えれば別の場所で役に立つことがある。",
+    "explore": [
+      "シールドエアー",
+      "IBM 1401",
+      "緩衝材",
+      "商標の普通名称化"
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (Bubble wrap)",
+        "url": "https://en.wikipedia.org/wiki/Bubble_wrap"
+      }
+    ]
+  },
+  "daily_quiz": {
+    "genre": "日本地理",
+    "question": "富士山がまたがっている2つの県はどこでしょう？",
+    "answer": "静岡県と山梨県",
+    "explanation": "富士山（標高3776メートル）は静岡県と山梨県の境にあります。最後の噴火は1707〜1708年の宝永噴火です。",
+    "sources": [
+      {
+        "name": "Wikipedia (Mount Fuji)",
+        "url": "https://en.wikipedia.org/wiki/Mount_Fuji"
+      }
+    ]
+  }
+}
