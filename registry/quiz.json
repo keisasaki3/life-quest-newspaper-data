@@ -54,6 +54,15 @@
       "fact_key": "japan_first_railway_shinbashi_yokohama_1872",
       "answer_key": "yokohama",
       "entities": ["新橋", "横浜", "東海道本線", "明治"]
+    },
+    {
+      "date": "2026-10-02",
+      "genre": "日本地理",
+      "question": "富士山がまたがっている2つの県はどこでしょう？",
+      "answer": "静岡県と山梨県",
+      "fact_key": "mount_fuji_straddles_shizuoka_yamanashi",
+      "answer_key": "shizuoka_yamanashi",
+      "entities": ["富士山", "静岡県", "山梨県"]
     }
   ]
 }
