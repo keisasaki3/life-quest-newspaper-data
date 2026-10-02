@@ -82,12 +82,22 @@ def us_treasury():
     return rows[0], rows[1]  # newest first
 
 
-def jgb10():
-    text = get("https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv").decode("shift_jis", "replace")
-    rows = [r for r in csv.reader(io.StringIO(text)) if r and re.match(r"[A-Z]\d+\.\d+\.\d+", r[0])]
+def jgb10_rows(url):
+    text = get(url).decode("shift_jis", "replace")
     head = next(r for r in csv.reader(io.StringIO(text)) if r and r[0] == "基準日")
     i = head.index("10年")
-    return rows[-1][0], float(rows[-1][i]), float(rows[-2][i])
+    return [(r[0], float(r[i])) for r in csv.reader(io.StringIO(text))
+            if r and re.match(r"[A-Z]\d+\.\d+\.\d+", r[0]) and re.match(r"-?\d", r[i])]
+
+
+def jgb10():
+    rows = jgb10_rows("https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv")
+    if len(rows) < 2:
+        # jgbcm.csv holds only the current month; on its first business day
+        # the previous close is in the full-history file (oldest first).
+        rows = [r for r in jgb10_rows("https://www.mof.go.jp/jgbs/reference/interest_rate/data/jgbcm_all.csv")
+                if r[0] not in dict(rows)] + rows
+    return rows[-1][0], rows[-1][1], rows[-2][1]
 
 
 def main():
