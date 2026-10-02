@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-03",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-03T05:23:26+09:00",
+  "news": [
+    {
+      "id": "tokyo-cpi-september",
+      "region": "japan",
+      "headline_en": "Tokyo inflation jumps to 2.7% in September.",
+      "headline": "東京の物価、9月は2.7%上昇。",
+      "summary": [
+        {
+          "en": "Core consumer prices in Tokyo's 23 wards rose 2.7% from a year earlier in September, up from 1.8% in August and above the 2.4% forecast.",
+          "ja": "東京23区の9月の消費者物価（生鮮食品を除く）は前年より2.7%上がり、8月の1.8%や予想の2.4%を上回りました。"
+        },
+        {
+          "en": "Bento lunches cost 28.1% more, and water bills jumped 65.6% after Tokyo's summer suspension of the basic water fee ended.",
+          "ja": "弁当は28.1%値上がりし、夏の水道基本料金の免除が終わったことで水道代は65.6%上がりました。"
+        },
+        {
+          "en": "Tokyo's figures lead the national data, so this makes another Bank of Japan rate hike more likely.",
+          "ja": "東京の数字は全国の先行指標とされ、日銀の追加利上げの可能性が高まりそうです。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/02/economy/tokyo-inflation-september/"
+        }
+      ]
+    },
+    {
+      "id": "japan-flu-outbreak",
+      "region": "japan",
+      "headline_en": "Flu season starts early across all of Japan.",
+      "headline": "インフルエンザ、全国で流行入り。",
+      "summary": [
+        {
+          "en": "The average number of flu patients per monitored clinic topped 1.0 in all 47 prefectures, marking a nationwide outbreak, the health ministry said.",
+          "ja": "厚生労働省によると、定点の医療機関あたりのインフルエンザ患者数が47都道府県すべてで1.0を超え、全国的な流行に入りました。"
+        },
+        {
+          "en": "Okinawa had the highest level at 42.50, above the warning line of 30, followed by Saitama, Ibaraki, Aichi and Gifu.",
+          "ja": "最も多いのは沖縄県の42.50で警報レベルの30を超え、埼玉、茨城、愛知、岐阜が続いています。"
+        },
+        {
+          "en": "It's only early October, so handwashing and covering coughs matter earlier than usual this year.",
+          "ja": "まだ10月の初めなので、今年は手洗いやせきエチケットを早めに心がけたいところです。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/"
+        }
+      ]
+    },
+    {
+      "id": "us-missile-yonaguni",
+      "region": "japan",
+      "headline_en": "US to bring anti-ship missiles to Yonaguni for drills.",
+      "headline": "米軍、与那国島に対艦ミサイル展開へ。",
+      "summary": [
+        {
+          "en": "The US military plans to deploy its NMESIS anti-ship missile system to Yonaguni for the first time during the Keen Sword exercise with Japan from Oct. 19 to 29.",
+          "ja": "米軍は、10月19〜29日の日米共同訓練「キーン・ソード」で、対艦ミサイル「NMESIS」を初めて与那国島に展開する計画です。"
+        },
+        {
+          "en": "Yonaguni is just 110 km east of Taiwan, and the system's range of about 115 miles could reach ships around Taiwan.",
+          "ja": "与那国島は台湾の東わずか110kmにあり、射程約185kmのこのミサイルは台湾周辺の艦船に届きます。"
+        },
+        {
+          "en": "After the Typhon at Kadena, it's another sign that Japan's southwestern islands are becoming the front line of drills.",
+          "ja": "嘉手納のタイフォンに続き、南西諸島が訓練の最前線になりつつあることを示しています。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/politics/us-missile-yonaguni-drills/"
+        }
+      ]
+    },
+    {
+      "id": "openai-fires-researchers",
+      "region": "us",
+      "headline_en": "OpenAI fires three researchers over data handling.",
+      "headline": "OpenAI、情報の扱いで研究者3人を解雇。",
+      "summary": [
+        {
+          "en": "OpenAI fired three researchers it said mishandled sensitive information, including work involving an outside group that evaluates AI models.",
+          "ja": "OpenAIは、外部のAI評価団体に関わる作業を含め、機密情報を不適切に扱ったとして研究者3人を解雇しました。"
+        },
+        {
+          "en": "At least two of them were involved in safety research, as debate over AI risks grows.",
+          "ja": "少なくとも2人は安全性の研究に携わっていて、AIのリスクをめぐる議論が強まる中での解雇です。"
+        },
+        {
+          "en": "Outside checks on AI matter, but so does protecting secrets, and labs are still working out where that line is.",
+          "ja": "外部からのAIの検証は大切ですが、秘密の管理も必要で、その線引きはまだ定まっていません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo"
+        }
+      ]
+    },
+    {
+      "id": "nishikori-final-match",
+      "region": "japan",
+      "headline_en": "Kei Nishikori plays his final match in Tokyo.",
+      "headline": "錦織圭、東京で現役最後の試合。",
+      "summary": [
+        {
+          "en": "Kei Nishikori lost 6-4, 6-4 to Frances Tiafoe in the Japan Open first round, his last match before retiring.",
+          "ja": "錦織圭選手が、引退前の最後の試合となるジャパン・オープン1回戦でティアフォー選手に6-4、6-4で敗れました。"
+        },
+        {
+          "en": "The 36-year-old former world No. 4 was the first Asian man to reach a Grand Slam singles final, at the 2014 US Open.",
+          "ja": "36歳の元世界4位で、2014年の全米オープンでアジア男子として初めて4大大会の決勝に進みました。"
+        },
+        {
+          "en": "He ended his career where he won twice, closing a door he opened for Japanese tennis.",
+          "ja": "2度優勝した東京の大会で幕を閉じ、日本のテニスに新しい扉を開いた選手が去りました。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/sports/2026/10/02/tennis/kei-nishikori-retires/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "as_of": "Closes for Friday, Oct 2 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 1; FX and Bitcoin as of publishing time on Saturday morning.",
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.855,
+        "change_pct": -0.05,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.63,
+        "change_pct": 0.0,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1256,
+        "change_pct": 0.06,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 68309.46,
+        "change_pct": -0.94,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4091.0,
+        "change_pct": -0.99,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7722.72,
+        "change_pct": 0.73,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27190.86,
+        "change_pct": 1.19,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51176.96,
+        "change_pct": 0.49,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.092,
+        "unit": "%",
+        "change_bp": 3.5,
+        "source": "財務省 国債金利情報 (R8.10.1)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.83,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (10/02/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.28,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/02/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4171.0,
+        "change_pct": -0.74,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 91.48,
+        "change_pct": -1.5,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 84350.96,
+        "change_pct": -0.59,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.94%",
+        "explanation": "前日までの2日間で3400円以上上がった反動で利益確定の売りが出た。米国防総省が中東で軍備を増やすとの報道で原油が高止まりしたことも重荷になった。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-1.50%",
+        "explanation": "前日の上昇から一服したが、下げた理由は出典の本文で確かめられなかった。"
+      }
+    ]
+  },
+  "daily_culture": {
+    "title": "キーボードがQWERTY配列なのは、150年前のタイプライターのなごり",
+    "body": "パソコンやスマホのキーボードの左上には、Q・W・E・R・T・Yと並んでいる。アルファベット順でもなく、使う回数の順でもない。この不思議な並びは、150年前のタイプライターから受け継がれたものだ。\n\n考えたのは、アメリカ・ウィスコンシン州の新聞編集者クリストファー・レイサム・ショールズだ。1867年に仲間と書く機械の特許を出したとき、最初の試作機はピアノのような2段の鍵盤で、文字はアルファベット順に並んでいた。ショールズはそれから5年ほど、試行錯誤を重ねて並びを入れ替えた。\n\nなぜこの順になったのかは、実ははっきりしていない。よく言われるのは「よく続けて打つ文字を離して、活字棒が絡まないようにした」という説だが、根拠が弱いとする研究者もいる。モールス信号を聞き取って打つ電信技士の意見を取り入れた、という説もある。\n\n1873年、製造の権利がレミントン社に売られ、同社の技術者がさらに手を加えて、今の形がほぼ完成した。真ん中の段の「DFGHJKL」は、最初のアルファベット順の名残だ。1878年に大文字と小文字をシフトキーで切り替えられるレミントン2号が売れて、この配列が広まった。\n\nもっと速く打てるというドボラック配列なども作られたが、一度みんなが慣れた並びは変わらなかった。なぜそう並んだのかもはっきりしない並びが、いまも世界中の指を動かしている。最初に広まったものが、いちばん良いとは限らない。",
+    "explore": [
+      "クリストファー・レイサム・ショールズ",
+      "レミントン",
+      "ドボラック配列",
+      "タイプライター",
+      "経路依存性"
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (QWERTY)",
+        "url": "https://en.wikipedia.org/wiki/QWERTY"
+      }
+    ]
+  },
+  "daily_quiz": {
+    "genre": "物理",
+    "question": "真空中の光の速さは、秒速何メートルと決められているでしょう？",
+    "answer": "秒速2億9979万2458メートル",
+    "explanation": "光の速さは国際的な取り決めで、ちょうど秒速299,792,458メートルと定められています。1983年からは逆に、1メートルを「光が真空中で2億9979万2458分の1秒に進む長さ」と決めています。",
+    "sources": [
+      {
+        "name": "Wikipedia (Speed of light)",
+        "url": "https://en.wikipedia.org/wiki/Speed_of_light"
+      }
+    ]
+  }
+}

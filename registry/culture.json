@@ -56,6 +56,14 @@
       "angle_key": "failed_invention_repurposed",
       "entities": ["バブルラップ", "シールドエアー", "アルフレッド・フィールディング", "IBM 1401"],
       "knowledge_claims": ["1957年に立体壁紙として作られたが失敗した", "1960年にシールドエアー社が設立された", "IBM 1401の輸送が初期の大きな用途だった", "2015年に輸送時は平らなiBubble Wrapが出た"]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "キーボードがQWERTY配列なのは、150年前のタイプライターのなごり",
+      "topic_key": "qwerty_keyboard_layout_origin",
+      "angle_key": "first_standard_persists_not_best",
+      "entities": ["QWERTY", "クリストファー・レイサム・ショールズ", "レミントン", "ドボラック配列"],
+      "knowledge_claims": ["ショールズが1870年代初めに考えた", "最初の試作機はアルファベット順だった", "活字棒の絡み防止説は根拠が弱いとする見方もある", "1873年にレミントンへ権利が売られた", "1878年のレミントン2号で広まった"]
     }
   ]
 }

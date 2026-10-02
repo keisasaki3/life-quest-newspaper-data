@@ -63,6 +63,15 @@
       "fact_key": "mount_fuji_straddles_shizuoka_yamanashi",
       "answer_key": "shizuoka_yamanashi",
       "entities": ["富士山", "静岡県", "山梨県"]
+    },
+    {
+      "date": "2026-10-03",
+      "genre": "物理",
+      "question": "真空中の光の速さは、秒速何メートルと決められているでしょう？",
+      "answer": "秒速2億9979万2458メートル",
+      "fact_key": "speed_of_light_defined_exact_value",
+      "answer_key": "299792458",
+      "entities": ["光速", "メートル", "国際単位系"]
     }
   ]
 }
