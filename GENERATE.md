@@ -37,7 +37,7 @@
 | `commodities` | GOLD（`USD/oz`）、WTI（`USD/bbl`） |
 | `crypto` | BITCOIN（`USD`） |
 
-- 各項目は `symbol` / `value`（数値）/ `change_pct` か `change_bp` / `source` / `source_url`。
+- 各項目は `symbol` / `value`（数値）/ `change_pct` か `change_bp` / `source` / `source_url`。`change_pct` の項目には値幅 `change`（前日終値からの差、`value` と同じ桁。例 日経 `-647.26`）も入れる（`fetch_markets.py` が出す。手で埋めるときは `value - 前日終値`）。
 - 値は最新の確定終値（米国は前日の引け）。数字は出典ページで確かめたものだけ。取れなかった銘柄は推測で埋めず、その項目を外して `as_of` に書く。
 - `as_of` にいつ時点のデータかを英語1文で書く。
 - `market_moves` は大きく動いた2〜3銘柄について `{symbol, move, explanation}`。`explanation` は日本語で、報道で確かめられる理由だけ。断定できないときはそう書く。
