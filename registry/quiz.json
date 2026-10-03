@@ -72,15 +72,6 @@
       "fact_key": "speed_of_light_defined_exact_value",
       "answer_key": "299792458",
       "entities": ["光速", "メートル", "国際単位系"]
-    },
-    {
-      "date": "2026-10-04",
-      "genre": "スポーツ",
-      "question": "マラソンの距離は何キロメートルでしょう？",
-      "answer": "42.195キロメートル",
-      "fact_key": "marathon_distance_42195",
-      "answer_key": "42.195",
-      "entities": ["マラソン", "1908年ロンドン五輪"]
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "date": "2026-10-04",
   "timezone": "Asia/Tokyo",
-  "generated_at": "2026-10-04T05:22:58+09:00",
+  "generated_at": "2026-10-04T05:24:08+09:00",
   "news": [
     {
       "id": "g7-oil-release",
@@ -11,16 +11,16 @@
       "headline": "G7、原油とディーゼル1億バレルを放出へ。",
       "summary": [
         {
-          "en": "The G7 announced it will release 100 million barrels of oil and diesel over four months, including a substantial release of diesel within 20 days.",
-          "ja": "G7は、原油とディーゼル計1億バレルを4か月かけて放出し、20日以内にまとまった量のディーゼルを出すと発表しました。"
+          "en": "The G7 has announced that it will release 100 million barrels of oil and diesel over four months, including a substantial release of diesel within 20 days.",
+          "ja": "G7は、原油とディーゼル計1億バレルを4か月かけて放出し、20日以内にまとまった量のディーゼルを出すと発表いたしました。"
         },
         {
-          "en": "The move came after President Trump threatened to ban US diesel exports unless European countries put more of their own stocks on the market.",
-          "ja": "トランプ大統領が、欧州が備蓄を放出しなければ米国のディーゼル輸出を禁止すると迫ったことを受けたものです。"
+          "en": "This follows President Trump's threat to ban US diesel exports unless European countries put more of their own stocks on the market.",
+          "ja": "トランプ大統領が、欧州が備蓄を放出しなければ米国のディーゼル輸出を禁止すると迫ったことを受けたものでございます。"
         },
         {
-          "en": "It may cool fuel prices for a while, but stockpiles are a cushion, not a cure, while the Iran war continues.",
-          "ja": "燃料価格を一時的に抑える効果はありそうですが、イランとの戦争が続く限り、備蓄は応急手当にすぎません。"
+          "en": "It may cool fuel prices for a while, but I'm afraid stockpiles are a cushion rather than a cure while the Iran war continues.",
+          "ja": "燃料価格をしばらく落ち着かせる効果はありそうですが、イランとの戦争が続く限り、備蓄はあくまで応急手当かと存じます。"
         }
       ],
       "sources": [
@@ -37,16 +37,16 @@
       "headline": "北朝鮮が弾道ミサイルを発射。",
       "summary": [
         {
-          "en": "North Korea fired at least one ballistic missile from its east coast on Saturday morning, Japan's Defense Ministry said.",
-          "ja": "防衛省によると、北朝鮮は3日朝、東岸から少なくとも1発の弾道ミサイルを発射しました。"
+          "en": "North Korea fired at least one ballistic missile from its east coast on Saturday morning, according to Japan's Defense Ministry.",
+          "ja": "防衛省によりますと、北朝鮮は3日朝、東岸から少なくとも1発の弾道ミサイルを発射いたしました。"
         },
         {
-          "en": "It flew about 680 km, reaching a top altitude of 90 km, and landed in the Sea of Japan outside Japan's exclusive economic zone.",
-          "ja": "約680km飛んで最高高度は約90kmに達し、日本の排他的経済水域（EEZ）の外の日本海に落ちました。"
+          "en": "It flew about 680 km, reaching a top altitude of 90 km, and came down in the Sea of Japan outside Japan's exclusive economic zone.",
+          "ja": "約680km飛んで最高高度は約90kmに達し、日本の排他的経済水域（EEZ）の外の日本海に落ちたとのことです。"
         },
         {
-          "en": "It came amid a row over a DMZ landmine blast that hurt three South Korean soldiers, so tensions on the peninsula are rising again.",
-          "ja": "韓国兵3人がけがをした非武装地帯の地雷爆発をめぐって南北が対立する中での発射で、朝鮮半島の緊張が再び高まっています。"
+          "en": "It comes amid a row over a DMZ landmine blast that injured three South Korean soldiers, so tensions on the peninsula seem to be rising again.",
+          "ja": "韓国兵3人がけがをした非武装地帯の地雷爆発をめぐって南北が対立する中での発射で、朝鮮半島の緊張がまた高まっているようでございます。"
         }
       ],
       "sources": [
@@ -63,16 +63,16 @@
       "headline": "副首都の要件案、札幌など4市が該当。",
       "summary": [
         {
-          "en": "The government released draft requirements for 'secondary capitals' that could stand in for Tokyo after a major disaster.",
-          "ja": "政府は、大災害のときに東京の代わりを務める「副首都」の要件案を公表しました。"
+          "en": "The government has released draft requirements for 'secondary capitals' that could stand in for Tokyo after a major disaster.",
+          "ja": "政府は、大災害のときに東京の代わりを務める「副首都」の要件案を公表いたしました。"
         },
         {
-          "en": "Areas that could be hit at the same time as Tokyo, such as by a quake beneath the capital or a Mount Fuji eruption, are excluded, and Sapporo, Nagoya, Osaka and Fukuoka meet the main criteria.",
-          "ja": "首都直下地震や富士山の噴火で東京と同時に被害を受けそうな地域は除かれ、札幌、名古屋、大阪、福岡が主な要件を満たしています。"
+          "en": "Areas likely to be hit at the same time as Tokyo, such as by a quake beneath the capital or a Mount Fuji eruption, are excluded, and Sapporo, Nagoya, Osaka and Fukuoka meet the main criteria.",
+          "ja": "首都直下地震や富士山の噴火で東京と同時に被害を受けそうな地域は除かれ、札幌、名古屋、大阪、福岡が主な要件を満たしております。"
         },
         {
-          "en": "Japan is finally planning for a day when Tokyo itself can't function.",
-          "ja": "東京そのものが止まる日に備える仕組みづくりが、ようやく動き出しました。"
+          "en": "Japan is finally preparing for a day when Tokyo itself can't function.",
+          "ja": "東京そのものが止まる日への備えが、ようやく形になり始めたようでございます。"
         }
       ],
       "sources": [
@@ -89,16 +89,16 @@
       "headline": "ハワイの名所「ホーレイ・シーアーチ」が崩落。",
       "summary": [
         {
-          "en": "The 27-meter-tall Hōlei Sea Arch, a lava rock formation that formed about 550 years ago in Hawaii Volcanoes National Park, has fallen into the Pacific.",
-          "ja": "ハワイ火山国立公園にある、約550年前にできた高さ27メートルの溶岩のアーチが太平洋に崩れ落ちました。"
+          "en": "The 27-meter-tall Hōlei Sea Arch, a lava rock formation about 550 years old in Hawaii Volcanoes National Park, has fallen into the Pacific.",
+          "ja": "ハワイ火山国立公園にある、約550年前にできた高さ27メートルの溶岩のアーチが、太平洋に崩れ落ちてしまいました。"
         },
         {
           "en": "It was still standing on Sept. 23 but gone by Sept. 27, and the park service had warned in 2021 that it would eventually crumble.",
-          "ja": "9月23日には残っていましたが27日には消えていて、公園当局は2021年に、いずれ崩れると警告していました。"
+          "ja": "9月23日には残っておりましたが27日には消えていて、公園当局は2021年に、いずれ崩れると警告していたそうです。"
         },
         {
-          "en": "Even landscapes that look permanent are just one moment in a coastline that keeps changing.",
-          "ja": "永遠に見える景色も、変わり続ける海岸の一瞬の姿にすぎません。"
+          "en": "Even scenery that looks permanent is only one moment in a coastline that keeps changing.",
+          "ja": "永遠に見える景色も、変わり続ける海岸の一瞬の姿なのでございますね。"
         }
       ],
       "sources": [
@@ -116,15 +116,15 @@
       "summary": [
         {
           "en": "Thousands marched in about 50 cities across Spain, including Madrid, Valencia and Barcelona, demanding protection for tenants.",
-          "ja": "マドリードやバレンシア、バルセロナなどスペインの約50都市で、借り手の保護を求めて数千人がデモ行進しました。"
+          "ja": "マドリードやバレンシア、バルセロナなどスペインの約50都市で、借り手の保護を求めて数千人がデモ行進いたしました。"
         },
         {
-          "en": "The protests came a day after Prime Minister Sánchez's government failed to pass emergency housing laws, prompted by the eviction of an 87-year-old woman.",
-          "ja": "87歳の女性が家賃の値上げで立ち退かされたことを受けたサンチェス政権の緊急住宅法案が、前日に議会で否決されていました。"
+          "en": "The protests came a day after Prime Minister Sánchez's emergency housing bill, prompted by the eviction of an 87-year-old woman, failed in parliament.",
+          "ja": "87歳の女性の立ち退きをきっかけにサンチェス政権が出した緊急住宅法案が、前日に議会で否決されたことを受けたものでございます。"
         },
         {
-          "en": "Housing costs are now big enough to shake a government, and an early election is being talked about.",
-          "ja": "住まいの費用が政権を揺るがすほどの問題になり、前倒し選挙も取りざたされています。"
+          "en": "Housing costs have become serious enough to shake a government, and there is talk of an early election.",
+          "ja": "住まいの費用が政権を揺るがすほどの問題になり、前倒し選挙もささやかれております。"
         }
       ],
       "sources": [
@@ -266,41 +266,12 @@
       {
         "symbol": "NASDAQ",
         "move": "+1.19%",
-        "explanation": "9月の米雇用統計で就業者の増加が2.9万人と予想を大きく下回り、10月の利上げ観測が後退した。エヌビディアなどハイテク株が上昇をけん引した。"
+        "explanation": "9月の米雇用統計で就業者の増加が2.9万人と予想を大きく下回り、10月の利上げ観測が後退いたしました。エヌビディアなどハイテク株が上昇をけん引しております。"
       },
       {
         "symbol": "WTI",
         "move": "-1.90%",
-        "explanation": "欧州が米国の圧力を受けてディーゼルの備蓄放出を検討しているとの報道で下げた。G7はその後、原油とディーゼル計1億バレルの放出を発表した。"
-      }
-    ]
-  },
-  "daily_culture": {
-    "title": "「ロボット」という言葉を作ったのは、作家の兄だった",
-    "body": "ロボットという言葉は、もともと機械のことではなかった。生まれたのは1920年、チェコの作家カレル・チャペックが書いた戯曲『R.U.R.（ロッサム万能ロボット会社）』の中だ。\n\nこの劇に出てくるロボットは、金属の機械ではない。工場で化学的な材料から作られる、人間そっくりの「人工の人間」だった。疲れずに働くが、感情も独創性も持たない。劇は、大量に作られた彼らが人間に反乱を起こす物語で、世界中で上演されて言葉も一気に広まった。\n\nおもしろいのは、名付け親がカレル本人ではないことだ。カレルは後に、最初は労働を意味するラテン語から「ラボル」と呼ぶつもりだったが気に入らず、画家で作家の兄ヨゼフに相談したと書いている。兄が提案したのが「ロボット」だった。カレルは英語の辞書の語源の説明に手紙を書き、本当の作り手は兄だと伝えている。\n\nロボットの元になったチェコ語の「ロボタ」は、農奴が領主のためにさせられた強制労働や、つらい仕事を意味する。さらにさかのぼると、古い教会スラブ語の「奴隷の身分」を表す言葉につながる。ロシア語の「ラボータ（仕事）」も同じ仲間だ。\n\nつまりロボットとは、最初から「人の代わりにつらい仕事をさせられる者」という意味を背負った言葉だった。AIやロボットが人の仕事を引き受ける時代になったいま、100年前の劇が投げかけた「働かされる側」の問いは、むしろ新しく響く。",
-    "explore": [
-      "カレル・チャペック",
-      "ヨゼフ・チャペック",
-      "R.U.R.",
-      "アンドロイド",
-      "語源"
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (Robot)",
-        "url": "https://en.wikipedia.org/wiki/Robot"
-      }
-    ]
-  },
-  "daily_quiz": {
-    "genre": "スポーツ",
-    "question": "マラソンの距離は何キロメートルでしょう？",
-    "answer": "42.195キロメートル",
-    "explanation": "マラソンは42.195kmです。この距離に統一されたのは1921年です。1908年のロンドン五輪では、ウィンザー城をスタートし、競技場のロイヤルボックスの前でゴールするコースが組まれました。",
-    "sources": [
-      {
-        "name": "Wikipedia (Marathon)",
-        "url": "https://en.wikipedia.org/wiki/Marathon"
+        "explanation": "欧州が米国の圧力を受けてディーゼルの備蓄放出を検討しているとの報道で下げました。G7はその後、原油とディーゼル計1億バレルの放出を発表しております。"
       }
     ]
   }
