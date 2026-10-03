@@ -208,18 +208,21 @@ def main():
 
     check_news(issue.get("news"))
     check_markets(issue.get("markets"))
-    check_culture(issue.get("daily_culture"))
-    check_quiz(issue.get("daily_quiz"))
-    check_registry(
-        "culture", date, issue.get("daily_culture") or {},
-        ("title", "topic_key", "angle_key", "entities", "knowledge_claims"),
-        ("topic_key",),
-    )
-    check_registry(
-        "quiz", date, issue.get("daily_quiz") or {},
-        ("genre", "question", "answer", "fact_key", "answer_key", "entities"),
-        ("fact_key",),
-    )
+    # DAILY CULTURE / DAILY QUIZ は 2026-10-03 から生成停止中。入っている号だけ検証する。
+    if "daily_culture" in issue:
+        check_culture(issue.get("daily_culture"))
+        check_registry(
+            "culture", date, issue.get("daily_culture") or {},
+            ("title", "topic_key", "angle_key", "entities", "knowledge_claims"),
+            ("topic_key",),
+        )
+    if "daily_quiz" in issue:
+        check_quiz(issue.get("daily_quiz"))
+        check_registry(
+            "quiz", date, issue.get("daily_quiz") or {},
+            ("genre", "question", "answer", "fact_key", "answer_key", "entities"),
+            ("fact_key",),
+        )
 
     latest = json.loads((ROOT / "newspaper" / "latest.json").read_text(encoding="utf-8"))
     if latest.get("date") != date or latest.get("path") != f"newspaper/{date}.json":
