@@ -6,7 +6,7 @@
 
 ## 0. 準備
 
-- `STYLE.md`、`newspaper/latest.json`、直近2日分の `newspaper/*.json`、`registry/culture.json`、`registry/quiz.json` を読む。
+- `STYLE.md`、`newspaper/latest.json`、直近2日分の `newspaper/*.json` を読む。
 - `newspaper/DATE.json` がもう `main` にあれば、何もせず終わる（二重発行しない）。
 
 ## 道具
@@ -42,13 +42,17 @@
 - `as_of` にいつ時点のデータかを英語1文で書く。
 - `market_moves` は大きく動いた2〜3銘柄について `{symbol, move, explanation}`。`explanation` は日本語で、報道で確かめられる理由だけ。断定できないときはそう書く。
 
-## 3. DAILY CULTURE
+## 3. DAILY CULTURE（2026-10-03 から生成停止中。再開するときだけ以下に従う）
+
+停止中は `daily_culture` を紙面JSONに入れず、`registry/culture.json` も更新しない。再開するときは5のファイルに `daily_culture` と registry 追記を戻す。
 
 - 1日1本の読み物（日本語で600〜900字程度、これまでの号と同じくらい。段落は `\n\n`）。「へえ」となる具体的な事実から入り、最後に物の見方が1つ変わるように締める。
 - `registry/culture.json` の過去の `topic_key` と同じ題材は使わない。`angle_key` や `entities` が近いものも避ける。
 - 形：`{title, body, explore: [3〜5語], sources: [{name, url}]}`。事実は出典で確かめる。
 
-## 4. DAILY QUIZ
+## 4. DAILY QUIZ（2026-10-03 から生成停止中。再開するときだけ以下に従う）
+
+停止中は `daily_quiz` を紙面JSONに入れず、`registry/quiz.json` も更新しない。再開するときは5のファイルに `daily_quiz` と registry 追記を戻す。
 
 - 1問1答（選択肢なし）。答えが1つに決まる問題。
 - `registry/quiz.json` の過去の `fact_key` と同じ事実は使わない。直前数日とジャンルが続かないようにする。
@@ -56,12 +60,12 @@
 
 ## 5. ファイルを書く
 
-1. `newspaper/DATE.json`：`{schemaVersion: 1, date: DATE, timezone: "Asia/Tokyo", generated_at: "<今の時刻 +09:00>", news, markets, daily_culture, daily_quiz}`
-2. `registry/culture.json` の `items` の末尾に `{date, title, topic_key, angle_key, entities, knowledge_claims}` を追加
-3. `registry/quiz.json` の `items` の末尾に `{date, genre, question, answer, fact_key, answer_key, entities}` を追加
+1. `newspaper/DATE.json`：`{schemaVersion: 1, date: DATE, timezone: "Asia/Tokyo", generated_at: "<今の時刻 +09:00>", news, markets}`（停止中は `daily_culture` / `daily_quiz` を入れない。再開時は末尾に足す）
+2. （再開時のみ）`registry/culture.json` の `items` の末尾に `{date, title, topic_key, angle_key, entities, knowledge_claims}` を追加
+3. （再開時のみ）`registry/quiz.json` の `items` の末尾に `{date, genre, question, answer, fact_key, answer_key, entities}` を追加
 4. `newspaper/latest.json` を `{schemaVersion: 1, date: DATE, path: "newspaper/DATE.json", published_at: "<今の時刻 +09:00>"}` に更新
 
-JSON は UTF-8、2スペースインデント、日本語はエスケープしない。registry への追加は `python3 scripts/registry_add.py culture|quiz ENTRY.json` を使う（同じ日付があれば置き換え、書き方は既存のまま）。
+JSON は UTF-8、2スペースインデント、日本語はエスケープしない。再開時の registry への追加は `python3 scripts/registry_add.py culture|quiz ENTRY.json` を使う（同じ日付があれば置き換え、書き方は既存のまま）。
 
 ## 6. 検証
 
