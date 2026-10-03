@@ -131,6 +131,10 @@ def check_markets(m):
             has_bp = isinstance(item.get("change_bp"), (int, float))
             if not (has_pct or has_bp):
                 err(f"{where}: change_pct か change_bp が必要")
+            if "change" in item and not isinstance(item["change"], (int, float)):
+                err(f"{where}: change（値幅）が数値でない")
+            if has_pct and isinstance(item.get("change"), (int, float)) and item["change"] * item["change_pct"] < 0:
+                err(f"{where}: change と change_pct の符号が逆")
             text(item, "source", where)
             if not str(item.get("source_url", "")).startswith("https://"):
                 err(f"{where}: source_url が https でない")

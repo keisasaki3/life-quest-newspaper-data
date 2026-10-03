@@ -107,7 +107,8 @@ def main():
     for group, sym, ysym, unit, nd in YAHOO:
         try:
             now, prev = yahoo(ysym)
-            item = {"symbol": sym, "value": round(now, nd), "change_pct": pct(now, prev)}
+            item = {"symbol": sym, "value": round(now, nd), "change_pct": pct(now, prev),
+                    "change": round(now - prev, nd)}
             if unit:
                 item["unit"] = unit
             item["source"] = "Yahoo Finance"
@@ -119,6 +120,8 @@ def main():
     try:
         now, prev = topix()
         out["stocks"].append({"symbol": "TOPIX", "value": now, "change_pct": pct(now, prev),
+                              "change": round(now - prev, 2),
+                              "change": round(now - prev, 2),
                               "source": "株探", "source_url": "https://kabutan.jp/stock/?code=0010"})
     except Exception as e:  # noqa: BLE001
         missing.append(f"TOPIX: {e}")
