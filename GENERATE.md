@@ -81,6 +81,13 @@ ERROR が1つでもあれば直してから再実行。WARN は読んで、直�
 - 公開の目安は日本時間 6:15。
 - マージ後、`https://raw.githubusercontent.com/keisasaki3/life-quest-newspaper-data/main/newspaper/latest.json` が DATE を指していることを確かめる。
 
+## つまずきやすい点
+
+- 5:20 JST 時点では Yahoo の日経平均（`^N225`）が前日のままのことがある。株探（`https://kabutan.jp/stock/?code=0000`）の終値・前日終値で確かめる。
+- 米財務省のCSVはときどきTLSエラー（curl 35）で落ちる。少し待って取り直す。
+- 財務省の `jgbcm.csv` は当月分だけなので、月初の営業日は `fetch_markets.py` が `data/jgbcm_all.csv` に切り替える。
+- `market_moves` の理由が読める報道で確かめられないとき（CNBC・Reutersは403になりやすい）は、推測で書かず「理由は確かめられなかった」と書く。
+
 ## 失敗したとき
 
 - 途中で失敗したら `main` には何も入れない（前日の号がそのまま表示される）。

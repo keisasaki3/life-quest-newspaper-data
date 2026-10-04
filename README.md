@@ -2,6 +2,8 @@
 
 人生クエスト `NEWSPAPER` 用の公開データ＋簡易ビュー。
 
+作業ルールは [AGENTS.md](AGENTS.md)。
+
 ## Viewer
 
 - https://life-quest-newspaper.onrender.com
