@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-05",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-05T05:24:06+09:00",
+  "news": [
+    {
+      "id": "okinawa-marine-murder-arrest",
+      "region": "japan",
+      "headline_en": "A US Marine is arrested over a murder in Okinawa.",
+      "headline": "沖縄で米海兵隊員が殺人容疑で逮捕されました。",
+      "summary": [
+        {
+          "en": "A 20-year-old Marine stationed at Futenma was arrested after a woman's body was found in a hotel in Naha early on Saturday.",
+          "ja": "土曜の早朝、那覇市のホテルで女性の遺体が見つかり、普天間基地所属の20歳の海兵隊員が逮捕されました。"
+        },
+        {
+          "en": "Prime Minister Takaichi called it a brutal robbery and murder, and the foreign ministry summoned US Ambassador George Glass on Sunday.",
+          "ja": "高市首相は「残虐で凶悪な」強盗殺人だと述べ、外務省は日曜にグラス駐日米大使を呼んで抗議いたしました。"
+        },
+        {
+          "en": "Okinawa's governor says the US military's discipline efforts are not working, so I expect calls for real changes to grow.",
+          "ja": "沖縄県知事は米軍の綱紀粛正が機能していないと述べており、実効ある再発防止策を求める声は強まるかと存じます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do"
+        },
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/04/japan/crime-legal/okinawa-marine-arrest-robbery-murder/"
+        }
+      ]
+    },
+    {
+      "id": "typhoon-27-ogasawara",
+      "region": "japan",
+      "headline_en": "Very strong Typhoon No. 27 nears the Ogasawara Islands.",
+      "headline": "非常に強い台風27号が小笠原に近づきます。",
+      "summary": [
+        {
+          "en": "The large, very strong typhoon is expected to peak on Monday, with its central pressure falling to 925 hPa.",
+          "ja": "大型で非常に強い台風27号は5日(月)に発達のピークを迎え、中心気圧は925hPaまで下がる見込みでございます。"
+        },
+        {
+          "en": "It may approach the Ogasawara Islands from Monday evening into early Tuesday, and Pacific coasts from western to northern Japan will see high waves through Tuesday.",
+          "ja": "5日夕方から6日はじめにかけて小笠原諸島に接近するおそれがあり、西日本から北日本の太平洋側も6日にかけて波が高くなります。"
+        },
+        {
+          "en": "Even if it stays out at sea, swells can reach the mainland coast, so please keep away from the shore for now.",
+          "ja": "本州に近づかなくても、うねりは沿岸まで届きます。しばらくは海辺に近づかないのが安心かと存じます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "tenki.jp",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/04/40852.html"
+        },
+        {
+          "name": "tenki.jp",
+          "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/04/40856.html"
+        }
+      ]
+    },
+    {
+      "id": "kyiv-bridges-merz-visit",
+      "region": "europe",
+      "headline_en": "Russian drones hit Kyiv's bridges again as Merz visits.",
+      "headline": "キーウの橋にまたドローン攻撃がありました。",
+      "summary": [
+        {
+          "en": "Major bridges in Kyiv have been hit by Russian drones for four days in a row, and two people were hurt on the Northern Bridge on Sunday.",
+          "ja": "キーウの主要な橋が4日連続でロシアのドローン攻撃を受け、日曜には北橋で2人がけがをいたしました。"
+        },
+        {
+          "en": "German Chancellor Friedrich Merz made a surprise visit to Kyiv the same day, while Russia said it would step up its strikes.",
+          "ja": "同じ日にドイツのメルツ首相がキーウを電撃訪問し、ロシア側は攻撃を強めると表明しております。"
+        },
+        {
+          "en": "About 500,000 vehicles cross these bridges every day, so this looks like an attempt to wear down daily life in the capital.",
+          "ja": "橋は1日約50万台の車が渡る要所で、首都の暮らしそのものを削る狙いが見て取れます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
+        }
+      ]
+    },
+    {
+      "id": "yemen-war-on-houthis-aramco",
+      "region": "world",
+      "headline_en": "Yemen's government declares all-out war on the Houthis.",
+      "headline": "イエメン政府がフーシ派への総攻撃を宣言しました。",
+      "summary": [
+        {
+          "en": "President Rashad al-Alimi announced military operations on Sunday to retake all territory held by the Iran-backed Houthis.",
+          "ja": "アリミ大統領は日曜、イランが支援するフーシ派の支配地域をすべて取り戻す軍事作戦の開始を宣言いたしました。"
+        },
+        {
+          "en": "The Houthis say they attacked Saudi Aramco sites in Riyadh and Khurais with a ballistic missile and drones; Saudi Arabia has not commented.",
+          "ja": "フーシ派は弾道ミサイルとドローンでリヤドとクライスのサウジアラムコ施設を攻撃したと主張し、サウジ側はコメントしておりません。"
+        },
+        {
+          "en": "With attacks aimed at Saudi oil, this is worth watching alongside oil prices this week.",
+          "ja": "サウジの石油施設が狙われておりますので、今週の原油価格とあわせて見ておきたい動きでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o"
+        }
+      ]
+    },
+    {
+      "id": "asian-games-japan-gold-record",
+      "region": "japan",
+      "headline_en": "Japan sets a record with 83 Asian Games golds.",
+      "headline": "日本がアジア大会で金83個の新記録です。",
+      "summary": [
+        {
+          "en": "At the Aichi-Nagoya Asian Games, Japan reached 83 gold medals on Saturday, beating its record of 78 from the 1966 Bangkok Games.",
+          "ja": "愛知・名古屋アジア大会で、日本は土曜に金メダル83個に達し、1966年バンコク大会の78個を上回りました。"
+        },
+        {
+          "en": "Softball won a seventh straight title, while the under-21 men's soccer team lost the final 1-0 to South Korea.",
+          "ja": "ソフトボールは7大会連続の優勝を果たし、男子サッカー（U-21）は決勝で韓国に0対1で敗れております。"
+        },
+        {
+          "en": "A record on home soil is a good start for Japan on the road to the 2028 Los Angeles Olympics.",
+          "ja": "地元開催での記録更新は、2028年ロサンゼルス五輪へ向けてよい弾みになるかと存じます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/sports/2026/10/04/asian-games/asian-games-japan-golds/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.83,
+        "change_pct": -0.06,
+        "change": -0.097,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.21,
+        "change_pct": -0.24,
+        "change": -0.42,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1257,
+        "change_pct": 0.07,
+        "change": 0.0008,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 68309.46,
+        "change_pct": -0.94,
+        "change": -647.26,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4091.0,
+        "change_pct": -0.99,
+        "change": -40.98,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7722.72,
+        "change_pct": 0.73,
+        "change": 56.27,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27190.86,
+        "change_pct": 1.19,
+        "change": 319.26,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51176.96,
+        "change_pct": 0.49,
+        "change": 250.4,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.092,
+        "unit": "%",
+        "change_bp": 3.5,
+        "source": "財務省 国債金利情報 (R8.10.1)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.83,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (10/02/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.28,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/02/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4162.3,
+        "change_pct": -0.95,
+        "change": -40.0,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 91.11,
+        "change_pct": -1.9,
+        "change": -1.76,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 85476.69,
+        "change_pct": 0.84,
+        "change": 713.11,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 2 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 1; FX and Bitcoin as of publishing time on Monday morning.",
+    "market_moves": [
+      {
+        "symbol": "NASDAQ",
+        "move": "+1.19%",
+        "explanation": "9月の米雇用統計で就業者の増加が2.9万人と予想を大きく下回り、10月の利上げ観測が後退いたしました。エヌビディアなどハイテク株が上昇をけん引しております。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-1.90%",
+        "explanation": "欧州が米国の圧力を受けてディーゼルの備蓄放出を検討しているとの報道で下げました。G7はその後、原油とディーゼル計1億バレルの放出を発表しております。"
+      }
+    ]
+  }
+}
