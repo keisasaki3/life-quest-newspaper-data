@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-06",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-06T05:23:28+09:00",
+  "news": [
+    {
+      "id": "pentagon-stops-anthropic-tools",
+      "region": "us",
+      "headline_en": "The Pentagon stops using Anthropic's AI tools.",
+      "headline": "国防総省がAnthropicのAIの使用をやめました。",
+      "summary": [
+        {
+          "en": "The US Department of Defense told the BBC it has ceased the use of Anthropic products, months after designating the company a supply chain risk.",
+          "ja": "米国防総省はBBCに、同社を「サプライチェーン・リスク」に指定してから数か月後に、Anthropic製品の使用を停止したと伝えました。"
+        },
+        {
+          "en": "Anthropic had refused the Pentagon's push to remove Claude's safety guardrails, citing concerns about mass surveillance and autonomous weapons.",
+          "ja": "Anthropicは、大規模監視と自律型兵器への懸念を挙げて、Claudeの安全上のガードレールを外すよう迫る国防総省の求めを拒んでおりました。"
+        },
+        {
+          "en": "Where an AI company draws its safety line is now shaping who wins government contracts.",
+          "ja": "AI企業がどこに安全の線を引くかが、いまや誰が政府の契約を勝ち取るかを形づくっているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o"
+        }
+      ]
+    },
+    {
+      "id": "boj-underlying-inflation-2pct",
+      "region": "japan",
+      "headline_en": "The BOJ may declare underlying inflation has hit 2%.",
+      "headline": "日銀が基調インフレ2%到達を宣言するかもしれません。",
+      "summary": [
+        {
+          "en": "The Bank of Japan is considering concluding that underlying inflation has reached around 2%, sources said on Monday.",
+          "ja": "日本銀行は、基調的なインフレ率がおよそ2%に達したと結論づけることを検討していると、関係者が月曜に述べました。"
+        },
+        {
+          "en": "It could state this view as early as Oct. 30, in its quarterly outlook report released after the two-day policy meeting from Oct. 29.",
+          "ja": "早ければ10月30日、29日からの2日間の金融政策決定会合の後に公表される四半期の展望レポートで、この見方を示す可能性がございます。"
+        },
+        {
+          "en": "With the 2% target within reach, I would keep an eye on the BOJ's next move on rates, which moves both the yen and Japanese stocks.",
+          "ja": "2%の目標が手の届くところにございますので、わたくしは円と日本株の両方を動かす日銀の金利の次の一手に目を配っておきたく存じます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/05/economy/bank-of-japan-underlying-inflation-rate/"
+        }
+      ]
+    },
+    {
+      "id": "takaichi-proactive-fiscal-policy",
+      "region": "japan",
+      "headline_en": "Takaichi pledges a \"proactive fiscal policy\" in parliament.",
+      "headline": "高市首相が国会で「積極財政」を誓いました。",
+      "summary": [
+        {
+          "en": "Prime Minister Sanae Takaichi pledged on Monday to use long-term government spending to spur investment and strengthen Japan's economy.",
+          "ja": "高市早苗首相は月曜、長期的な政府支出を使って投資を促し、日本経済を強くすると誓いました。"
+        },
+        {
+          "en": "Her policy address set out the government's priorities for a 69-day autumn session of parliament that opened the same day and runs through Dec. 12.",
+          "ja": "その所信表明演説は、同じ日に開会し12月12日まで続く69日間の秋の国会に向けて、政府の優先課題を示しました。"
+        },
+        {
+          "en": "A weak yen and funding concerns cloud the outlook, so how markets take more spending is worth watching.",
+          "ja": "弱い円と財源への懸念が見通しを曇らせておりますので、市場がさらなる支出をどう受け止めるかは見ておく価値がございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/05/japan/politics/prime-minister-speech-autumn-diet/"
+        }
+      ]
+    },
+    {
+      "id": "brazil-bolsonaro-wins-first-round",
+      "region": "world",
+      "headline_en": "Flávio Bolsonaro wins Brazil's first round.",
+      "headline": "ボルソナロ氏がブラジルの第1回投票に勝ちました。",
+      "summary": [
+        {
+          "en": "With almost all votes counted, right-winger Flávio Bolsonaro has 47% to President Lula's 45%.",
+          "ja": "ほぼすべての票が数えられた時点で、右派のフラビオ・ボルソナロ氏が47%、ルラ大統領が45%でございます。"
+        },
+        {
+          "en": "He fell short of an outright majority, so the two will face a run-off on Oct. 25.",
+          "ja": "同氏は単独過半数に届かなかったため、二人は10月25日の決選投票で向き合います。"
+        },
+        {
+          "en": "The BBC says the run-off now looks like his to lose, as some of the knocked-out candidates were right-wing alternatives.",
+          "ja": "敗退した候補の中に右派の別の選択肢がいたため、BBCは決選投票がいまや「彼が落とさない限り彼のもの」に見えると伝えております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no"
+        }
+      ]
+    },
+    {
+      "id": "yemen-retakes-mokha",
+      "region": "world",
+      "headline_en": "Yemen's government says it has retaken the port of Mokha.",
+      "headline": "イエメン政府がモカ港を奪還したと発表しました。",
+      "summary": [
+        {
+          "en": "Saudi-backed government forces say they captured the Red Sea port city of Mokha on Monday and \"secured\" the Bab al-Mandab Strait.",
+          "ja": "サウジアラビアに支えられた政府軍は、月曜に紅海の港湾都市モカを制圧し、バブ・エル・マンデブ海峡を「確保した」と述べております。"
+        },
+        {
+          "en": "There was no immediate comment from the Houthis, and the Saudi-led coalition says its jets have destroyed 324 \"high-value\" targets.",
+          "ja": "フーシ派からすぐのコメントはなく、サウジ主導の連合軍は、戦闘機が324の「高価値」目標を破壊したと述べております。"
+        },
+        {
+          "en": "Bab al-Mandab is a vital shipping lane, so whether it is really secured matters for oil and shipping costs.",
+          "ja": "バブ・エル・マンデブは極めて重要な航路でございますので、本当に確保されたのかどうかが、原油と輸送のコストにとって大事になります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.979,
+        "change_pct": 0.16,
+        "change": 0.245,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.22,
+        "change_pct": -0.17,
+        "change": -0.3,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1221,
+        "change_pct": -0.3,
+        "change": -0.0034,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 69946.86,
+        "change_pct": 2.4,
+        "change": 1637.4,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4145.22,
+        "change_pct": 1.33,
+        "change": 54.22,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7773.95,
+        "change_pct": 0.66,
+        "change": 51.23,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27477.31,
+        "change_pct": 1.05,
+        "change": 286.45,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51267.9,
+        "change_pct": 0.18,
+        "change": 90.94,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.097,
+        "unit": "%",
+        "change_bp": 0.5,
+        "source": "財務省 国債金利情報 (R8.10.2)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.84,
+        "unit": "%",
+        "change_bp": 1,
+        "source": "U.S. Treasury (10/05/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.31,
+        "unit": "%",
+        "change_bp": 3,
+        "source": "U.S. Treasury (10/05/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4166.2,
+        "change_pct": 0.09,
+        "change": 3.9,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 89.34,
+        "change_pct": -1.94,
+        "change": -1.77,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 85799.99,
+        "change_pct": -0.79,
+        "change": -680.31,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Monday, Oct 5 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 2; FX and Bitcoin as of publishing time on Tuesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+2.40%",
+        "explanation": "株探によりますと、半導体関連株が買われて急反発し、一時7万円台を回復いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-1.94%",
+        "explanation": "サウジアラムコがアジア向けアラブ・ライトの11月の価格を、地域の指標より1バレル5ドル安い6年ぶりの低さに下げたことで値下がりいたしました（Rigzone）。"
+      }
+    ]
+  }
+}
