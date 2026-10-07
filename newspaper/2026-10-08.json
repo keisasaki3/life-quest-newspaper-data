@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-08",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-08T05:22:12+09:00",
+  "news": [
+    {
+      "id": "nobel-chemistry-soai-kagan",
+      "region": "japan",
+      "headline_en": "Japan's Kenso Soai shares the chemistry Nobel.",
+      "headline": "硤合憲三さんがノーベル化学賞を共同で受賞しました。",
+      "summary": [
+        {
+          "en": "Japanese scientist Kenso Soai won the Nobel Prize in chemistry on Wednesday along with France's Henri B. Kagan.",
+          "ja": "日本の科学者、硤合憲三さんが水曜、フランスのアンリ・B・カガンさんとともにノーベル化学賞を受賞いたしました。"
+        },
+        {
+          "en": "They were honoured for discovering non-linear effects and autocatalysis in asymmetric organic synthesis, which help explain why life uses only one mirror-image form of molecules.",
+          "ja": "お二人は、不斉有機合成における非線形効果と自己触媒作用の発見で称えられ、これは生命がなぜ分子の鏡像の片方の形だけを使うのかを説明する助けになります。"
+        },
+        {
+          "en": "Like left and right hands, molecules come in mirror pairs, so this answers a question that goes to the root of life itself.",
+          "ja": "左手と右手のように分子は鏡像の対で現れますので、これは生命そのものの根っこに届く問いに答えるものでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/07/japan/science-health/2026-nobel-prize-chemistry/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o"
+        }
+      ]
+    },
+    {
+      "id": "japan-beer-cartel-raids",
+      "region": "japan",
+      "headline_en": "Japan's big brewers are raided over an alleged cartel.",
+      "headline": "大手ビール各社がカルテルの疑いで検査を受けました。",
+      "summary": [
+        {
+          "en": "The Japan Fair Trade Commission searched Asahi, Kirin and Suntory over allegations they worked together to raise the price of their beverages.",
+          "ja": "公正取引委員会は、飲料の値上げで協力し合った疑いで、アサヒ、キリン、サントリーを立ち入り検査いたしました。"
+        },
+        {
+          "en": "Asahi, Kirin and Sapporo all saw their share prices fall after news of the investigation broke on Wednesday.",
+          "ja": "水曜に調査の知らせが伝わった後、アサヒ、キリン、サッポロはそろって株価が下がりました。"
+        },
+        {
+          "en": "If the price rises were coordinated rather than driven by costs, it would change how we read every \"cost-driven\" hike.",
+          "ja": "もし値上げがコストに押されたものではなく示し合わせたものなら、あらゆる「コスト要因の」値上げの読み方が変わってまいります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o"
+        }
+      ]
+    },
+    {
+      "id": "topix-largest-overhaul",
+      "region": "japan",
+      "headline_en": "The Topix's largest-ever overhaul will cull hundreds of stocks.",
+      "headline": "TOPIXの過去最大の見直しで数百銘柄が外されます。",
+      "summary": [
+        {
+          "en": "Japan Exchange Group unveiled the biggest-ever reshuffle of the Topix on Wednesday, earmarking 683 companies for removal under tougher rules.",
+          "ja": "日本取引所グループは水曜、TOPIXの過去最大の入れ替えを発表し、より厳しいルールのもとで683社を除外の対象に指定いたしました。"
+        },
+        {
+          "en": "Among the 35 stocks to be added are McDonald's Holdings Co. Japan and Ferrotec, and the changes begin to take effect on Oct. 30.",
+          "ja": "新たに加わる35銘柄の中には日本マクドナルドホールディングスとフェローテックがあり、変更は10月30日から効力を持ち始めます。"
+        },
+        {
+          "en": "If you hold a Topix fund, what it holds will shift, and companies outside will feel more pressure to boost their market appeal.",
+          "ja": "経太様がTOPIXのファンドをお持ちなら中身が移り変わり、外された会社は市場での魅力を高めるよう一段と圧力を感じることになります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/07/topix-revamp-cull-stocks/"
+        }
+      ]
+    },
+    {
+      "id": "imf-georgieva-long-term-rates",
+      "region": "world",
+      "headline_en": "The IMF chief worries about high Japan and US long-term rates.",
+      "headline": "IMF専務理事が日米の長期金利の高さを懸念しました。",
+      "summary": [
+        {
+          "en": "Kristalina Georgieva noted the 10-year JGB yield is at its highest in about 30 years and the 10-year Treasury yield at its highest in about 19 years, and both are \"still climbing.\"",
+          "ja": "ゲオルギエバ氏は、10年物国債利回りがおよそ30年ぶり、米10年債利回りがおよそ19年ぶりの高さにあり、どちらも「なお上昇中」だと指摘いたしました。"
+        },
+        {
+          "en": "She said now may be a good time for \"a prudently hawkish bias\" in many countries' monetary policy.",
+          "ja": "同氏は、いまは多くの国の金融政策が「慎重にタカ派寄り」になるのによい時かもしれないと述べました。"
+        },
+        {
+          "en": "When the IMF leans hawkish, it backs higher rates for longer, which weighs on both stocks and bonds.",
+          "ja": "IMFがタカ派に傾くということは、より高い金利をより長く支持するということで、株と債券の両方の重しになります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/07/imf-chief-concern-rates/"
+        }
+      ]
+    },
+    {
+      "id": "pryluky-missile-strike",
+      "region": "europe",
+      "headline_en": "A Russian missile kills 19 in a block of flats.",
+      "headline": "ロシアのミサイルが集合住宅で19人を殺害しました。",
+      "summary": [
+        {
+          "en": "A Russian missile killed 19 people including five children in an apartment block in Pryluky, northern Ukraine, as families slept.",
+          "ja": "ロシアのミサイルが、家族が眠っている間にウクライナ北部プルィルーキの集合住宅で、子ども5人を含む19人の命を奪いました。"
+        },
+        {
+          "en": "Across the country the death toll on Wednesday climbed to 25, and Moscow said its \"massive strike\" had targeted military industries.",
+          "ja": "国全体では水曜の死者は25人にのぼり、モスクワ側はその「大規模攻撃」が軍需産業を狙ったものだと述べております。"
+        },
+        {
+          "en": "Zelensky called it one of Russia's \"most vile strikes,\" and attacks that hit sleeping families harden positions on both sides.",
+          "ja": "ゼレンスキー大統領はこれをロシアの「最も卑劣な攻撃」のひとつと呼び、眠る家族を襲う攻撃は双方の立場を硬くいたします。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.085,
+        "change_pct": -0.13,
+        "change": -0.211,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.97,
+        "change_pct": -0.66,
+        "change": -1.17,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1198,
+        "change_pct": -0.49,
+        "change": -0.0055,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 70035.71,
+        "change_pct": -0.92,
+        "change": -648.27,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4154.11,
+        "change_pct": -0.7,
+        "change": -29.45,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7801.77,
+        "change_pct": -0.22,
+        "change": -17.16,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27538.69,
+        "change_pct": -0.22,
+        "change": -61.1,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51179.87,
+        "change_pct": -0.66,
+        "change": -341.41,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.103,
+        "unit": "%",
+        "change_bp": 1.8,
+        "source": "財務省 国債金利情報 (R8.10.6)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.77,
+        "unit": "%",
+        "change_bp": -2,
+        "source": "U.S. Treasury (10/07/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.28,
+        "unit": "%",
+        "change_bp": 1,
+        "source": "U.S. Treasury (10/07/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4131.6,
+        "change_pct": -1.33,
+        "change": -55.5,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 88.98,
+        "change_pct": -0.51,
+        "change": -0.46,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 83512.46,
+        "change_pct": -2.39,
+        "change": -2045.1,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Wednesday, Oct 7 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 6; FX and Bitcoin as of publishing time on Thursday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.92%",
+        "explanation": "株探によりますと、半導体関連株を中心に利益確定の売りが出て、3日ぶりに反落いたしました。"
+      },
+      {
+        "symbol": "BITCOIN",
+        "move": "-2.39%",
+        "explanation": "ビットコインが2%あまり下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
