@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-07T09:01:29+09:00",
+  "news": [
+    {
+      "id": "paramount-takes-over-warner-bros",
+      "region": "us",
+      "headline_en": "Paramount takes over Warner Bros in a $110bn merger.",
+      "headline": "パラマウントが1100億ドルでワーナーを買収しました。",
+      "summary": [
+        {
+          "en": "Paramount Skydance has officially taken over Warner Bros Discovery in a $110bn merger set to reshape Hollywood.",
+          "ja": "パラマウント・スカイダンスは、ハリウッドを作り変えることになる1100億ドルの合併で、ワーナー・ブラザース・ディスカバリーを正式に買収いたしました。"
+        },
+        {
+          "en": "The merged company brings together HBO, CBS, Nickelodeon and DC Studios, and will be rebranded as Skydance Corporation.",
+          "ja": "合併後の会社はHBO、CBS、ニコロデオン、DCスタジオをひとつにまとめ、スカイダンス・コーポレーションという名前に改められます。"
+        },
+        {
+          "en": "Fewer, bigger studios could change what you pay for streaming, so it is worth watching prices from here.",
+          "ja": "より少なく、より大きなスタジオは、経太様がストリーミングに払う額を変えうるので、ここからの価格は見ておく価値がございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo"
+        }
+      ]
+    },
+    {
+      "id": "takaichi-asked-trump-north-korea-summit",
+      "region": "japan",
+      "headline_en": "Takaichi asked Trump to broker a summit with North Korea.",
+      "headline": "高市首相が日朝首脳会談の仲介をトランプ氏に頼みました。",
+      "summary": [
+        {
+          "en": "Prime Minister Takaichi asked President Trump last month to encourage Kim Jong Un to accept a summit with Japan if a US-North Korea summit happens.",
+          "ja": "高市首相は先月、米朝首脳会談が実現した場合に、日本との首脳会談を受け入れるよう金正恩氏に促してほしいとトランプ大統領に頼みました。"
+        },
+        {
+          "en": "A former abduction minister revealed this on Tuesday, and it is not known how Trump responded.",
+          "ja": "元拉致問題担当大臣が火曜にこれを明らかにし、トランプ氏がどう応じたかは分かっておりません。"
+        },
+        {
+          "en": "Talks on the abductions have stalled, and Takaichi appears eager to break this stalemate.",
+          "ja": "拉致をめぐる交渉は行き詰まっており、高市首相はこの膠着状態を打ち破ることに意欲的なようでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/takaichi-trump-north-korea-abductee/"
+        }
+      ]
+    },
+    {
+      "id": "nobel-physics-halzen-icecube",
+      "region": "world",
+      "headline_en": "\"Ghost particles\" research wins the physics Nobel.",
+      "headline": "「幽霊粒子」の研究がノーベル物理学賞を受けました。",
+      "summary": [
+        {
+          "en": "Belgian-born physicist Francis Halzen won the Nobel Prize in Physics for his work on IceCube, an observatory at the South Pole.",
+          "ja": "ベルギー生まれの物理学者フランシス・ハルゼン氏が、南極の観測所「アイスキューブ」での業績でノーベル物理学賞を受賞いたしました。"
+        },
+        {
+          "en": "IceCube uses a cubic kilometre of Antarctic ice fitted with light sensors to detect neutrinos from the distant universe.",
+          "ja": "アイスキューブは、光センサーを取り付けた1立方キロメートルの南極の氷を使い、遠い宇宙からのニュートリノを検出いたします。"
+        },
+        {
+          "en": "He says very few thought it would work, including himself, which shows how a long-shot idea can pay off.",
+          "ja": "ご本人は、自分も含めてうまくいくと思った人はごく少なかったと語っており、大穴の発想が実を結ぶこともあると分かります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo"
+        }
+      ]
+    },
+    {
+      "id": "finland-halts-google-data-centres",
+      "region": "europe",
+      "headline_en": "Finland orders a halt to work on two Google data centres.",
+      "headline": "フィンランドがGoogleのデータセンター工事を止めました。",
+      "summary": [
+        {
+          "en": "Finnish authorities ordered a halt to building work at two planned Google data centres over the clearance of more than 300 hectares of forest.",
+          "ja": "フィンランド当局は、300ヘクタールを超える森林の伐採をめぐって、計画中のGoogleのデータセンター2か所の建設工事の停止を命じました。"
+        },
+        {
+          "en": "The agency said work at one site was carried out without a mandatory environmental impact assessment, and Google said it had fallen short of its own high standards.",
+          "ja": "当局は1か所の工事が義務である環境影響評価なしに行われたと述べ、Googleは自社の高い基準に届いていなかったと述べました。"
+        },
+        {
+          "en": "The AI boom needs huge data centres, and how they fit with nature is becoming a real constraint.",
+          "ja": "AIブームは巨大なデータセンターを必要としており、それを自然とどう両立させるかが現実の制約になりつつございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o"
+        }
+      ]
+    },
+    {
+      "id": "kenya-first-ebola-case",
+      "region": "world",
+      "headline_en": "Kenya confirms its first ever case of Ebola.",
+      "headline": "ケニアで初めてのエボラ感染が確認されました。",
+      "summary": [
+        {
+          "en": "The patient, a Kenyan who had lived in DR Congo for seven years, died days after arriving in Nairobi.",
+          "ja": "患者はコンゴ民主共和国に7年間住んでいたケニア人で、ナイロビに着いて数日後に亡くなりました。"
+        },
+        {
+          "en": "The outbreak in DR Congo, caused by the rare Bundibugyo species, has killed more than 4,000 people this year and has no approved vaccine.",
+          "ja": "まれなブンディブギョ種によるコンゴ民主共和国での流行は、今年4000人を超える命を奪っており、承認されたワクチンはございません。"
+        },
+        {
+          "en": "He passed normal screening at Nairobi's main airport, so Kenya's stepped-up checks at airports and borders now matter a great deal.",
+          "ja": "この方はナイロビの主要空港で通常の検査を通過しておりましたので、空港と国境でのケニアの強化された監視がいま非常に重要になっております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.331,
+        "change_pct": 0.23,
+        "change": 0.368,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 178.14,
+        "change_pct": 0.54,
+        "change": 0.96,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1256,
+        "change_pct": 0.35,
+        "change": 0.0039,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 70683.98,
+        "change_pct": 1.05,
+        "change": 737.12,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4183.56,
+        "change_pct": 0.92,
+        "change": 38.34,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7818.93,
+        "change_pct": 0.58,
+        "change": 44.98,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27599.89,
+        "change_pct": 0.45,
+        "change": 122.58,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51521.28,
+        "change_pct": 0.49,
+        "change": 253.38,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.085,
+        "unit": "%",
+        "change_bp": -1.2,
+        "source": "財務省 国債金利情報 (R8.10.5)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.79,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (10/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.27,
+        "unit": "%",
+        "change_bp": -4,
+        "source": "U.S. Treasury (10/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4193.9,
+        "change_pct": 0.89,
+        "change": 37.1,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 90.0,
+        "change_pct": 0.64,
+        "change": 0.57,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 85537.06,
+        "change_pct": -0.29,
+        "change": -249.53,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Tuesday, Oct 6 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 5; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.05%",
+        "explanation": "株探によりますと、半導体関連株が買われて大幅に続伸し、終値でも7万円台を回復いたしました。"
+      },
+      {
+        "symbol": "US2Y",
+        "move": "-5bp",
+        "explanation": "米2年債利回りが低下いたしましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
