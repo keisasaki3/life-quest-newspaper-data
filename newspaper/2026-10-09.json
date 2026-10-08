@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-09",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-09T05:21:56+09:00",
+  "news": [
+    {
+      "id": "samsung-record-profit-ai-chips",
+      "region": "korea",
+      "headline_en": "The AI chip boom pushes Samsung's profit to a record.",
+      "headline": "AI半導体ブームでサムスンの利益が過去最高に。",
+      "summary": [
+        {
+          "en": "Samsung Electronics expects its operating profit for the three months to September to jump to 107.4tn won ($80bn), a nine-fold surge from a year earlier.",
+          "ja": "サムスン電子は、9月までの3か月間の営業利益が107.4兆ウォン（800億ドル）に跳ね上がり、前年から9倍に急増すると見込んでおります。"
+        },
+        {
+          "en": "It is driven by surging demand for memory chips used in AI data centres, and is the firm's fourth quarter in a row of record earnings.",
+          "ja": "これはAIデータセンターで使われるメモリーチップへの需要の急増によるもので、同社にとって4四半期連続の過去最高益でございます。"
+        },
+        {
+          "en": "Memory makers sit right under the AI boom, so their results are a good thermometer for how hot AI spending still runs.",
+          "ja": "メモリーメーカーはAIブームの真下にございますので、その業績はAIへの支出がいまだにどれほど熱いかを測るよい温度計になります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c687z8127302o"
+        }
+      ]
+    },
+    {
+      "id": "tanker-hit-off-qatar",
+      "region": "world",
+      "headline_en": "A tanker is hit by projectiles deep inside the Gulf.",
+      "headline": "湾岸の奥でタンカーが砲撃を受けました。",
+      "summary": [
+        {
+          "en": "A tanker was struck by \"multiple projectiles\" north of Qatar, with casualties reported, according to the UK Maritime Trade Operations agency.",
+          "ja": "英国海事貿易オペレーション（UKMTO）によりますと、カタールの北でタンカーが「複数の飛翔体」に撃たれ、死傷者が報告されております。"
+        },
+        {
+          "en": "It is the first reported attack on a ship this far west of the Strait of Hormuz since 9 September.",
+          "ja": "ホルムズ海峡からこれほど西で船が攻撃されたと報告されたのは、9月9日以来初めてでございます。"
+        },
+        {
+          "en": "Oil also surged by the most in a month on Thursday, so attacks at sea are once again moving prices.",
+          "ja": "原油も木曜にここ1か月で最も大きく急騰しており、海上での攻撃がふたたび価格を動かしております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo"
+        },
+        {
+          "name": "Rigzone",
+          "url": "https://www.rigzone.com/news/oil_surges_as_iran_tanker_attacks_escalate-08-oct-2026-184807-article"
+        }
+      ]
+    },
+    {
+      "id": "trump-asked-xi-meet-takaichi",
+      "region": "japan",
+      "headline_en": "Trump reportedly asked Xi to meet Takaichi.",
+      "headline": "トランプ氏が習氏に高市首相との会談を頼んだそうです。",
+      "summary": [
+        {
+          "en": "Trump asked Xi at their summit last month to hold a bilateral meeting with Prime Minister Takaichi, the South China Morning Post reported.",
+          "ja": "トランプ氏は先月の首脳会談で、高市首相との二国間会談を開くよう習氏に頼んだと、サウスチャイナ・モーニング・ポストが報じました。"
+        },
+        {
+          "en": "Xi was not receptive, saying China-Japan relations should be separate from China-US relations, according to the paper.",
+          "ja": "同紙によりますと、習氏は中日関係は中米関係とは切り離すべきだと述べ、受け入れに前向きではありませんでした。"
+        },
+        {
+          "en": "China has suggested Premier Li Qiang meet Takaichi at APEC next month instead, and Japan responded cautiously.",
+          "ja": "中国は来月のAPECで習氏の代わりに李強首相が高市首相と会うことを提案し、日本は慎重に応じたとのことでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/08/japan/trump-xi-urge-takaichi/"
+        }
+      ]
+    },
+    {
+      "id": "kramatorsk-bus-strike",
+      "region": "europe",
+      "headline_en": "A Russian strike on buses kills at least 30.",
+      "headline": "ロシアのバス攻撃で少なくとも30人が亡くなりました。",
+      "summary": [
+        {
+          "en": "At least 30 people were killed in a Russian glide bomb attack on two civilian buses in the eastern front-line city of Kramatorsk, rescue officials say.",
+          "ja": "救助当局によりますと、東部の前線の都市クラマトルシクで、ロシアの滑空爆弾が2台の民間バスを攻撃し、少なくとも30人が亡くなりました。"
+        },
+        {
+          "en": "According to the UN, Ukraine saw more civilians killed by August this year than in all of 2025.",
+          "ja": "国連によりますと、ウクライナでは今年8月までに、2025年の1年間を上回る数の民間人が亡くなっております。"
+        },
+        {
+          "en": "Coming a day after the Pryluky strike, it shows deadly attacks on civilians are surging rather than easing.",
+          "ja": "プルィルーキへの攻撃の翌日のことで、民間人への致命的な攻撃が和らぐどころか急増していることを示しております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o"
+        }
+      ]
+    },
+    {
+      "id": "uniqlo-overtakes-hm",
+      "region": "japan",
+      "headline_en": "Uniqlo is on track to overtake H&M.",
+      "headline": "ユニクロがH&Mを抜く勢いです。",
+      "summary": [
+        {
+          "en": "Uniqlo owner Fast Retailing's annual revenue climbed 17% to a record ¥3.96 trillion ($25 billion).",
+          "ja": "ユニクロを持つファーストリテイリングの年間売上高は17%伸びて、過去最高の3兆9600億円（250億ドル）になりました。"
+        },
+        {
+          "en": "That puts it on a path to pull ahead of H&M as the world's No. 2 apparel retailer and challenge Zara for the top spot.",
+          "ja": "これで同社は、H&Mを引き離して世界2位の衣料品小売になり、首位のZARAに挑む道筋に乗りました。"
+        },
+        {
+          "en": "A low-price Japanese casual-wear chain has become a global brand, which is a rare Japanese growth story worth following.",
+          "ja": "低価格の日本のカジュアル衣料チェーンが世界的なブランドになっており、追いかける価値のある珍しい日本の成長物語でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/08/uniqlo-global-top/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.862,
+        "change_pct": -0.13,
+        "change": -0.198,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.04,
+        "change_pct": -0.01,
+        "change": -0.01,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1218,
+        "change_pct": 0.15,
+        "change": 0.0017,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 69042.11,
+        "change_pct": -1.42,
+        "change": -993.6,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4091.46,
+        "change_pct": -1.51,
+        "change": -62.65,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7765.36,
+        "change_pct": -0.47,
+        "change": -36.41,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27193.34,
+        "change_pct": -1.25,
+        "change": -345.35,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51231.64,
+        "change_pct": 0.1,
+        "change": 51.77,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.111,
+        "unit": "%",
+        "change_bp": 0.8,
+        "source": "財務省 国債金利情報 (R8.10.7)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.75,
+        "unit": "%",
+        "change_bp": -2,
+        "source": "U.S. Treasury (10/08/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.22,
+        "unit": "%",
+        "change_bp": -6,
+        "source": "U.S. Treasury (10/08/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4159.7,
+        "change_pct": 0.46,
+        "change": 19.0,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 90.62,
+        "change_pct": 2.65,
+        "change": 2.34,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 81720.02,
+        "change_pct": -1.87,
+        "change": -1555.91,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Thursday, Oct 8 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 7; FX and Bitcoin as of publishing time on Friday morning.",
+    "market_moves": [
+      {
+        "symbol": "WTI",
+        "move": "+2.65%",
+        "explanation": "Rigzoneによりますと、イランによるタンカーへの新たな攻撃が中東からの供給の回復を細らせるとの懸念から、ここ1か月で最も大きく上げました。"
+      },
+      {
+        "symbol": "NIKKEI225",
+        "move": "-1.42%",
+        "explanation": "株探によりますと、欧米の株安を引き継いで続落し、その日の安値で引けました。"
+      }
+    ]
+  }
+}
