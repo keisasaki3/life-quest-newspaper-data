@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-10",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-10T05:21:44+09:00",
+  "news": [
+    {
+      "id": "trump-russian-diesel-deal",
+      "region": "us",
+      "headline_en": "Trump announces a deal for Russian diesel.",
+      "headline": "トランプ氏がロシア産ディーゼルの取引を発表しました。",
+      "summary": [
+        {
+          "en": "Trump says Putin agreed to release 300,000 tonnes of diesel immediately, followed by 500,000 tonnes in November and another million after that.",
+          "ja": "トランプ氏は、プーチン氏がディーゼル30万トンをただちに放出し、続いて11月に50万トン、その後さらに100万トンを放出することに合意したと述べております。"
+        },
+        {
+          "en": "Zelensky said \"gifts to Putin will not work for peace,\" and the US Treasury issued a temporary license allowing Russian diesel into the market.",
+          "ja": "ゼレンスキー氏は「プーチンへの贈り物は平和のために機能しない」と述べ、米財務省はロシア産ディーゼルを市場に入れる一時的な許可を出しました。"
+        },
+        {
+          "en": "US diesel prices have doubled since the Iran war began, so this is fuel relief ahead of the midterms that comes at a cost to sanctions.",
+          "ja": "米国のディーゼル価格はイラン戦争が始まってから倍になっておりますので、これは中間選挙を前にした燃料の救済であり、その代償は制裁にございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno"
+        }
+      ]
+    },
+    {
+      "id": "nobel-peace-navi-pillay",
+      "region": "world",
+      "headline_en": "Navi Pillay wins the Nobel Peace Prize.",
+      "headline": "ナビ・ピレイ氏がノーベル平和賞を受賞しました。",
+      "summary": [
+        {
+          "en": "Former UN human rights chief Navi Pillay, 85, was awarded the 2026 Nobel Peace Prize \"for her efforts to promote peace and international law.\"",
+          "ja": "元国連人権高等弁務官のナビ・ピレイ氏（85）が、「平和と国際法を推し進める努力に対して」2026年のノーベル平和賞を授与されました。"
+        },
+        {
+          "en": "She is South Africa's fifth Peace Prize winner, following in the footsteps of Nelson Mandela and Archbishop Desmond Tutu.",
+          "ja": "同氏は南アフリカで5人目の平和賞受賞者で、ネルソン・マンデラ氏とデズモンド・ツツ大主教の足跡に続く方でございます。"
+        },
+        {
+          "en": "The committee said international law is \"no longer just a supplement to peace and security\" but \"an absolute necessity.\"",
+          "ja": "委員会は、国際法は「もはや平和と安全の補足にとどまらず」、「絶対的な必要」だと述べております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o"
+        }
+      ]
+    },
+    {
+      "id": "panama-magnitude-7-7-quake",
+      "region": "world",
+      "headline_en": "A magnitude 7.7 earthquake hits Panama.",
+      "headline": "パナマでマグニチュード7.7の地震が起きました。",
+      "summary": [
+        {
+          "en": "A massive magnitude 7.7 earthquake hit Panama, damaging buildings and prompting a wide-ranging tsunami warning for neighbouring countries.",
+          "ja": "マグニチュード7.7の巨大な地震がパナマを襲い、建物に被害を与え、近隣の国々に広い範囲の津波警報を出させました。"
+        },
+        {
+          "en": "It struck at a depth of just 12km, and the full extent of the damage and any casualties is not yet clear.",
+          "ja": "震源の深さはわずか12キロメートルで、被害の全容と死傷者の有無はまだはっきりしておりません。"
+        },
+        {
+          "en": "It hit just three days before Panama's scheduled national earthquake drill, a reminder that the real thing does not wait for practice.",
+          "ja": "パナマが全国の地震避難訓練を予定していたわずか3日前に起きており、本番は練習を待ってくれないと思い起こさせます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo"
+        }
+      ]
+    },
+    {
+      "id": "el-nino-record-strength-jma",
+      "region": "japan",
+      "headline_en": "El Nino hits record strength, says Japan's weather agency.",
+      "headline": "エルニーニョが観測史上最強になりました。",
+      "summary": [
+        {
+          "en": "Sea surface temperatures in the tropical Pacific patch the JMA monitors were 4 degrees Celsius above normal in September, the highest in records back to 1949.",
+          "ja": "気象庁が監視する熱帯太平洋の海域の海面水温は9月に平年より4度高く、1949年までさかのぼる記録で最も高くなりました。"
+        },
+        {
+          "en": "El Nino has already led to the weakest Indian monsoon in more than a decade and threatened sugar and coffee output in Brazil.",
+          "ja": "エルニーニョはすでに10年あまりで最も弱いインドのモンスーンをもたらし、ブラジルの砂糖とコーヒーの生産を脅かしております。"
+        },
+        {
+          "en": "Its economic disruption could linger long after it fades, so food prices are worth watching.",
+          "ja": "その経済の混乱は現象が消えた後も長く残りうるので、食品の価格は見ておく価値がございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/environment/2026/10/09/climate-change/jma-el-nino-record-strength/"
+        }
+      ]
+    },
+    {
+      "id": "food-consumption-tax-bill",
+      "region": "japan",
+      "headline_en": "The food consumption tax cut bill goes to parliament.",
+      "headline": "食料品の消費税減税法案が国会に出されました。",
+      "summary": [
+        {
+          "en": "Takaichi's government submitted the bill to cut the consumption tax on food and nonalcoholic beverages from 8% to 1% from April.",
+          "ja": "高市政権は、食料品と酒類以外の飲料の消費税を4月から8%から1%に下げる法案を国会に提出いたしました。"
+        },
+        {
+          "en": "The rate would return to 8% in 2029, when a new income-linked benefits system is to be introduced.",
+          "ja": "税率は、所得に連動した新しい給付の仕組みが導入される予定の2029年に8%へ戻ります。"
+        },
+        {
+          "en": "Next week, opposition parties will likely press for a clear plan to make up the lost tax revenue.",
+          "ja": "来週は、野党が失われる税収をどう埋めるのか、はっきりした計画を求めて迫りそうでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/09/japan/politics/consumption-tax-bill-submit/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.247,
+        "change_pct": 0.12,
+        "change": 0.184,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.28,
+        "change_pct": 0.03,
+        "change": 0.05,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1206,
+        "change_pct": -0.06,
+        "change": -0.0007,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 69030.92,
+        "change_pct": -0.02,
+        "change": -11.19,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4104.81,
+        "change_pct": 0.33,
+        "change": 13.35,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7811.54,
+        "change_pct": 0.59,
+        "change": 46.18,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27366.17,
+        "change_pct": 0.64,
+        "change": 172.83,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51654.95,
+        "change_pct": 0.83,
+        "change": 423.31,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.089,
+        "unit": "%",
+        "change_bp": -2.2,
+        "source": "財務省 国債金利情報 (R8.10.8)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.8,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (10/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.24,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (10/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4219.7,
+        "change_pct": 1.51,
+        "change": 62.7,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 91.63,
+        "change_pct": 0.15,
+        "change": 0.14,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 82345.11,
+        "change_pct": 0.82,
+        "change": 668.77,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 9 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 8; FX and Bitcoin as of publishing time on Saturday morning.",
+    "market_moves": [
+      {
+        "symbol": "GOLD",
+        "move": "+1.51%",
+        "explanation": "金が1.5%上げましたが、理由は確かめられませんでした。"
+      },
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.02%",
+        "explanation": "株探によりますと、小幅に3日続落したものの、後場に入って急速に下げ渋りました。"
+      }
+    ]
+  }
+}
