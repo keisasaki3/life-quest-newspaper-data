@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-11T05:21:58+09:00",
+  "news": [
+    {
+      "id": "trump-ukraine-new-president",
+      "region": "us",
+      "headline_en": "Trump says it is time for Ukraine to get a new president.",
+      "headline": "トランプ氏「ウクライナは新しい大統領を」と発言しました。",
+      "summary": [
+        {
+          "en": "Trump said \"it's time for Ukraine to get a new president\" after Zelensky condemned the US diesel deal with Russia.",
+          "ja": "トランプ氏は、ゼレンスキー氏が米国とロシアのディーゼル取引を非難したのを受けて、「ウクライナは新しい大統領を得る時だ」と述べました。"
+        },
+        {
+          "en": "He said Zelensky \"wants to make problems for the world\" by continuing to authorise attacks on Russian refineries, and \"he'd better damn well stop.\"",
+          "ja": "同氏は、ゼレンスキー氏がロシアの製油所への攻撃を許可し続けることで「世界に問題を起こしたがっている」と述べ、「いいかげんにやめたほうがいい」と語りました。"
+        },
+        {
+          "en": "Fuel prices are now pulling US policy on Ukraine, so energy and the war can no longer be read separately.",
+          "ja": "燃料価格がいまや米国のウクライナ政策を引っぱっておりますので、エネルギーと戦争はもはや切り離して読むことはできません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo"
+        }
+      ]
+    },
+    {
+      "id": "hurricane-isaias-us",
+      "region": "us",
+      "headline_en": "Hurricane Isaias kills four in the southern US.",
+      "headline": "ハリケーン・イサイアスで米南部の4人が亡くなりました。",
+      "summary": [
+        {
+          "en": "Four people died and at least 600,000 were without power after Hurricane Isaias battered parts of the southern US.",
+          "ja": "ハリケーン・イサイアスが米国南部の一部を打ちのめし、4人が亡くなり、少なくとも60万人が停電いたしました。"
+        },
+        {
+          "en": "It made landfall in Florida late on Friday with maximum sustained winds of 105 mph (168 km/h).",
+          "ja": "金曜の夜遅く、最大風速が時速105マイル（168キロ）の状態でフロリダに上陸いたしました。"
+        },
+        {
+          "en": "A man died from carbon monoxide after running a generator in an unventilated garage, so generators belong outdoors.",
+          "ja": "換気されていないガレージで発電機を動かした男性が一酸化炭素で亡くなっており、発電機は屋外で使うものでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o"
+        }
+      ]
+    },
+    {
+      "id": "germany-eyes-gcap",
+      "region": "japan",
+      "headline_en": "Germany eyes joining the GCAP fighter jet project.",
+      "headline": "ドイツが次期戦闘機GCAPへの参加を検討しています。",
+      "summary": [
+        {
+          "en": "Germany is considering joining Japan, Britain and Italy in their joint project to develop a next-generation fighter jet, a government official suggested.",
+          "ja": "ドイツは、日本・英国・イタリアの次世代戦闘機を共同開発する計画への参加を検討していると、政府関係者がほのめかしました。"
+        },
+        {
+          "en": "It came after British Prime Minister Andy Burnham told Chancellor Merz that Britain is positive on Germany's participation.",
+          "ja": "これは、英国のバーナム首相がメルツ首相に、英国はドイツの参加に前向きだと伝えた後のことでございます。"
+        },
+        {
+          "en": "A rival Franco-German program collapsed in June, so GCAP, which Japan is part of, could grow into a bigger European project.",
+          "ja": "対抗する独仏の計画は6月に崩れておりますので、日本も加わるGCAPがより大きな欧州の計画に育つかもしれません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/10/japan/gcap-germany-join-japan/"
+        }
+      ]
+    },
+    {
+      "id": "takaichi-36000-yen-tax-cut",
+      "region": "japan",
+      "headline_en": "Takaichi says the tax cut is worth ¥36,000 per citizen.",
+      "headline": "高市首相は減税が1人3万6000円分になると述べました。",
+      "summary": [
+        {
+          "en": "Takaichi said the planned consumption tax cut for food is expected to reduce household burdens by about ¥36,000 per citizen.",
+          "ja": "高市首相は、予定している食料品の消費税減税が、家計の負担を国民1人あたり約3万6000円減らす見込みだと述べました。"
+        },
+        {
+          "en": "She explained the figure divides the total tax revenue loss to central and local governments by the population.",
+          "ja": "同氏は、この数字は国と地方の税収の減少の合計を人口で割ったものだと説明いたしました。"
+        },
+        {
+          "en": "It is an average, not a payment, so what each household saves depends on how much food it buys.",
+          "ja": "これは平均であり支払いではございませんので、各家庭が浮かせる額は食料品をどれだけ買うかによって変わります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/10/japan/politics/tax-cut-36000-takaichi/"
+        }
+      ]
+    },
+    {
+      "id": "china-eu-hybrid-exports-deal",
+      "region": "europe",
+      "headline_en": "China and the EU agree to halve Chinese hybrid exports.",
+      "headline": "中国とEUがハイブリッド車輸出の半減で合意しました。",
+      "summary": [
+        {
+          "en": "China and the EU reached a deal that could cut Chinese exports of hybrid cars to the bloc by more than half, EU Trade Commissioner Maros Sefcovic said.",
+          "ja": "中国とEUは、EUへの中国製ハイブリッド車の輸出を半分以上減らしうる合意に達したと、シェフチョビッチ欧州委員（通商担当）が述べました。"
+        },
+        {
+          "en": "He said it would cut imports by several million cars over four years, without offering details on how it will be implemented.",
+          "ja": "同氏は、これにより4年間で数百万台の輸入が減るとしましたが、どう実行するのかの詳細は示しませんでした。"
+        },
+        {
+          "en": "Shares of European carmakers broadly gained on the news, and it may also ease competition for Japanese hybrids in Europe.",
+          "ja": "欧州の自動車メーカーの株はこの知らせで広く上がり、欧州での日本のハイブリッド車への競争も和らぐかもしれません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/10/economy/china-eu-hybrid-exports/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.246,
+        "change_pct": 0.12,
+        "change": 0.183,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.1,
+        "change_pct": -0.07,
+        "change": -0.13,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1206,
+        "change_pct": -0.06,
+        "change": -0.0007,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 69030.92,
+        "change_pct": -0.02,
+        "change": -11.19,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4104.81,
+        "change_pct": 0.33,
+        "change": 13.35,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7811.54,
+        "change_pct": 0.59,
+        "change": 46.18,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27366.17,
+        "change_pct": 0.64,
+        "change": 172.83,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51654.95,
+        "change_pct": 0.83,
+        "change": 423.31,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.089,
+        "unit": "%",
+        "change_bp": -2.2,
+        "source": "財務省 国債金利情報 (R8.10.8)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.8,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (10/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.24,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (10/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4216.3,
+        "change_pct": 1.43,
+        "change": 59.3,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 91.85,
+        "change_pct": 0.39,
+        "change": 0.36,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 82973.49,
+        "change_pct": 0.52,
+        "change": 427.17,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 9 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 8; FX and Bitcoin as of publishing time on Sunday morning.",
+    "market_moves": [
+      {
+        "symbol": "GOLD",
+        "move": "+1.51%",
+        "explanation": "金が1.5%上げましたが、理由は確かめられませんでした。"
+      },
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.02%",
+        "explanation": "株探によりますと、小幅に3日続落したものの、後場に入って急速に下げ渋りました。"
+      }
+    ]
+  }
+}
