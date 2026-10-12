@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-13T05:24:20+09:00",
+  "news": [
+    {
+      "id": "russia-hits-energy-sites-despite-truce",
+      "region": "europe",
+      "headline_en": "Russia hits six energy sites despite the truce.",
+      "headline": "停戦でもロシアがエネルギー施設6か所を攻撃。",
+      "summary": [
+        {
+          "en": "Russia struck six Ukrainian energy facilities hours after President Trump announced an energy ceasefire, Volodymyr Zelensky said.",
+          "ja": "トランプ大統領がエネルギー停戦を発表した数時間後に、ロシアがウクライナのエネルギー施設6か所を攻撃したと、ゼレンスキー氏が述べました。"
+        },
+        {
+          "en": "Zelensky said 33 people were injured, and Russia's Foreign Minister Sergei Lavrov said Ukraine does not deserve the \"respite\" a ceasefire would bring.",
+          "ja": "ゼレンスキー氏は33人がけがをしたと述べ、ロシアのラブロフ外相は、ウクライナは停戦がもたらす「ひと息」に値しないと述べました。"
+        },
+        {
+          "en": "A ceasefire only counts when the strikes stop, and so far they have not.",
+          "ja": "停戦は攻撃が止まったときにだけ意味を持ち、今のところ攻撃は止まっておりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo"
+        }
+      ]
+    },
+    {
+      "id": "north-korea-ballistic-missiles-oct12",
+      "region": "japan",
+      "headline_en": "North Korea fires ballistic missiles into the Sea of Japan.",
+      "headline": "北朝鮮が日本海へ弾道ミサイルを発射しました。",
+      "summary": [
+        {
+          "en": "North Korea fired multiple ballistic missiles from its eastern coast on Monday, and Japan's Defense Ministry detected two separate launches.",
+          "ja": "北朝鮮は月曜、東海岸から複数の弾道ミサイルを発射し、日本の防衛省は2回の別々の発射を探知いたしました。"
+        },
+        {
+          "en": "The first, at around 9:19 a.m., flew about 220 km, the second, at around 9:36 a.m., flew more than 910 km, and both fell outside Japan's exclusive economic zone.",
+          "ja": "1発目は午前9時19分ごろに約220km、2発目は午前9時36分ごろに910km以上飛び、どちらも日本の排他的経済水域の外に落ちました。"
+        },
+        {
+          "en": "A flight of over 900 km is long enough to matter, even when the missile lands outside the EEZ.",
+          "ja": "900kmを超える飛行は、ミサイルがEEZの外に落ちたとしても、重大になるのに十分な長さでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/north-korea-multiple-ballistic-missiles-launch/"
+        }
+      ]
+    },
+    {
+      "id": "nobel-economics-hall-woodford",
+      "region": "world",
+      "headline_en": "Robert Hall and Michael Woodford win the Nobel economics prize.",
+      "headline": "ホール氏とウッドフォード氏がノーベル経済学賞受賞。",
+      "summary": [
+        {
+          "en": "Americans Robert Hall and Michael Woodford won the 2026 prize \"for microeconomic foundations of macroeconomic stabilisation.\"",
+          "ja": "米国人のロバート・ホール氏とマイケル・ウッドフォード氏が、「マクロ経済安定化のミクロ経済学的基礎」により2026年の賞を受賞いたしました。"
+        },
+        {
+          "en": "The committee chair said their work gave a stable foundation for the models now used by central banks and governments around the world.",
+          "ja": "委員長は、二人の研究が、いまや世界中の中央銀行と政府が使うモデルに安定した土台を与えたと述べました。"
+        },
+        {
+          "en": "So the next time a central bank moves interest rates, the thinking behind it partly traces back to these two.",
+          "ja": "ですから次に中央銀行が金利を動かすとき、その背後にある考え方の一部はこのお二人にさかのぼるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/12/world/nobel-economics-prize/"
+        }
+      ]
+    },
+    {
+      "id": "imf-ai-slow-moving-tsunami",
+      "region": "world",
+      "headline_en": "IMF chief calls AI a \"slow-moving tsunami\" for jobs.",
+      "headline": "IMFトップがAIを雇用の「ゆっくり動く津波」と呼びました。",
+      "summary": [
+        {
+          "en": "IMF Managing Director Kristalina Georgieva said AI is already hollowing out demand for many human workers by taking over routine, repetitive tasks.",
+          "ja": "IMFのゲオルギエワ専務理事は、AIが決まりきった繰り返しの作業を引き受けることで、すでに多くの人間の働き手への需要を空洞化させていると述べました。"
+        },
+        {
+          "en": "She also warned that AI could strain government revenues by tilting the economy toward capital and away from labor, which has been the main source of tax income.",
+          "ja": "さらに専務理事は、AIが経済を資本の方へ傾け、これまで税収の主な源だった労働から引き離すことで、政府の歳入を圧迫しうると警告いたしました。"
+        },
+        {
+          "en": "The word \"slow\" is the key: the change is easy to miss day to day, but it is not stopping.",
+          "ja": "鍵は「ゆっくり」という言葉で、変化は日々では見逃しやすいものの、止まってはおりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/12/imf-kristalina-georgieva-ai-warning/"
+        }
+      ]
+    },
+    {
+      "id": "japan-asia-oil-stockpiling",
+      "region": "japan",
+      "headline_en": "Japan calls for more oil stockpiling in Asia.",
+      "headline": "日本がアジアでの石油備蓄の拡大を呼びかけました。",
+      "summary": [
+        {
+          "en": "Trade minister Ryosei Akazawa called for greater oil stockpiling and infrastructure development in Asia, and for stronger cooperation between oil-producing and consuming countries.",
+          "ja": "赤沢亮正経済産業相は、アジアでの石油備蓄とインフラ整備の拡大、そして産油国と消費国の協力の強化を求めました。"
+        },
+        {
+          "en": "Speaking online at the International Energy Forum ministerial meeting, he said energy security has become increasingly important amid heightened tensions in the Middle East.",
+          "ja": "国際エネルギー・フォーラムの閣僚会合にオンラインで出席して、赤沢氏は、中東での緊張の高まりの中でエネルギー安全保障がますます重要になっていると述べました。"
+        },
+        {
+          "en": "A bigger cushion of stored oil is insurance against the next shock from the Middle East.",
+          "ja": "備蓄した石油のより大きなクッションは、中東からの次のショックに対する保険でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/12/japan-trade-minister-energy-security/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.637,
+        "change_pct": 0.36,
+        "change": 0.574,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.93,
+        "change_pct": -0.17,
+        "change": -0.3,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1157,
+        "change_pct": -0.5,
+        "change": -0.0056,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 69030.92,
+        "change_pct": -0.02,
+        "change": -11.19,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4104.81,
+        "change_pct": 0.33,
+        "change": 13.35,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7807.24,
+        "change_pct": -0.06,
+        "change": -4.3,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27245.9,
+        "change_pct": -0.44,
+        "change": -120.27,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51850.55,
+        "change_pct": 0.38,
+        "change": 195.6,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.089,
+        "unit": "%",
+        "change_bp": -2.2,
+        "source": "財務省 国債金利情報 (R8.10.8)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.8,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (10/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.24,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (10/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4193.4,
+        "change_pct": -0.54,
+        "change": -22.9,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 93.22,
+        "change_pct": 1.49,
+        "change": 1.37,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 82963.4,
+        "change_pct": -0.86,
+        "change": -716.07,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "US stocks, oil and gold are Monday, Oct 12 closes; Japan stocks are Friday, Oct 9 closes because Monday was a Japanese holiday; the latest US Treasury yields are for Oct 9 and JP10Y is the Ministry of Finance figure for Oct 8; FX and Bitcoin as of publishing time on Tuesday morning.",
+    "market_moves": [
+      {
+        "symbol": "WTI",
+        "move": "+1.47%",
+        "explanation": "Rigzoneによりますと、ウクライナがトランプ大統領の「エネルギー停戦」に疑問を投げかけ、サウジアラビアが新たな攻撃を受けたことで、原油は上がりました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-0.44%",
+        "explanation": "ナスダックが0.44%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
