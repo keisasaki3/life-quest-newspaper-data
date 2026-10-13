@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-14",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-14T05:23:09+09:00",
+  "news": [
+    {
+      "id": "boj-leans-against-october-hike",
+      "region": "japan",
+      "headline_en": "The BOJ is said to lean against an October rate hike.",
+      "headline": "日銀は10月利上げに反対の方へ傾いているとされます。",
+      "summary": [
+        {
+          "en": "Bank of Japan officials are leaning against a rare back-to-back interest rate increase this month, according to people familiar with the matter.",
+          "ja": "事情に詳しい人々によりますと、日銀の当局者は今月のまれな連続利上げに反対の方へ傾いております。"
+        },
+        {
+          "en": "They are still eyeing another move as soon as December, and the decision at the Oct. 30 meeting could still change until the last minute.",
+          "ja": "当局者はなお早ければ12月の次の動きに目を向けており、10月30日の会合での決定は最後の最後まで変わる可能性がございます。"
+        },
+        {
+          "en": "For your Japanese stocks and the yen, the date to circle is Oct. 30.",
+          "ja": "経太様の日本株と円にとって、丸をつけておくべき日付は10月30日でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/13/economy/boj-lean-against-october-rate-hike/"
+        }
+      ]
+    },
+    {
+      "id": "imf-weo-october-2026",
+      "region": "world",
+      "headline_en": "The IMF raises its global growth forecast to 3.1%.",
+      "headline": "IMFが世界の成長予測を3.1%に引き上げました。",
+      "summary": [
+        {
+          "en": "The IMF now forecasts 3.1% global growth for 2026, up from 3.0% in July, as strong AI investment offsets the energy shock from the war in the Middle East.",
+          "ja": "IMFはいま、2026年の世界の成長率を7月の3.0%から上げて3.1%と予測しており、強いAI投資が中東での戦争によるエネルギーショックを相殺しております。"
+        },
+        {
+          "en": "It raised Japan's 2026 forecast by 0.1 point to 0.7%, but warned that \"risks are skewed to the downside.\"",
+          "ja": "日本の2026年の予測は0.1ポイント上げて0.7%といたしましたが、「リスクは下方に偏っている」と警告いたしました。"
+        },
+        {
+          "en": "Much of the world's growth is now leaning on AI spending, so a rethink of AI profits would hit hard.",
+          "ja": "世界の成長の多くがいまやAIへの支出に寄りかかっており、AIの利益の見直しが起きれば強い打撃となるでしょう。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/13/economy/ai-investment-global-growth-imf/"
+        },
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/13/economy/imf-growth-forecast/"
+        }
+      ]
+    },
+    {
+      "id": "riyadh-missiles-intercepted-sanaa-depot",
+      "region": "world",
+      "headline_en": "Missiles are intercepted over Riyadh.",
+      "headline": "リヤド上空でミサイルが迎撃されました。",
+      "summary": [
+        {
+          "en": "Missiles and drones were intercepted over Riyadh after the Saudi-led coalition struck a fuel depot near Sanaa, the Houthi-controlled capital of Yemen.",
+          "ja": "サウジ主導の連合軍が、フーシ派の支配するイエメンの首都サヌア近くの燃料貯蔵所を攻撃した後、リヤド上空でミサイルとドローンが迎撃されました。"
+        },
+        {
+          "en": "The Houthis had warned they would target Riyadh's airport and Aramco refinery, and Trump said they were \"purposefully trying to drive up Oil Prices.\"",
+          "ja": "フーシ派はリヤドの空港とアラムコの製油所を標的にすると警告しており、トランプ氏はフーシ派が「わざと原油価格を押し上げようとしている」と述べました。"
+        },
+        {
+          "en": "Each strike and counter-strike now lands close to the world's oil supply, which is why prices stay so jumpy.",
+          "ja": "攻撃と反撃の一つひとつがいまや世界の石油供給の近くに落ちており、だからこそ価格がこれほど落ち着かないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o"
+        }
+      ]
+    },
+    {
+      "id": "japan-tankers-return-middle-east",
+      "region": "japan",
+      "headline_en": "Japan-linked tankers return to the Middle East.",
+      "headline": "日本関連のタンカーが中東に戻りました。",
+      "summary": [
+        {
+          "en": "Oil tankers with links to Japan appear to be picking up Middle East cargoes directly in the region again, for the first time since the war began in February.",
+          "ja": "日本とつながりのある石油タンカーが、2月に戦争が始まって以来初めて、再び中東の現地で直接積み荷を受け取っているようでございます。"
+        },
+        {
+          "en": "None of the vessels has crossed into the Persian Gulf, and Middle Eastern oil made up 93% of Japan's crude imports in 2025.",
+          "ja": "どの船もペルシャ湾の中には入っておらず、2025年の日本の原油輸入の93%は中東の石油でございました。"
+        },
+        {
+          "en": "It is a \"selective return,\" not a full one, but it shows how much Japan's oil still depends on that region.",
+          "ja": "これは全面的なものではなく「選択的な復帰」ですが、日本の石油がいまもどれほどその地域に頼っているかを示しております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/13/japan-crude-oil-tankers-middle-east/"
+        }
+      ]
+    },
+    {
+      "id": "el-nino-record-strength",
+      "region": "world",
+      "headline_en": "El Niño reaches record strength.",
+      "headline": "エルニーニョが記録的な強さに達しました。",
+      "summary": [
+        {
+          "en": "Australia's Bureau of Meteorology said average weekly sea-surface temperatures in the central Pacific have reached their highest level on record.",
+          "ja": "オーストラリア気象局は、太平洋中部の週平均の海面水温が記録上最も高い水準に達したと述べました。"
+        },
+        {
+          "en": "\"We are currently witnessing an El Niño event that is unprecedented in the historical record,\" climate scientist Zeke Hausfather told the BBC.",
+          "ja": "「私たちはいま、歴史的な記録の中で前例のないエルニーニョ現象を目撃しています」と、気候科学者のジーク・ハウスファーザー氏はBBCに語りました。"
+        },
+        {
+          "en": "The peak is still expected in December, so the strongest effects on weather may be yet to come.",
+          "ja": "ピークはまだ12月と見込まれており、天候への最も強い影響はまだこれから来るのかもしれません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.327,
+        "change_pct": -0.12,
+        "change": -0.193,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.31,
+        "change_pct": 0.23,
+        "change": 0.4,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1202,
+        "change_pct": 0.37,
+        "change": 0.0042,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 67777.52,
+        "change_pct": -1.82,
+        "change": -1253.4,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4110.67,
+        "change_pct": 0.14,
+        "change": 5.86,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7805.45,
+        "change_pct": -0.02,
+        "change": -1.79,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 27204.38,
+        "change_pct": -0.15,
+        "change": -41.52,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51670.1,
+        "change_pct": -0.35,
+        "change": -180.45,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.027,
+        "unit": "%",
+        "change_bp": -6.2,
+        "source": "財務省 国債金利情報 (R8.10.9)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.79,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (10/13/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.21,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (10/13/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4185.8,
+        "change_pct": -0.11,
+        "change": -4.8,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 94.74,
+        "change_pct": 1.07,
+        "change": 1.0,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 83161.69,
+        "change_pct": 1.71,
+        "change": 1399.12,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Tuesday, Oct 13 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 9; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-1.82%",
+        "explanation": "株探によりますと、3連休明けの東京市場では半導体関連の主力銘柄などを中心に売りがかさみ、4日続落いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "+1.07%",
+        "explanation": "WTIが1.07%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
