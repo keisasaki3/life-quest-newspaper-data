@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-16",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-16T05:22:04+09:00",
+  "news": [
+    {
+      "id": "nikkei-falls-5pct-tech-rout",
+      "region": "japan",
+      "headline_en": "The Nikkei 225 falls 4.9% in a global tech rout.",
+      "headline": "日経平均が世界的なハイテク株の総崩れで4.9%下落。",
+      "summary": [
+        {
+          "en": "The Nikkei 225 closed at 64,425.95, down 3,318.34 points, the third biggest point fall ever.",
+          "ja": "日経平均は64,425.95で取引を終えて3,318.34ポイント下がり、過去3番目に大きい下げ幅となりました。"
+        },
+        {
+          "en": "It followed a US sell-off after a higher-than-expected inflation reading fed concerns about the economy and high valuations in technology shares.",
+          "ja": "これは、予想より高いインフレの数字が経済とハイテク株の高い評価額への懸念をあおった後の、米国での売りに続くものでございました。"
+        },
+        {
+          "en": "The index is still up 35% over the past year, so a day like this is a sharp shake, and whether the run continues is still open.",
+          "ja": "日経平均は過去1年ではまだ35%上がっており、このような日は鋭い揺さぶりで、上昇が続くかどうかはまだ分かりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/15/nagata-nikkei-decline/"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-resumes-refinery-strikes",
+      "region": "europe",
+      "headline_en": "Ukraine says strikes on Russian refineries will resume.",
+      "headline": "ウクライナがロシアの製油所への攻撃を再開すると表明。",
+      "summary": [
+        {
+          "en": "Zelensky said Ukraine had restricted attacks for three days while Russia kept striking its energy infrastructure, and told the Financial Times: \"We're done.\"",
+          "ja": "ゼレンスキー氏は、ロシアがエネルギーインフラを攻撃し続ける間、ウクライナは3日間攻撃を控えていたと述べ、フィナンシャル・タイムズに「もう終わりだ」と語りました。"
+        },
+        {
+          "en": "Russia then said Kyiv had \"attempted a large-scale attack\" on a refinery south of Moscow, and said falling debris caused a fire at the site in Ryazan.",
+          "ja": "その後ロシアは、キーウがモスクワ南方の製油所に「大規模な攻撃を試みた」と述べ、落ちてきた破片がリャザンの施設で火災を起こしたとしております。"
+        },
+        {
+          "en": "The energy ceasefire Trump announced on Sunday now looks like it has not held.",
+          "ja": "トランプ氏が日曜に発表したエネルギー停戦は、いまや持ちこたえなかったように見えます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o"
+        }
+      ]
+    },
+    {
+      "id": "peshawar-school-roof-collapse",
+      "region": "world",
+      "headline_en": "A school roof collapse in Pakistan kills at least 33 pupils.",
+      "headline": "パキスタンで学校の屋根が崩れ、生徒33人以上が死亡。",
+      "summary": [
+        {
+          "en": "At least 33 pupils and a teacher were killed after a school roof collapsed in Peshawar, in north-western Pakistan, hospital officials said.",
+          "ja": "病院の当局者によりますと、パキスタン北西部のペシャワルで学校の屋根が崩れ、少なくとも33人の生徒と1人の教師が亡くなりました。"
+        },
+        {
+          "en": "Police said the structure had \"substandard\" roof slabs and was \"overloaded,\" and the school's owner has been arrested.",
+          "ja": "警察は、建物の屋根の床板が「基準以下」で「荷重がかかりすぎて」いたと述べ、学校の所有者は逮捕されました。"
+        },
+        {
+          "en": "A building put up on a temporary basis was holding more than 100 children, and that is where the questions now point.",
+          "ja": "仮設として建てられた建物に100人を超える子どもがいたのであり、いま問いはそこに向いております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cked326llddgo"
+        }
+      ]
+    },
+    {
+      "id": "rengo-2027-pay-hike-target",
+      "region": "japan",
+      "headline_en": "Rengo will seek pay hikes of at least 5% again.",
+      "headline": "連合が再び5%以上の賃上げを求めます。",
+      "summary": [
+        {
+          "en": "The Japanese Trade Union Confederation, or Rengo, plans to demand pay increases of 5% or more in the 2027 spring wage talks, for the fourth straight year.",
+          "ja": "日本労働組合総連合会、つまり連合は、2027年の春の賃金交渉で、4年連続となる5%以上の賃上げを要求する計画でございます。"
+        },
+        {
+          "en": "This year's talks achieved an average hike of 5.01%, but small unions averaged 4.69%.",
+          "ja": "今年の交渉では平均5.01%の賃上げが実現しましたが、小さな組合の平均は4.69%でございました。"
+        },
+        {
+          "en": "Real wages have only just turned upward, so Rengo wants to lock in the trend while the world economy is unsteady.",
+          "ja": "実質賃金はようやく上向いたばかりで、連合は世界経済が不安定な中でもその流れをしっかり固めたいのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/15/rengo-pay-hikes-2027/"
+        }
+      ]
+    },
+    {
+      "id": "takaichi-approval-new-low",
+      "region": "japan",
+      "headline_en": "Takaichi's Cabinet approval falls to a new low of 42.4%.",
+      "headline": "高市内閣の支持率が最低の42.4%に下がりました。",
+      "summary": [
+        {
+          "en": "Approval for Prime Minister Sanae Takaichi's Cabinet fell 1.7 points in October to 42.4%, the lowest since she took office a year ago, a Jiji Press survey showed.",
+          "ja": "時事通信の調査によりますと、高市早苗内閣の支持率は10月に1.7ポイント下がって42.4%となり、1年前の就任以来で最も低くなりました。"
+        },
+        {
+          "en": "It is the fifth straight monthly fall, and the survey was done before agriculture minister Yana announced his resignation on Wednesday.",
+          "ja": "5か月連続の低下で、調査は簗農林水産相が水曜に辞任を表明する前に行われました。"
+        },
+        {
+          "en": "So the next poll will show how much the Yana scandal costs her.",
+          "ja": "ですから、次の調査で簗氏の不祥事が首相にどれだけの代償となるかが見えてまいります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/15/japan/politics/japan-pm-takaichi-public-support-rate-new-low/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.08,
+        "change_pct": 0.08,
+        "change": 0.123,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.27,
+        "change_pct": 0.25,
+        "change": 0.44,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1218,
+        "change_pct": 0.21,
+        "change": 0.0023,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 64425.95,
+        "change_pct": -4.9,
+        "change": -3318.34,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3999.34,
+        "change_pct": -2.38,
+        "change": -97.44,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7744.06,
+        "change_pct": 0.33,
+        "change": 25.12,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26713.03,
+        "change_pct": 0.08,
+        "change": 20.16,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52177.69,
+        "change_pct": 1.08,
+        "change": 556.21,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 3.015,
+        "unit": "%",
+        "change_bp": -0.4,
+        "source": "財務省 国債金利情報 (R8.10.14)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.77,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (10/15/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.1,
+        "unit": "%",
+        "change_bp": -9,
+        "source": "U.S. Treasury (10/15/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4194.7,
+        "change_pct": 2.11,
+        "change": 86.8,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 96.26,
+        "change_pct": 1.23,
+        "change": 1.17,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 82288.69,
+        "change_pct": 0.89,
+        "change": 726.2,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Thursday, Oct 15 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 14; FX and Bitcoin as of publishing time on Friday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-4.90%",
+        "explanation": "The Japan Timesによりますと、予想より高い米国のインフレの数字を受けて前夜の米国で始まった世界的なハイテク株の総崩れに加わり、アドバンテストなどが大きく下げました。"
+      },
+      {
+        "symbol": "GOLD",
+        "move": "+2.11%",
+        "explanation": "金が2.11%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
