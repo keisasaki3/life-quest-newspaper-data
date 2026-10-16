@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-17T05:22:36+09:00",
+  "news": [
+    {
+      "id": "jma-false-m99-alert",
+      "region": "japan",
+      "headline_en": "A false alert for a magnitude 9.9 quake rattles Japan.",
+      "headline": "M9.9地震の誤った警報が日本を揺さぶりました。",
+      "summary": [
+        {
+          "en": "At 12:40 p.m. on Friday, the Japan Meteorological Agency issued an earthquake early warning describing a magnitude 9.9 quake, and withdrew it by 12:48 p.m.",
+          "ja": "金曜の午後0時40分、気象庁はマグニチュード9.9の地震を示す緊急地震速報を出し、午後0時48分までに取り消しました。"
+        },
+        {
+          "en": "The real quake was a magnitude 6.9 off Russia's Kamchatka Peninsula, and the JMA said its system wrongly placed the epicenter off the Kuril Islands and overestimated the magnitude.",
+          "ja": "実際の地震はロシアのカムチャツカ半島沖のマグニチュード6.9で、気象庁はシステムが震源を誤って千島列島沖に置き、規模を過大に見積もったと述べました。"
+        },
+        {
+          "en": "It was the first emergency quake warning ever withdrawn, and a system people trust with their lives now has to explain itself.",
+          "ja": "これは取り消された初めての緊急地震速報で、人々が命を預けるシステムはいま、自らを説明しなければなりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/jma-earthquake-warning/"
+        }
+      ]
+    },
+    {
+      "id": "hormuz-ship-attacks-record",
+      "region": "world",
+      "headline_en": "Ship attacks near Hormuz hit a record high.",
+      "headline": "ホルムズ海峡付近の船への攻撃が過去最多に達しました。",
+      "summary": [
+        {
+          "en": "Twelve vessels reported attacks in and around the Strait of Hormuz between 5 and 11 October, the most in a week since the war with Iran began, BBC Verify found.",
+          "ja": "BBC Verifyによりますと、10月5日から11日の間にホルムズ海峡とその周辺で12隻が攻撃を報告し、イランとの戦争が始まって以来、1週間で最も多くなりました。"
+        },
+        {
+          "en": "About 12.6 million barrels per day went through the strait on 13 October, below the 15 million at the end of September and a pre-war 17 million.",
+          "ja": "10月13日に海峡を通ったのは1日約1,260万バレルで、9月末の1,500万バレル、戦前の1,700万バレルを下回りました。"
+        },
+        {
+          "en": "More attacks mean less oil getting out, which is why WTI is creeping toward $100.",
+          "ja": "攻撃が増えれば外に出る石油が減り、だからこそWTIは100ドルに向かってじわじわ近づいているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no"
+        }
+      ]
+    },
+    {
+      "id": "trump-denies-starshield-limits",
+      "region": "us",
+      "headline_en": "Trump denies limiting Ukraine's access to Starshield.",
+      "headline": "トランプ氏がウクライナへのスターシールド制限を否定。",
+      "summary": [
+        {
+          "en": "Starshield, the military sister service of Starlink, restricted drone speeds to 100mph, hampering Kyiv's ability to protect itself from Russian attacks.",
+          "ja": "スターリンクの軍用の姉妹サービスであるスターシールドはドローンの速度を時速100マイルに制限し、ロシアの攻撃から身を守るキーウの力を妨げました。"
+        },
+        {
+          "en": "\"It wasn't me and I don't think it was Elon,\" Trump said, while Reuters reported the order had come from inside the White House.",
+          "ja": "「私ではないし、イーロンでもないと思う」とトランプ氏は述べましたが、ロイター通信は命令がホワイトハウスの内部から出たと報じました。"
+        },
+        {
+          "en": "When one company's network can change how a war goes, who controls the switch becomes a political question.",
+          "ja": "一つの会社のネットワークが戦争の行方を変えうるとき、誰がスイッチを握るのかは政治の問題になります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o"
+        }
+      ]
+    },
+    {
+      "id": "coreweave-ai-debt",
+      "region": "us",
+      "headline_en": "CoreWeave's slump spotlights the debt behind the AI boom.",
+      "headline": "コアウィーブの急落がAIブームの裏の借金を照らしました。",
+      "summary": [
+        {
+          "en": "Nvidia-backed CoreWeave, a loss-making cloud company, has about $50 billion in debt, and its sharp slump fueled a global rout in AI stocks.",
+          "ja": "エヌビディアが支援する赤字のクラウド企業コアウィーブは約500億ドルの借金を抱えており、その急落がAI株の世界的な総崩れをあおりました。"
+        },
+        {
+          "en": "Investors worry the data-center boom is being fueled by credit, which also pressures cash flows at giants such as Alphabet and Meta.",
+          "ja": "投資家は、データセンターのブームが借り入れを燃料にしており、それがアルファベットやメタのような巨大企業のキャッシュフローにも圧力をかけていると心配しております。"
+        },
+        {
+          "en": "The real question is whether future AI revenue can keep pace with the spending, and that is what is moving your US tech stocks now.",
+          "ja": "本当の問いは、将来のAIの収入が支出に追いつけるかどうかで、それがいま経太様の米国ハイテク株を動かしているものでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/16/companies/coreweave-ai-boom-debt/"
+        }
+      ]
+    },
+    {
+      "id": "japan-korea-currency-swap-extended",
+      "region": "japan",
+      "headline_en": "Japan and South Korea extend their $10 billion currency swap.",
+      "headline": "日韓が100億ドルの通貨スワップを延長しました。",
+      "summary": [
+        {
+          "en": "Finance Minister Satsuki Katayama and her South Korean counterpart Lee Hyoung-il agreed in Bangkok to extend the $10 billion currency swap.",
+          "ja": "片山さつき財務相と韓国側の相手であるイ・ヒョンイル氏は、バンコクで100億ドルの通貨スワップの延長で合意いたしました。"
+        },
+        {
+          "en": "The swap lets either country exchange its currency for US dollars during a financial emergency, and is expected to run through November 2029.",
+          "ja": "このスワップでは、金融の緊急時にどちらの国も自国通貨を米ドルと交換でき、2029年11月まで続く見込みでございます。"
+        },
+        {
+          "en": "Both sides say they have enough dollars, so this is mostly a symbol that ties have warmed since the swap lapsed in 2015.",
+          "ja": "両国ともドルは十分にあると述べており、これは主に、2015年にスワップが失効して以来、関係が温まったことの象徴でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/16/economy/japan-south-korea-currency-swap/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.974,
+        "change_pct": -0.11,
+        "change": -0.169,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.55,
+        "change_pct": 0.13,
+        "change": 0.22,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1242,
+        "change_pct": 0.26,
+        "change": 0.0029,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 65324.29,
+        "change_pct": 1.39,
+        "change": 898.34,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4066.0,
+        "change_pct": 1.67,
+        "change": 66.66,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7659.44,
+        "change_pct": -1.09,
+        "change": -84.62,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26140.03,
+        "change_pct": -2.15,
+        "change": -573.0,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52002.41,
+        "change_pct": -0.34,
+        "change": -175.28,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.948,
+        "unit": "%",
+        "change_bp": -6.7,
+        "source": "財務省 国債金利情報 (R8.10.15)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.74,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (10/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.09,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (10/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4187.5,
+        "change_pct": 0.42,
+        "change": 17.4,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 98.89,
+        "change_pct": 0.94,
+        "change": 0.92,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 81593.27,
+        "change_pct": -0.67,
+        "change": -548.19,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 16 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 15; FX and Bitcoin as of publishing time on Saturday morning.",
+    "market_moves": [
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.15%",
+        "explanation": "ナスダックが2.15%下げましたが、理由は確かめられませんでした。"
+      },
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.39%",
+        "explanation": "株探によりますと、AI・半導体関連に買い戻しが入り、7日ぶりに反発いたしました。"
+      }
+    ]
+  }
+}
