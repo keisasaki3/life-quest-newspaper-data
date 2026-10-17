@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-18",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-18T05:22:16+09:00",
+  "news": [
+    {
+      "id": "trump-waives-russia-sanctions",
+      "region": "us",
+      "headline_en": "Trump waives several Russia sanctions.",
+      "headline": "トランプ氏がいくつかの対ロシア制裁を免除しました。",
+      "summary": [
+        {
+          "en": "Trump blocked numerous sanctions on Russia two days before they were due to take effect, saying in an executive order that suspending some was in the US national interest.",
+          "ja": "トランプ氏は発効予定の2日前に数多くの対ロシア制裁を止め、大統領令で、その一部を停止することが米国の国益にかなうと述べました。"
+        },
+        {
+          "en": "The law, passed by Congress, would have let him levy tariffs of up to 100% on the top buyers of Russian oil and gas, most significantly China and India.",
+          "ja": "議会を通ったこの法律は、ロシアの石油とガスの上位の買い手、とりわけ中国とインドに最大100%の関税を課すことを可能にするはずでございました。"
+        },
+        {
+          "en": "Even Trump ally Ted Cruz said \"I wish the president hadn't done it,\" so the split over Russia now runs through his own party.",
+          "ja": "トランプ氏の盟友テッド・クルーズ氏でさえ「大統領がそれをしなければよかったのに」と述べており、ロシアをめぐる亀裂はいまや大統領自身の党の中を走っております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+        }
+      ]
+    },
+    {
+      "id": "ueda-cant-tolerate-inflation",
+      "region": "japan",
+      "headline_en": "Ueda says he \"can't tolerate\" more inflation.",
+      "headline": "植田総裁がこれ以上のインフレは「容認できない」と述べました。",
+      "summary": [
+        {
+          "en": "BOJ Gov. Kazuo Ueda said underlying inflation is already roughly around 2%, and \"we cannot tolerate it any further going forward.\"",
+          "ja": "植田和男日銀総裁は、基調的なインフレはすでにおおむね2%前後にあり、「今後これ以上は容認できない」と述べました。"
+        },
+        {
+          "en": "His comments reinforced expectations of further rate hikes in coming months, although investors expect no change at the meeting in two weeks.",
+          "ja": "この発言は今後数か月のさらなる利上げへの期待を強めましたが、投資家は2週間後の会合では変更なしと見込んでおります。"
+        },
+        {
+          "en": "The next clue is next week's inflation report, which is expected to show prices up 2.1% in September.",
+          "ja": "次の手がかりは来週の物価統計で、9月の物価が2.1%上がったと示される見込みでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/17/economy/boj-2-percent-inflation/"
+        }
+      ]
+    },
+    {
+      "id": "takaichi-yasukuni-offering-autumn",
+      "region": "japan",
+      "headline_en": "Takaichi makes a ritual offering to Yasukuni Shrine.",
+      "headline": "高市首相が靖国神社に儀式の供え物を納めました。",
+      "summary": [
+        {
+          "en": "Prime Minister Sanae Takaichi made a ritual masakaki tree offering to Yasukuni Shrine on Saturday, the start of its autumn festival, and is expected to skip a visit.",
+          "ja": "高市早苗首相は秋季例大祭が始まった土曜、靖国神社に儀式の供え物として真榊を奉納し、参拝は見送る見通しでございます。"
+        },
+        {
+          "en": "She has not visited the shrine since the autumn festival last year, shortly before taking office as prime minister.",
+          "ja": "首相は、首相に就任する少し前の昨年の秋季例大祭以来、神社を参拝しておりません。"
+        },
+        {
+          "en": "Sending an offering instead of going in person suggests she is putting relations with China and South Korea first.",
+          "ja": "自ら行く代わりに供え物を送ることは、首相が中国や韓国との関係を優先していることをうかがわせます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-yasukuni-shrine-offering/"
+        }
+      ]
+    },
+    {
+      "id": "softbank-weighs-allied-universal",
+      "region": "japan",
+      "headline_en": "SoftBank is said to weigh buying a top US security firm.",
+      "headline": "ソフトバンクが米警備大手の買収を検討しているとされます。",
+      "summary": [
+        {
+          "en": "SoftBank Group is considering an acquisition of Allied Universal, the largest security services company in the US, people familiar with the matter said.",
+          "ja": "事情に詳しい人々によりますと、ソフトバンクグループは米国最大の警備サービス会社アライド・ユニバーサルの買収を検討しております。"
+        },
+        {
+          "en": "The deal could value Allied's equity at as much as $18 billion, and with about $12 billion of debt, bring the total close to $30 billion.",
+          "ja": "この取引はアライドの株式価値を最大180億ドルと評価する可能性があり、約120億ドルの負債を合わせると、総額は300億ドル近くになりえます。"
+        },
+        {
+          "en": "Masayoshi Son is exploring ways to put AI-powered robots to work across industries, and guards may be one of the first jobs he has in mind.",
+          "ja": "孫正義氏はAIで動くロボットをさまざまな産業で働かせる道を探っており、警備はその念頭にある最初の仕事の一つなのかもしれません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/17/softbank-eyes-top-us-security-firm/"
+        }
+      ]
+    },
+    {
+      "id": "amazon-deforestation-record-fall",
+      "region": "world",
+      "headline_en": "Amazon deforestation falls by a record 41.8%.",
+      "headline": "アマゾンの森林破壊が過去最大の41.8%減となりました。",
+      "summary": [
+        {
+          "en": "Satellite data shows the deforestation rate in Brazil's Amazon fell 41.8% in the year to July 2026, the biggest drop since records began in 1988.",
+          "ja": "衛星データによりますと、ブラジルのアマゾンの森林破壊の率は2026年7月までの1年間で41.8%下がり、1988年に記録が始まって以来最大の下げ幅となりました。"
+        },
+        {
+          "en": "It comes ahead of an Oct. 25 run-off between President Lula and Flavio Bolsonaro, in which the rainforest's future is a key issue.",
+          "ja": "これは、熱帯雨林の未来が大きな争点となっている、ルラ大統領とフラビオ・ボルソナロ氏の10月25日の決選投票を前にしたものでございます。"
+        },
+        {
+          "en": "As one campaigner put it, this shows that \"with political will, it is possible to curb deforestation,\" and the vote will decide whether that will lasts.",
+          "ja": "ある活動家が言ったように、これは「政治的な意志があれば森林破壊を抑えることができる」ことを示しており、その意志が続くかどうかを選挙が決めることになります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.987,
+        "change_pct": -0.1,
+        "change": -0.156,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.1,
+        "change_pct": -0.13,
+        "change": -0.22,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1242,
+        "change_pct": 0.26,
+        "change": 0.0029,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 65324.29,
+        "change_pct": 1.39,
+        "change": 898.34,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4066.0,
+        "change_pct": 1.67,
+        "change": 66.66,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7659.44,
+        "change_pct": -1.09,
+        "change": -84.62,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26140.03,
+        "change_pct": -2.15,
+        "change": -573.0,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52002.41,
+        "change_pct": -0.34,
+        "change": -175.28,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.948,
+        "unit": "%",
+        "change_bp": -6.7,
+        "source": "財務省 国債金利情報 (R8.10.15)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.74,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (10/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.09,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (10/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4187.5,
+        "change_pct": 0.42,
+        "change": 17.4,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 98.89,
+        "change_pct": 0.94,
+        "change": 0.92,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 81506.47,
+        "change_pct": 0.01,
+        "change": 5.66,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 16 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 15; FX and Bitcoin as of publishing time on Sunday morning.",
+    "market_moves": [
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.15%",
+        "explanation": "ナスダックが2.15%下げましたが、理由は確かめられませんでした。"
+      },
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.39%",
+        "explanation": "株探によりますと、AI・半導体関連に買い戻しが入り、7日ぶりに反発いたしました。"
+      }
+    ]
+  }
+}
