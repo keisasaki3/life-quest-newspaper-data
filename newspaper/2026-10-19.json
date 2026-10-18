@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-19",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-19T05:22:09+09:00",
+  "news": [
+    {
+      "id": "st-petersburg-oil-facilities-hit",
+      "region": "europe",
+      "headline_en": "Two oil facilities in St Petersburg are hit.",
+      "headline": "サンクトペテルブルクの石油施設2か所が攻撃されました。",
+      "summary": [
+        {
+          "en": "At least one person was killed in an overnight attack that hit the St Petersburg Oil Terminal and the Ruchyi oil depot, the region's governor said.",
+          "ja": "地域の知事によりますと、サンクトペテルブルク石油ターミナルとルチイ石油貯蔵所を襲った夜間の攻撃で、少なくとも1人が亡くなりました。"
+        },
+        {
+          "en": "Russia's defence ministry said it shot down more than 1,000 Ukrainian drones overnight, and Kyiv has not yet commented.",
+          "ja": "ロシア国防省は夜間に1,000機を超えるウクライナのドローンを撃ち落としたと述べ、キーウはまだコメントしておりません。"
+        },
+        {
+          "en": "With Ukraine back to hitting oil sites, Trump's energy ceasefire has now come apart on both sides.",
+          "ja": "ウクライナが石油施設への攻撃に戻り、トランプ氏のエネルギー停戦はいまや両側でばらばらになりました。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o"
+        }
+      ]
+    },
+    {
+      "id": "france-riots-macron-calm",
+      "region": "europe",
+      "headline_en": "Macron calls for calm after riots in France.",
+      "headline": "フランスでの暴動の後、マクロン氏が冷静を呼びかけました。",
+      "summary": [
+        {
+          "en": "About 550,000 people marched in largely peaceful protests against rising fuel prices and the cost of living, but rioting and looting broke out in Paris and other cities.",
+          "ja": "燃料価格の上昇と生活費に抗議して約55万人がおおむね平和的にデモ行進しましたが、パリやほかの都市で暴動と略奪が起きました。"
+        },
+        {
+          "en": "Police have arrested about 2,400 people, and the 19th-century city hall in Limoges was gutted by a fire started by rioters.",
+          "ja": "警察は約2,400人を逮捕し、リモージュの19世紀の市庁舎は暴徒が起こした火事で中が焼き尽くされました。"
+        },
+        {
+          "en": "Fuel prices pushed up by the war in the Middle East are now spilling onto the streets of Europe.",
+          "ja": "中東の戦争で押し上げられた燃料価格が、いまやヨーロッパの街頭にあふれ出しております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o"
+        }
+      ]
+    },
+    {
+      "id": "canada-wainwright-base-fire",
+      "region": "world",
+      "headline_en": "A fire at a Canadian military base kills at least four.",
+      "headline": "カナダの軍基地の火災で少なくとも4人が亡くなりました。",
+      "summary": [
+        {
+          "en": "A huge fire swept through Canadian Forces Base Wainwright in Alberta on Saturday, killing at least four service members and seriously injuring dozens.",
+          "ja": "土曜、アルバータ州のカナダ軍ウェインライト基地を大きな火災が駆け抜け、少なくとも4人の軍人が亡くなり、数十人が重傷を負いました。"
+        },
+        {
+          "en": "Local media reported it may have started when a gas main was struck during a live firing exercise, and officials said there are no indications of terrorism.",
+          "ja": "地元メディアは、実弾射撃訓練中にガス本管が打撃を受けて始まった可能性があると報じ、当局はテロの兆候はないと述べました。"
+        },
+        {
+          "en": "High winds helped the fire spread fast, and the investigation into how it started will matter for every base that trains with live fire.",
+          "ja": "強風が火の広がりを速めており、どのように始まったかの調査は、実弾で訓練するすべての基地にとって大事になります。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do"
+        }
+      ]
+    },
+    {
+      "id": "us-interest-costs-record",
+      "region": "us",
+      "headline_en": "US interest costs hit a record $1 trillion.",
+      "headline": "米国の利払い費が過去最高の1兆ドルに達しました。",
+      "summary": [
+        {
+          "en": "Net interest costs on US government debt came to $1.05 trillion in the fiscal year through September, up more than 8% from $970 billion a year earlier.",
+          "ja": "9月までの会計年度で米政府債務の純利払い費は1.05兆ドルとなり、前年の9,700億ドルから8%以上増えました。"
+        },
+        {
+          "en": "The average rate on marketable Treasuries was 3.52% at the end of September, more than double the 1.47% five years before.",
+          "ja": "市場で取引される米国債の平均金利は9月末に3.52%で、5年前の1.47%の2倍を超えております。"
+        },
+        {
+          "en": "When interest eats more of the budget, borrowing can snowball, and that is something bond markets watch closely.",
+          "ja": "利払いが予算をより多く食うと借り入れは雪だるま式に膨らみうるもので、それは債券市場がじっと見ている点でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/18/economy/us-interest-costs-1-trillion/"
+        }
+      ]
+    },
+    {
+      "id": "toyota-all-sdv-2030",
+      "region": "japan",
+      "headline_en": "Toyota will make all its models software-defined by 2030.",
+      "headline": "トヨタは2030年までに全車種をソフト定義車にします。",
+      "summary": [
+        {
+          "en": "Toyota plans to make all of its roughly 50 vehicle models software-defined vehicles by 2030, so their functions can be enhanced through software updates.",
+          "ja": "トヨタは2030年までに約50の全車種をソフトウェア定義車にする計画で、ソフトウェアの更新で機能を高められるようにいたします。"
+        },
+        {
+          "en": "The aim is to install its Arene platform in about 10 million new vehicles a year and earn update fees after delivery.",
+          "ja": "狙いは、年に約1,000万台の新車にアリーン基盤を載せ、納車後に更新料を稼ぐことでございます。"
+        },
+        {
+          "en": "Tesla and Chinese automakers lead in this field, so this is Toyota racing to make cars that earn money after they are sold.",
+          "ja": "この分野はテスラと中国の自動車メーカーが先行しており、これは売った後もお金を稼ぐ車を作ろうとするトヨタの競走でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/18/companies/toyota-software-defined-vehicles/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.932,
+        "change_pct": -0.13,
+        "change": -0.211,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.77,
+        "change_pct": -0.31,
+        "change": -0.55,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1188,
+        "change_pct": -0.22,
+        "change": -0.0025,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 65324.29,
+        "change_pct": 1.39,
+        "change": 898.34,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4066.0,
+        "change_pct": 1.67,
+        "change": 66.66,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7659.44,
+        "change_pct": -1.09,
+        "change": -84.62,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26140.03,
+        "change_pct": -2.15,
+        "change": -573.0,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52002.41,
+        "change_pct": -0.34,
+        "change": -175.28,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.948,
+        "unit": "%",
+        "change_bp": -6.7,
+        "source": "財務省 国債金利情報 (R8.10.15)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.74,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (10/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.09,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (10/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4187.5,
+        "change_pct": 0.42,
+        "change": 17.4,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 98.89,
+        "change_pct": 0.94,
+        "change": 0.92,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 80749.7,
+        "change_pct": -0.78,
+        "change": -632.45,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 16 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 15; FX and Bitcoin as of publishing time on Monday morning, before Tokyo opens.",
+    "market_moves": [
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.15%",
+        "explanation": "ナスダックが2.15%下げましたが、理由は確かめられませんでした。"
+      },
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.39%",
+        "explanation": "株探によりますと、AI・半導体関連に買い戻しが入り、7日ぶりに反発いたしました。"
+      }
+    ]
+  }
+}
