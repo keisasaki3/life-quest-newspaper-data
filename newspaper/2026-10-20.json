@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-20",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-20T05:23:12+09:00",
+  "news": [
+    {
+      "id": "china-q3-growth-ai-exports",
+      "region": "world",
+      "headline_en": "China's growth accelerates as the AI boom boosts exports.",
+      "headline": "AIブームが輸出を押し上げ、中国の成長が加速。",
+      "summary": [
+        {
+          "en": "The world's second largest economy grew by 4.5% in the third quarter, up from the previous period but below the 5% expansion recorded from January to March, according to official Chinese data.",
+          "ja": "中国の公式データによりますと、世界第2位の経済は第3四半期に4.5%成長し、前の期から上向いたものの、1月から3月に記録した5%の拡大は下回りました。"
+        },
+        {
+          "en": "Sales of high-tech goods rose by 14.3%, while property investment fell by more than 20% in the first nine months from the same period last year.",
+          "ja": "ハイテク製品の販売は14.3%増えた一方、不動産投資は最初の9か月で前年同期比20%を超えて減りました。"
+        },
+        {
+          "en": "Exports are carrying the economy while people at home are still holding back, and that single engine is what the economists worry about.",
+          "ja": "輸出が経済を支える一方で国内の人々はまだ財布のひもを締めており、その一つきりのエンジンこそ経済学者たちが心配している点でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo"
+        }
+      ]
+    },
+    {
+      "id": "us-bans-deepseek-government",
+      "region": "us",
+      "headline_en": "The US bans DeepSeek AI from government use.",
+      "headline": "米国が政府でのDeepSeek AIの使用を禁止。",
+      "summary": [
+        {
+          "en": "The Department of Homeland Security has banned all use of DeepSeek within civilian government agencies, and any technology built with the aid of its AI models.",
+          "ja": "国土安全保障省は、文民の政府機関の中でDeepSeekのあらゆる使用と、そのAIモデルの助けを借りて作られたあらゆる技術を禁止しました。"
+        },
+        {
+          "en": "The DHS made the order public on Monday, but the ban took effect from the end of July, and agencies within the Department of Defense are excluded.",
+          "ja": "国土安全保障省は月曜にこの命令を公表しましたが、禁止は7月末から効力を持っており、国防総省の中の機関は除外されています。"
+        },
+        {
+          "en": "The ban was quietly in force for months before anyone was told, which says a lot about how seriously Washington treats the AI race with China.",
+          "ja": "この禁止は誰にも知らされないまま何か月も静かに効力を持っており、ワシントンが中国とのAI競争をどれほど真剣に扱っているかをよく物語っております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo"
+        }
+      ]
+    },
+    {
+      "id": "kenya-shakahola-cult-verdict",
+      "region": "world",
+      "headline_en": "A Kenyan cult leader is found guilty of 191 murders.",
+      "headline": "ケニアのカルト指導者が191件の殺人で有罪に。",
+      "summary": [
+        {
+          "en": "The leader of a Kenyan doomsday cult, Paul Mackenzie, has been found guilty of murdering 191 people, all but one of them children.",
+          "ja": "ケニアの終末カルトの指導者ポール・マッケンジー被告は、191人を殺害した罪で有罪とされ、そのうち1人を除く全員が子どもでした。"
+        },
+        {
+          "en": "He was arrested in 2023, after the discovery of more than 400 bodies in shallow graves in Shakahola forest near the Kenyan coast, and he is due to be sentenced on 6 November.",
+          "ja": "被告は2023年、ケニア沿岸近くのシャカホラの森の浅い墓で400体を超える遺体が見つかった後に逮捕されており、11月6日に量刑が言い渡される予定です。"
+        },
+        {
+          "en": "A father who lost all six of his children said he was a happy man, but no verdict brings back what was buried in that forest.",
+          "ja": "6人の子ども全員を失った父親は自分は幸せな男だと語りましたが、どんな判決もあの森に埋められたものを取り戻すことはございません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo"
+        }
+      ]
+    },
+    {
+      "id": "alberta-separation-vote",
+      "region": "world",
+      "headline_en": "Alberta heads to the polls over separation from Canada.",
+      "headline": "アルバータ州がカナダからの分離を巡り投票へ。",
+      "summary": [
+        {
+          "en": "People in the province of Alberta head to the polls on Monday to decide whether to hold a binding referendum at a later date on separating from Canada.",
+          "ja": "アルバータ州の人々は月曜に投票所へ向かい、カナダからの分離について拘束力のある住民投票を後日行うかどうかを決めます。"
+        },
+        {
+          "en": "Polls have suggested that the majority of Albertans would vote to remain in Canada, though the pre-vote debate alone has proven divisive.",
+          "ja": "世論調査ではアルバータ州民の大多数がカナダに残る方に投票するとみられていますが、投票前の議論だけでも分断を生むことが分かりました。"
+        },
+        {
+          "en": "Even a vote about whether to vote can split a province, and that alone is worth watching.",
+          "ja": "投票するかどうかを決める投票でさえ州を割ることがあり、それだけでも見守る価値がございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo"
+        }
+      ]
+    },
+    {
+      "id": "japan-meal-service-foreign-workers",
+      "region": "japan",
+      "headline_en": "Japan will restart accepting foreign workers for meal services.",
+      "headline": "日本が給食業務の外国人労働者受け入れを再開へ。",
+      "summary": [
+        {
+          "en": "The government plans to resume accepting foreign workers for meal services at medical and welfare facilities, as well as schools, as an emergency measure starting next April.",
+          "ja": "政府は緊急措置として来年4月から、医療・福祉施設や学校での給食業務に外国人労働者の受け入れを再開する計画です。"
+        },
+        {
+          "en": "In April, the government suspended accepting foreign workers in the restaurant industry category as the number of Type 1 status holders was approaching the upper limit of 50,000.",
+          "ja": "政府は4月、特定技能1号の資格を持つ人の数が上限の5万人に近づいていたため、外食業分野での外国人労働者の受け入れを停止していました。"
+        },
+        {
+          "en": "Moving meal services into a different category is a workaround for a cap, and it shows how short-handed hospitals and schools have become.",
+          "ja": "給食業務を別の分野に移すのは上限への回避策で、病院や学校がどれほど人手不足になっているかを示しております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/foreign-workers-meal-services/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.541,
+        "change_pct": 0.47,
+        "change": 0.735,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.74,
+        "change_pct": 0.34,
+        "change": 0.6,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1215,
+        "change_pct": -0.1,
+        "change": -0.0011,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 64916.7,
+        "change_pct": -0.62,
+        "change": -407.59,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4067.48,
+        "change_pct": 0.04,
+        "change": 1.48,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7690.73,
+        "change_pct": 0.41,
+        "change": 31.29,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26430.89,
+        "change_pct": 1.11,
+        "change": 290.86,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51966.03,
+        "change_pct": -0.07,
+        "change": -36.38,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.958,
+        "unit": "%",
+        "change_bp": 1.0,
+        "source": "財務省 国債金利情報 (R8.10.16)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.77,
+        "unit": "%",
+        "change_bp": 3,
+        "source": "U.S. Treasury (10/19/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.15,
+        "unit": "%",
+        "change_bp": 6,
+        "source": "U.S. Treasury (10/19/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4159.5,
+        "change_pct": -0.52,
+        "change": -21.6,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 98.42,
+        "change_pct": -2.95,
+        "change": -2.99,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 81964.19,
+        "change_pct": -0.07,
+        "change": -53.41,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Monday, Oct 19 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 16; FX and Bitcoin as of publishing time on Tuesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.62%",
+        "explanation": "株探によりますと、米ハイテク株安を受けて半導体関連が軟調で、反落いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-2.95%",
+        "explanation": "WTIが2.95%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
