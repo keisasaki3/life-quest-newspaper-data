@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-21T05:23:02+09:00",
+  "news": [
+    {
+      "id": "alberta-rejects-separation",
+      "region": "world",
+      "headline_en": "Alberta votes to reject separatism.",
+      "headline": "アルバータ州が分離主義を拒む投票。",
+      "summary": [
+        {
+          "en": "Preliminary results indicate more than two-thirds chose Canada over a push for independence for the province, according to Elections Alberta.",
+          "ja": "アルバータ州選挙管理委員会によりますと、速報結果では3分の2を超える人が州の独立を求める動きよりもカナダを選んだことが示されています。"
+        },
+        {
+          "en": "Prime Minister Mark Carney said he was \"thrilled that Albertans have chosen unity\" by rejecting a proposal to pursue separation through a binding referendum.",
+          "ja": "マーク・カーニー首相は、拘束力のある住民投票を通じて分離を追求する提案を退けたことで「アルバータ州民が団結を選んでくれたことに大喜びしている」と述べました。"
+        },
+        {
+          "en": "The vote was decisive, but one separatist leader vowed that the movement isn't stopping, so the divisions have not gone away.",
+          "ja": "投票の結果ははっきりしておりましたが、分離派の指導者の一人は運動は止まらないと誓っており、分断が消えたわけではございません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo"
+        }
+      ]
+    },
+    {
+      "id": "zelensky-us-intel-works-now",
+      "region": "europe",
+      "headline_en": "Zelensky says US intelligence sharing \"works now\".",
+      "headline": "ゼレンスキー氏、米国の情報共有は「今は機能」。",
+      "summary": [
+        {
+          "en": "Ukraine's President Volodymyr Zelensky has said US intelligence sharing on deadly Russian missile attacks \"works now\" after talks with President Donald Trump's special envoy Steve Witkoff.",
+          "ja": "ウクライナのゼレンスキー大統領は、トランプ大統領の特使スティーブ・ウィトコフ氏との協議の後、死者を出すロシアのミサイル攻撃に関する米国の情報共有が「今は機能している」と述べました。"
+        },
+        {
+          "en": "Zelensky and his European allies said it was now up to Russia to respond to the proposals agreed in Oslo when Witkoff arrives in St Petersburg on Wednesday.",
+          "ja": "ゼレンスキー氏と欧州の同盟国は、ウィトコフ氏が水曜にサンクトペテルブルクに到着した際、オスロで合意された提案に応じるかどうかは今やロシア次第だと述べました。"
+        },
+        {
+          "en": "The warnings are flowing again, but Trump still says it is time for Ukraine to end this war, so the two sides are not yet on the same page.",
+          "ja": "警報は再び届くようになりましたが、トランプ氏はなおウクライナがこの戦争を終わらせる時だと言っており、両者の考えはまだ一致しておりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o"
+        }
+      ]
+    },
+    {
+      "id": "trump-sued-canada-tariffs",
+      "region": "us",
+      "headline_en": "Trump is sued over Canadian tariffs.",
+      "headline": "トランプ氏がカナダへの関税を巡り提訴されました。",
+      "summary": [
+        {
+          "en": "The White House imposed a 50% levy on some $20bn of Canadian goods after trade talks between the US and Canada broke down in August.",
+          "ja": "ホワイトハウスは、8月に米国とカナダの貿易交渉が決裂した後、約200億ドル分のカナダ製品に50%の関税を課しました。"
+        },
+        {
+          "en": "The Liberty Justice Center filed a suit on behalf of US food business Gellert Global Group, urging the US Court of International Trade to find the levies unlawful and to order refunds with interest for affected importers.",
+          "ja": "リバティ・ジャスティス・センターは米食品企業ゲラート・グローバル・グループに代わって訴えを起こし、米国際貿易裁判所に対し、関税を違法と認め、影響を受けた輸入業者に利息付きで返金するよう命じることを求めました。"
+        },
+        {
+          "en": "The same group won against the \"liberation day\" tariffs, so the White House has reason to take this one seriously.",
+          "ja": "同じ団体は「解放の日」関税との訴訟で勝っており、ホワイトハウスにはこの訴えを真剣に受け止める理由がございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o"
+        }
+      ]
+    },
+    {
+      "id": "japan-second-child-survey",
+      "region": "japan",
+      "headline_en": "Fewer than 1 in 3 families in Japan want a second child.",
+      "headline": "日本で2人目の子を望む家庭は3組に1組未満。",
+      "summary": [
+        {
+          "en": "Only 28.2% of parents in Japan say they want a second child amid the current cost of living pressures, according to a survey by Meiji Yasuda Life.",
+          "ja": "明治安田生命の調査によりますと、今の生活費の圧迫の中で2人目の子どもが欲しいと答えた日本の親はわずか28.2%でした。"
+        },
+        {
+          "en": "When asked if they would change their mind in better economic circumstances, almost 70% of parents said they would.",
+          "ja": "経済状況が良くなれば考えを変えるかと尋ねられると、親の7割近くが変えると答えました。"
+        },
+        {
+          "en": "\"There is a stark gap between aspirations and reality,\" the firm's economist said, and the gap is about money, not desire.",
+          "ja": "同社のエコノミストは「願いと現実の間には厳しい隔たりがある」と述べており、その隔たりは望みではなくお金の問題でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/society/couple-second-child-inflation-pressures/"
+        }
+      ]
+    },
+    {
+      "id": "chinese-ai-tool-cyberattacks-japan",
+      "region": "japan",
+      "headline_en": "A Chinese AI tool was used in cyberattacks on Japanese companies.",
+      "headline": "中国製AIツールが日本企業へのサイバー攻撃に使用。",
+      "summary": [
+        {
+          "en": "A Chinese-developed artificial intelligence tool was used to launch cyberattacks on Japanese companies that caused massive security breaches, a Japanese cybersecurity company investigating the attacks has said.",
+          "ja": "攻撃を調査している日本のサイバーセキュリティ企業は、中国で開発された人工知能ツールが、大規模なセキュリティ侵害を引き起こした日本企業へのサイバー攻撃を仕掛けるのに使われたと述べました。"
+        },
+        {
+          "en": "GMO Cybersecurity by Ierae said it had detected the use of Artex in the attacks based on forensic logs, and that they may be similar to those on South Korean financial organizations reported by CrowdStrike.",
+          "ja": "GMOイエラエは、フォレンジックログに基づいて攻撃でArtexが使われたのを検知したと述べ、それらはクラウドストライクが報告した韓国の金融機関への攻撃と似ている可能性があるとしました。"
+        },
+        {
+          "en": "AI now helps the attackers as well as the defenders, and Japanese companies are among the targets.",
+          "ja": "AIはいまや守る側だけでなく攻める側も助けており、日本企業もその標的に含まれております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/china-ai-cyberattacks/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.179,
+        "change_pct": -0.22,
+        "change": -0.344,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.72,
+        "change_pct": -0.02,
+        "change": -0.04,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1238,
+        "change_pct": 0.2,
+        "change": 0.0023,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 64075.42,
+        "change_pct": -1.3,
+        "change": -841.28,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4009.21,
+        "change_pct": -1.43,
+        "change": -58.27,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7712.57,
+        "change_pct": 0.28,
+        "change": 21.84,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26424.82,
+        "change_pct": -0.02,
+        "change": -6.07,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52495.88,
+        "change_pct": 1.02,
+        "change": 529.85,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.935,
+        "unit": "%",
+        "change_bp": -2.3,
+        "source": "財務省 国債金利情報 (R8.10.19)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.79,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (10/20/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.12,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (10/20/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4142.1,
+        "change_pct": -0.43,
+        "change": -18.0,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 98.03,
+        "change_pct": -0.52,
+        "change": -0.51,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 82489.76,
+        "change_pct": 0.78,
+        "change": 636.22,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Tuesday, Oct 20 (Japan and US stocks, oil, gold, US yields); WTI is the December contract, compared with its Oct 19 settle; JP10Y is the Ministry of Finance figure for Oct 19; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-1.30%",
+        "explanation": "株探によりますと、AI・半導体関連を中心に売りが優勢で、続落いたしました。"
+      },
+      {
+        "symbol": "DOW",
+        "move": "+1.02%",
+        "explanation": "ダウが1.02%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
