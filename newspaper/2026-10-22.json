@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-22T05:22:43+09:00",
+  "news": [
+    {
+      "id": "meta-fined-25bn-new-mexico",
+      "region": "us",
+      "headline_en": "Meta is fined $25bn for \"lies\" over user data privacy.",
+      "headline": "メタ、利用者データの「うそ」で250億ドルの罰金。",
+      "summary": [
+        {
+          "en": "A judge in New Mexico on Wednesday ordered the company to pay $25bn following a two-week trial earlier this year that found it had spent years lying to the public about how it handled Facebook user data.",
+          "ja": "ニューメキシコ州の判事は水曜、今年初めの2週間の裁判で同社がフェイスブック利用者のデータの扱い方について何年も世間にうそをついてきたと認められたことを受け、250億ドルの支払いを命じました。"
+        },
+        {
+          "en": "Meta's head lawyer said the ruling made it \"all but impossible to do business in the state of New Mexico\", and the company intends to appeal.",
+          "ja": "メタの法務責任者は、この判決でニューメキシコ州で事業を行うことは「ほぼ不可能になった」と述べ、同社は控訴する意向です。"
+        },
+        {
+          "en": "It is the largest fine to date against Meta, and the case goes back to the Cambridge Analytica scandal, so old lies can still cost a lot.",
+          "ja": "これはメタに対するこれまでで最大の罰金で、事件はケンブリッジ・アナリティカのスキャンダルにさかのぼりますので、古いうそでもなお高くつくことがあるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo"
+        }
+      ]
+    },
+    {
+      "id": "russia-ready-resume-talks",
+      "region": "europe",
+      "headline_en": "Russia says it is ready to resume talks to end the war.",
+      "headline": "ロシアが戦争終結へ協議再開の用意を表明。",
+      "summary": [
+        {
+          "en": "Russia is \"ready in principle\" to resume talks with the US and Ukraine on ending the conflict, Vladimir Putin's top aide Yuri Ushakov said after Putin met US envoy Steve Witkoff in St Petersburg.",
+          "ja": "プーチン大統領がサンクトペテルブルクで米国の特使スティーブ・ウィトコフ氏と会談した後、プーチン氏の最側近ユーリ・ウシャコフ氏は、ロシアは紛争終結に向けた米国とウクライナとの協議を再開する「原則として用意がある」と述べました。"
+        },
+        {
+          "en": "Ushakov suggested that a new round could be held around 10 November in Abu Dhabi, and Zelensky said he wanted this to happen as soon as possible.",
+          "ja": "ウシャコフ氏は新たな協議を11月10日ごろにアブダビで開けるかもしれないと示し、ゼレンスキー氏はできるだけ早く実現してほしいと述べました。"
+        },
+        {
+          "en": "\"Ready in principle\" is not the same as ready, and Ushakov also said the proposals were not very \"useful\".",
+          "ja": "「原則として用意がある」は用意があるのと同じではなく、ウシャコフ氏は提案があまり「役に立つ」ものではないとも述べております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o"
+        }
+      ]
+    },
+    {
+      "id": "musk-tesla-spacex-merger",
+      "region": "us",
+      "headline_en": "Elon Musk confirms he is considering merging Tesla and SpaceX.",
+      "headline": "マスク氏、テスラとスペースXの合併検討を認める。",
+      "summary": [
+        {
+          "en": "\"Do I think it would be a good idea? Yes,\" Musk said during a call with financial analysts to discuss SpaceX's latest results on Tuesday.",
+          "ja": "マスク氏は火曜、スペースXの最新決算を説明するアナリスト向けの電話会議で「良い考えだと思うか？　思う」と述べました。"
+        },
+        {
+          "en": "With Tesla valued at roughly $1.5 trillion and SpaceX at $2 trillion, a combination of the two companies would mark one of the largest mergers in history.",
+          "ja": "テスラの評価額は約1.5兆ドル、スペースXは2兆ドルで、両社の統合は史上最大級の合併となります。"
+        },
+        {
+          "en": "Musk himself compared even commenting on it to \"tap dancing through a minefield\", and at least 50% of Tesla's shareholders would need to approve.",
+          "ja": "マスク氏自身、これについて話すことさえ「地雷原をタップダンスで進む」ようなものだとたとえており、テスラの株主の少なくとも50%の承認が必要でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o"
+        }
+      ]
+    },
+    {
+      "id": "tokyo-osaka-latest-30c",
+      "region": "japan",
+      "headline_en": "Tokyo and Osaka record their latest-ever day above 30 Celsius.",
+      "headline": "東京と大阪で史上最も遅い30度超えを記録。",
+      "summary": [
+        {
+          "en": "Tokyo and Osaka topped 30 Celsius on Wednesday, the latest in the year both cities have ever recorded such temperatures, a Japan weather official said.",
+          "ja": "気象庁の担当者によりますと、東京と大阪は水曜に30度を超え、両都市でこれほどの気温を記録したのは年内で最も遅い日となりました。"
+        },
+        {
+          "en": "It marked the latest 30 C-plus day in the capital since observations began in 1875, and the previous record was Oct. 19, 2024.",
+          "ja": "首都で1875年に観測が始まって以来最も遅い30度超えの日で、それまでの記録は2024年10月19日でした。"
+        },
+        {
+          "en": "A \"midsummer day\" in late October is no longer just a strange story, and the record has moved only two days in two years.",
+          "ja": "10月下旬の「真夏日」はもはや珍しい話ではなく、記録はこの2年で2日しか動いておりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/tokyo-osaka-weather/"
+        }
+      ]
+    },
+    {
+      "id": "japan-tourist-spending-q3",
+      "region": "japan",
+      "headline_en": "Japan's tourist spending rises despite a drop in visitor arrivals.",
+      "headline": "訪日客は減っても旅行消費は増えました。",
+      "summary": [
+        {
+          "en": "Inbound visitors spent an estimated ¥2.21 trillion between July and September, up 3.2% from the same period in the previous year, even as visitor arrivals fell 4.8% during the quarter.",
+          "ja": "訪日客は7月から9月に推計2兆2,100億円を使い、前年同期比3.2%増えましたが、この四半期の訪日客数は4.8%減りました。"
+        },
+        {
+          "en": "Arrivals from China fell 44.5% in September to 430,800, and Taiwan overtook China as the largest source of visitor spending.",
+          "ja": "中国からの訪日客は9月に44.5%減って43万800人となり、台湾が中国を抜いて訪日客消費の最大の出どころとなりました。"
+        },
+        {
+          "en": "Fewer people are coming, but each one is spending more, so the money is holding up better than the headcount.",
+          "ja": "来る人は減っても一人ひとりが使う額は増えており、人数よりもお金の方が持ちこたえているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/foreign-visitors-spending/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.185,
+        "change_pct": -0.05,
+        "change": -0.083,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.67,
+        "change_pct": -0.0,
+        "change": -0.0,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1236,
+        "change_pct": 0.08,
+        "change": 0.0009,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 64621.24,
+        "change_pct": 0.85,
+        "change": 545.82,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4043.73,
+        "change_pct": 0.86,
+        "change": 34.52,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7757.17,
+        "change_pct": 0.58,
+        "change": 44.6,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26702.86,
+        "change_pct": 1.05,
+        "change": 278.04,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52856.09,
+        "change_pct": 0.69,
+        "change": 360.21,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.927,
+        "unit": "%",
+        "change_bp": -0.8,
+        "source": "財務省 国債金利情報 (R8.10.20)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.81,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (10/21/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.13,
+        "unit": "%",
+        "change_bp": 1,
+        "source": "U.S. Treasury (10/21/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4151.9,
+        "change_pct": 0.22,
+        "change": 9.3,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 97.91,
+        "change_pct": 0.09,
+        "change": 0.09,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 84475.92,
+        "change_pct": 1.85,
+        "change": 1534.92,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Wednesday, Oct 21 (Japan and US stocks, oil, gold, US yields); WTI is the December contract, compared with its Oct 20 settle; JP10Y is the Ministry of Finance figure for Oct 20; FX and Bitcoin as of publishing time on Thursday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+0.85%",
+        "explanation": "株探によりますと、AI・半導体関連株に買い戻しが入り、3日ぶりに反発いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "+1.05%",
+        "explanation": "ナスダックが1.05%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
