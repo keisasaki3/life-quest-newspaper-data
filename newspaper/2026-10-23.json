@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-23",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-23T05:21:57+09:00",
+  "news": [
+    {
+      "id": "php-flaws-global-scramble",
+      "region": "world",
+      "headline_en": "AI-found PHP flaws spark a global cyber-security scramble.",
+      "headline": "AIが見つけたPHPの欠陥で世界が対応に追われる。",
+      "summary": [
+        {
+          "en": "For more than a decade, serious flaws had gone undetected in the technology underpinning much of the internet, and it took AI to bring them to light.",
+          "ja": "10年以上もの間、インターネットの多くを支える技術に深刻な欠陥が見つからないまま潜んでおり、それを明るみに出したのはAIでした。"
+        },
+        {
+          "en": "Governments and cyber-security agencies around the world have urged website operators to install a new emergency fix or consider taking their platforms offline.",
+          "ja": "世界中の政府やサイバーセキュリティ機関は、ウェブサイトの運営者に新しい緊急の修正を入れるか、サイトをオフラインにすることを検討するよう促しました。"
+        },
+        {
+          "en": "According to Wiz, PHP powers 70% of the world's websites, so even a quiet language can shake the whole internet.",
+          "ja": "Wizによりますと、PHPは世界のウェブサイトの70%を動かしており、目立たない言語でもインターネット全体を揺るがし得るのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o"
+        }
+      ]
+    },
+    {
+      "id": "germany-intensive-espionage",
+      "region": "europe",
+      "headline_en": "Merz says Germany is the target of \"intensive\" espionage.",
+      "headline": "メルツ氏、ドイツは「集中的な」スパイ活動の標的。",
+      "summary": [
+        {
+          "en": "Germany is the target of \"intensive\" espionage activity, Chancellor Friedrich Merz has said after a Ukrainian national was arrested on suspicion of spying for Russia.",
+          "ja": "メルツ首相は、ウクライナ国籍の人物がロシアのためにスパイをした疑いで逮捕された後、ドイツは「集中的な」スパイ活動の標的になっていると述べました。"
+        },
+        {
+          "en": "Prosecutors said the man had collected information including \"on the production of armoured vehicles, ammunition, and explosives\".",
+          "ja": "検察によりますと、この男は「装甲車、弾薬、爆発物の生産について」を含む情報を集めていました。"
+        },
+        {
+          "en": "Merz called the case a \"success\" but warned that more such cases are likely, so catching one spy does not mean the job is done.",
+          "ja": "メルツ氏はこの件を「成功」と呼びつつ、同様の事件はさらに起こりそうだと警告しており、スパイを一人捕まえても仕事が終わるわけではございません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo"
+        }
+      ]
+    },
+    {
+      "id": "trump-deposition-bbc-lawsuit",
+      "region": "us",
+      "headline_en": "Trump is ordered to answer questions under oath in his BBC lawsuit.",
+      "headline": "トランプ氏、BBC訴訟で宣誓証言を命じられる。",
+      "summary": [
+        {
+          "en": "A US judge has ordered President Donald Trump to answer questions under oath in his defamation lawsuit against the BBC by 11 December.",
+          "ja": "米国の判事は、トランプ大統領に対し、BBCを相手取った名誉毀損訴訟で12月11日までに宣誓のうえ質問に答えるよう命じました。"
+        },
+        {
+          "en": "Trump cancelled a previous deposition on 16 October, citing \"matters of national importance\" while he was campaigning in Georgia.",
+          "ja": "トランプ氏は10月16日、ジョージア州で選挙運動をしていた際に「国家的に重要な事柄」を理由に、前回の証言録取を取り消していました。"
+        },
+        {
+          "en": "He chose to sue, and now the court says he has to sit and answer, which is how the process works for everyone.",
+          "ja": "訴えると決めたのはご本人で、いま裁判所は座って答えるよう求めており、それは誰にとっても同じ手続きでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o"
+        }
+      ]
+    },
+    {
+      "id": "softbank-value-halves",
+      "region": "japan",
+      "headline_en": "SoftBank's market value halves from its peak as AI fears grow.",
+      "headline": "AI不安でソフトバンクの時価総額が半減。",
+      "summary": [
+        {
+          "en": "Shares of SoftBank Group fell 6.9% on Thursday, taking their drop from an all-time high struck on June 2 to 50%.",
+          "ja": "ソフトバンクグループの株価は木曜に6.9%下がり、6月2日につけた過去最高値からの下落率は50%に達しました。"
+        },
+        {
+          "en": "Its market capitalization is now about ¥24.7 trillion, smaller than that of Hitachi and Recruit, after it briefly overtook Toyota as Japan's biggest company four months ago.",
+          "ja": "4か月前には一時トヨタを抜いて日本最大の企業となりましたが、時価総額はいま約24.7兆円で、日立やリクルートより小さくなっております。"
+        },
+        {
+          "en": "Borrowing heavily to bet on AI pays off on the way up and hurts on the way down, and SoftBank is feeling the second part now.",
+          "ja": "大きく借りてAIに賭けることは上り坂では報われ、下り坂では痛手となり、ソフトバンクはいまその後半を味わっているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/"
+        }
+      ]
+    },
+    {
+      "id": "rengo-6pct-wage-demand",
+      "region": "japan",
+      "headline_en": "Japan's biggest union federation calls for a 6% wage hike in 2027.",
+      "headline": "連合が2027年に6%の賃上げを求めます。",
+      "summary": [
+        {
+          "en": "Rengo plans to urge affiliated unions to demand total pay increases of at least 5% and ideally 6% in next spring's wage talks, including base-pay increases of at least 3% and ideally 4%.",
+          "ja": "連合は来春の賃金交渉で、加盟組合に少なくとも5%、できれば6%の賃上げを求めるよう促す計画で、その中にはベースアップの少なくとも3%、できれば4%が含まれます。"
+        },
+        {
+          "en": "\"We've achieved wage increases of at least 5% for three consecutive years, and a norm of raising pay is beginning to take hold,\" Rengo Chair Tomoko Yoshino said.",
+          "ja": "連合の芳野友子会長は「3年連続で少なくとも5%の賃上げを達成し、賃金を上げる常識が根づき始めている」と述べました。"
+        },
+        {
+          "en": "The real target is pay that beats inflation by at least 1%, so a big number alone is not the finish line.",
+          "ja": "本当の目標は物価を少なくとも1%上回る賃金ですので、大きな数字だけではゴールではございません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/22/economy/japan-rengo-union-wage-hike-demand/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 156.88,
+        "change_pct": -0.79,
+        "change": -1.252,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.92,
+        "change_pct": -0.98,
+        "change": -1.74,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1216,
+        "change_pct": -0.17,
+        "change": -0.0019,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 62907.84,
+        "change_pct": -2.65,
+        "change": -1713.4,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3997.5,
+        "change_pct": -1.14,
+        "change": -46.23,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7663.43,
+        "change_pct": -1.21,
+        "change": -93.74,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26008.86,
+        "change_pct": -2.6,
+        "change": -694.0,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52867.98,
+        "change_pct": 0.02,
+        "change": 11.89,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.923,
+        "unit": "%",
+        "change_bp": -0.4,
+        "source": "財務省 国債金利情報 (R8.10.21)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.65,
+        "unit": "%",
+        "change_bp": -16,
+        "source": "U.S. Treasury (10/22/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.96,
+        "unit": "%",
+        "change_bp": -17,
+        "source": "U.S. Treasury (10/22/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4040.4,
+        "change_pct": -2.64,
+        "change": -109.6,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 99.3,
+        "change_pct": 2.21,
+        "change": 2.15,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 81258.44,
+        "change_pct": -3.28,
+        "change": -2753.53,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Thursday, Oct 22 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 21; FX and Bitcoin as of publishing time on Friday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-2.65%",
+        "explanation": "株探によりますと、半導体関連が売られて大幅に反落し、6万3000円を割り込みました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.60%",
+        "explanation": "ナスダックが2.60%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
