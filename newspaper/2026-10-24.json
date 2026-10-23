@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-24T05:22:47+09:00",
+  "news": [
+    {
+      "id": "japan-inflation-tops-2pct",
+      "region": "japan",
+      "headline_en": "Japanese inflation breaks 2% for the first time this year.",
+      "headline": "日本の物価上昇率が今年初めて2%を超えました。",
+      "summary": [
+        {
+          "en": "Government data released on Friday showed that overall consumer prices rose 2.1% year over year in September.",
+          "ja": "金曜に発表された政府のデータでは、9月の消費者物価全体が前年同月比で2.1%上がったことが示されました。"
+        },
+        {
+          "en": "Inflation excluding volatile fresh food also stood at 2.1%, the highest since December last year, and the reading excluding both fresh food and energy was 2.4%.",
+          "ja": "値動きの大きい生鮮食品を除いた物価上昇率も2.1%で昨年12月以来の高さとなり、生鮮食品とエネルギーの両方を除いた数値は2.4%でした。"
+        },
+        {
+          "en": "The reading puts more pressure on the Bank of Japan to raise rates, so the question is now when, not whether.",
+          "ja": "この数値は日本銀行に利上げを迫る圧力をさらに強めており、問題はもはや上げるかどうかではなく、いつ上げるかでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/23/economy/cpi-september-inflation/"
+        }
+      ]
+    },
+    {
+      "id": "miyamoto-order-of-culture",
+      "region": "japan",
+      "headline_en": "Miyamoto is the first game creator named to Japan's Order of Culture.",
+      "headline": "宮本茂氏、ゲーム関係で初の文化勲章へ。",
+      "summary": [
+        {
+          "en": "Shigeru Miyamoto, the legendary figure behind Nintendo franchises such as Mario and The Legend of Zelda, has been named the first-ever video game-related recipient of Japan's Order of Culture.",
+          "ja": "マリオやゼルダの伝説といった任天堂のシリーズを生んだ伝説的な人物、宮本茂氏が、ゲーム関係として史上初めて日本の文化勲章の受章者に選ばれました。"
+        },
+        {
+          "en": "Miyamoto, 73, started as an entry-level employee at Nintendo in 1977, and the award will be officially conferred in a Nov. 3 ceremony.",
+          "ja": "73歳の宮本氏は1977年に任天堂の新入社員として歩み始め、勲章は11月3日の式典で正式に授与されます。"
+        },
+        {
+          "en": "An honor once reserved for art, literature and science now includes games, and that says a lot about how far games have come.",
+          "ja": "かつては芸術・文学・科学のためのものだった栄誉にゲームが加わり、ゲームがどれほど遠くまで来たかをよく物語っております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/life/2026/10/23/digital/order-of-culture-miyamoto/"
+        }
+      ]
+    },
+    {
+      "id": "tibet-quake-16-dead",
+      "region": "world",
+      "headline_en": "A powerful earthquake in Tibet leaves 16 dead.",
+      "headline": "チベットで強い地震、16人が死亡しました。",
+      "summary": [
+        {
+          "en": "A magnitude 7.0 earthquake has hit a mountainous region in Tibet, killing at least 16 people and injuring dozens, according to Chinese state media.",
+          "ja": "中国国営メディアによりますと、チベットの山岳地帯をマグニチュード7.0の地震が襲い、少なくとも16人が死亡、数十人がけがをしました。"
+        },
+        {
+          "en": "339 homes have collapsed in the affected region, and more than 12,400 people had been relocated following the earthquake.",
+          "ja": "被災地では339棟の家屋が倒壊し、地震の後に1万2,400人を超える人々が移されました。"
+        },
+        {
+          "en": "Residents spent the night outdoors in subzero temperatures for fear of aftershocks, so the cold is now a danger as well as the quake.",
+          "ja": "住民は余震を恐れて氷点下の屋外で夜を過ごしており、いまや地震だけでなく寒さも危険となっております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o"
+        }
+      ]
+    },
+    {
+      "id": "us-lifts-some-canada-tariffs",
+      "region": "us",
+      "headline_en": "The US is lifting tariffs on some Canadian goods.",
+      "headline": "米国が一部のカナダ製品への関税を撤廃へ。",
+      "summary": [
+        {
+          "en": "The US is lifting some of its 50% tariffs on Canadian goods, removing products such as plywood sheets, some paper products, certain machinery and refrigeration equipment.",
+          "ja": "米国はカナダ製品への50%の関税の一部を撤廃し、合板や一部の紙製品、特定の機械や冷凍設備といった品目を外します。"
+        },
+        {
+          "en": "Republican Senator Susan Collins, who is in a tight race in Maine to keep her seat, first announced the exemptions, saying they would help her state's agriculture industry.",
+          "ja": "メイン州で議席を守るため接戦を戦う共和党のスーザン・コリンズ上院議員が最初にこの免除を発表し、州の農業を助けるものだと述べました。"
+        },
+        {
+          "en": "The relief arrives just before the 3 November midterms, and the timing is hard to miss.",
+          "ja": "この緩和は11月3日の中間選挙の直前に届いており、そのタイミングは見逃しようがございません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+        }
+      ]
+    },
+    {
+      "id": "paris-racist-terror-shooting",
+      "region": "europe",
+      "headline_en": "Macron says a deadly shooting near Paris is a \"racist terrorist attack\".",
+      "headline": "マクロン氏、パリ近郊の銃撃を「人種差別テロ」と。",
+      "summary": [
+        {
+          "en": "French President Emmanuel Macron has labelled a gun attack in a Parisian suburb which killed one person and injured five others \"a racist terrorist attack\".",
+          "ja": "フランスのマクロン大統領は、パリ郊外で1人が死亡し5人がけがをした銃撃を「人種差別的なテロ攻撃」と呼びました。"
+        },
+        {
+          "en": "The attack unfolded over some 15 minutes with the attacker opening fire from his car, appearing to target people of migrant origin, and he was subsequently arrested.",
+          "ja": "攻撃は約15分にわたって続き、襲撃者は車から発砲して移民出身の人々を狙ったとみられ、その後逮捕されました。"
+        },
+        {
+          "en": "Macron called it a \"turning point\" for the Republic, and in a France already shaken by riots, the words carry extra weight.",
+          "ja": "マクロン氏はこれを共和国にとっての「転換点」と呼んでおり、すでに暴動で揺れるフランスでは、その言葉は一段と重みを持っております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 156.824,
+        "change_pct": 0.21,
+        "change": 0.33,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.53,
+        "change_pct": -0.04,
+        "change": -0.07,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1196,
+        "change_pct": -0.23,
+        "change": -0.0026,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 62693.16,
+        "change_pct": -0.34,
+        "change": -214.68,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3965.81,
+        "change_pct": -0.79,
+        "change": -31.69,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7623.68,
+        "change_pct": -0.52,
+        "change": -39.75,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25955.34,
+        "change_pct": -0.21,
+        "change": -53.52,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52215.16,
+        "change_pct": -1.23,
+        "change": -652.82,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.914,
+        "unit": "%",
+        "change_bp": -0.9,
+        "source": "財務省 国債金利情報 (R8.10.22)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.69,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/23/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.0,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/23/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4009.8,
+        "change_pct": -1.25,
+        "change": -50.6,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 103.44,
+        "change_pct": 3.99,
+        "change": 3.97,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 81215.87,
+        "change_pct": -0.12,
+        "change": -96.02,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 23 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 22; FX and Bitcoin as of publishing time on Saturday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.34%",
+        "explanation": "株探によりますと、半導体関連に売りが優勢で続落しましたが、終盤は下げ渋りました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "+3.99%",
+        "explanation": "WTIが3.99%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
