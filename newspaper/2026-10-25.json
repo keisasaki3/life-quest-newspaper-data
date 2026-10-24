@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-25",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-25T05:22:05+09:00",
+  "news": [
+    {
+      "id": "sagawa-53m-data-breach",
+      "region": "japan",
+      "headline_en": "Sagawa Express says 53 million sets of personal info may be compromised.",
+      "headline": "佐川急便、個人情報5,300万件流出の恐れ。",
+      "summary": [
+        {
+          "en": "Sagawa Express has announced that up to about 53.23 million sets of personal information may have been compromised due to unauthorized access to its delivery tracking service.",
+          "ja": "佐川急便は、配達状況の確認サービスへの不正アクセスにより、最大で約5,323万件の個人情報が流出した恐れがあると発表しました。"
+        },
+        {
+          "en": "The affected data includes the names, addresses, and phone numbers of senders and recipients listed on shipping labels from June 21 to Sept. 30.",
+          "ja": "対象のデータには、6月21日から9月30日までの送り状に記載された送り主と受取人の氏名、住所、電話番号が含まれます。"
+        },
+        {
+          "en": "The company said the number does not necessarily match the number of affected customers, but anyone who sent or got a parcel in those months has reason to watch out.",
+          "ja": "同社はこの件数が影響を受けた顧客の数と必ずしも一致しないと述べておりますが、その期間に荷物を送ったり受け取ったりした方は用心する理由がございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/24/sagawa-express-unauthorized-access/"
+        }
+      ]
+    },
+    {
+      "id": "japan-gasoline-subsidy-review",
+      "region": "japan",
+      "headline_en": "Japan will review gasoline subsidies as costs mount.",
+      "headline": "政府がガソリン補助金の見直しへ。",
+      "summary": [
+        {
+          "en": "Prime Minister Sanae Takaichi has instructed industry minister Ryosei Akazawa to review government subsidies aimed at holding down the prices of gasoline and other fuel oil.",
+          "ja": "高市早苗首相は赤沢亮正経済産業相に対し、ガソリンなどの燃料油の価格を抑えるための政府の補助金を見直すよう指示しました。"
+        },
+        {
+          "en": "The balance of a fund for the subsidies stood at about ¥560 billion at the end of September, and the money is expected to run out in the near future due to soaring crude oil prices.",
+          "ja": "補助金のための基金の残高は9月末に約5,600億円で、原油価格の高騰により近いうちに底をつくと見込まれています。"
+        },
+        {
+          "en": "Holding gasoline at about ¥170 a liter has cost about ¥1.2 trillion since March, so the bill is now the problem.",
+          "ja": "ガソリンを1リットル約170円に抑えるのに3月以降で約1.2兆円かかっており、いまや問題はその請求書でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/gas-subsidies-review/"
+        }
+      ]
+    },
+    {
+      "id": "eagles-nest-fire-arrest",
+      "region": "europe",
+      "headline_en": "A man is arrested after a fire at Hitler's Eagle's Nest retreat.",
+      "headline": "ヒトラーの「鷲の巣」火災で男を逮捕。",
+      "summary": [
+        {
+          "en": "Police in the southern German state of Bavaria have detained a 33-year-old German man during a fire at Adolf Hitler's Alpine mountain retreat, the Kehlsteinhaus, also known as the Eagle's Nest.",
+          "ja": "ドイツ南部バイエルン州の警察は、「鷲の巣」としても知られるアドルフ・ヒトラーのアルプスの山荘ケールシュタインハウスの火災の際に、33歳のドイツ人の男を拘束しました。"
+        },
+        {
+          "en": "Some 200 emergency personnel were deployed to the scene, and local media reported that the site had been \"largely destroyed\".",
+          "ja": "現場には約200人の救急隊員が送られ、地元メディアは建物が「大部分が破壊された」と報じました。"
+        },
+        {
+          "en": "Bavaria's interior minister said the site would \"under no circumstances remain a ruin\", because the work of remembrance needs the place itself.",
+          "ja": "バイエルン州の内相はこの場所を「決して廃墟のままにはしない」と述べており、記憶をつなぐ仕事にはその場所そのものが必要だからでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-starlink-stable",
+      "region": "europe",
+      "headline_en": "Ukraine says its Starlink connection is \"now stable\".",
+      "headline": "ウクライナ、スターリンクの接続が「安定」と。",
+      "summary": [
+        {
+          "en": "Ukraine now has a \"stable connection\" to Starlink, its defence minister has said, after its military suffered days of restricted connectivity on the satellite internet network.",
+          "ja": "ウクライナの国防相は、軍が衛星インターネット網で何日も接続を制限された後、いまはスターリンクに「安定した接続」があると述べました。"
+        },
+        {
+          "en": "Drones had lost connection when travelling at 161km/h or more, but the minister said speeds of more than 400km/h were now possible.",
+          "ja": "ドローンは時速161キロ以上で飛ぶと接続が切れていましたが、国防相は今では時速400キロを超える速度が可能だと述べました。"
+        },
+        {
+          "en": "The connection is back, but a week of limits showed how much Ukraine's front depends on one company's satellites.",
+          "ja": "接続は戻りましたが、1週間の制限は、ウクライナの前線が一つの企業の衛星にどれほど頼っているかを示しました。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go"
+        }
+      ]
+    },
+    {
+      "id": "kenya-second-ebola-death",
+      "region": "world",
+      "headline_en": "A woman becomes the second patient to die of Ebola in Kenya.",
+      "headline": "ケニアでエボラ2人目の死者が出ました。",
+      "summary": [
+        {
+          "en": "Kenya has recorded its second death from Ebola as it handles its first ever outbreak of the disease.",
+          "ja": "ケニアは史上初めてのエボラ出血熱の流行に対処する中で、2人目の死者を記録しました。"
+        },
+        {
+          "en": "The woman, aged 65, was a close family member of the first victim, and all the cases were within \"one cluster, with no evidence of community spread\", the health ministry said.",
+          "ja": "保健省によりますと、65歳の女性は最初の犠牲者の近親者で、すべての症例は「一つの集団の中にあり、地域での感染拡大の証拠はない」とのことです。"
+        },
+        {
+          "en": "This strain has no approved vaccine or treatment, so keeping it inside that one cluster is what matters most now.",
+          "ja": "この型には承認されたワクチンも治療法もなく、いまはその一つの集団の中に封じ込めることが何より大切でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 156.814,
+        "change_pct": 0.2,
+        "change": 0.32,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.5,
+        "change_pct": -0.06,
+        "change": -0.1,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1204,
+        "change_pct": -0.15,
+        "change": -0.0017,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 62693.16,
+        "change_pct": -0.34,
+        "change": -214.68,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3965.81,
+        "change_pct": -0.79,
+        "change": -31.69,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7623.68,
+        "change_pct": -0.52,
+        "change": -39.75,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25955.34,
+        "change_pct": -0.21,
+        "change": -53.52,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52215.16,
+        "change_pct": -1.23,
+        "change": -652.82,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.914,
+        "unit": "%",
+        "change_bp": -0.9,
+        "source": "財務省 国債金利情報 (R8.10.22)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.69,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/23/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.0,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/23/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4009.8,
+        "change_pct": -1.25,
+        "change": -50.6,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 103.44,
+        "change_pct": 3.99,
+        "change": 3.97,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 80480.85,
+        "change_pct": -0.73,
+        "change": -593.34,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 23 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 22; FX and Bitcoin as of publishing time on Sunday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.34%",
+        "explanation": "株探によりますと、半導体関連に売りが優勢で続落しましたが、終盤は下げ渋りました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "+3.99%",
+        "explanation": "WTIが3.99%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
