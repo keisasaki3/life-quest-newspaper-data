@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-26T05:21:47+09:00",
+  "news": [
+    {
+      "id": "saizeriya-first-price-hike",
+      "region": "japan",
+      "headline_en": "Budget chain Saizeriya succumbs to rising costs.",
+      "headline": "格安チェーンのサイゼリヤがコスト高に屈しました。",
+      "summary": [
+        {
+          "en": "Starting Thursday, the restaurant chain will raise prices by an average 6% across the menu, with some stores with higher operating costs seeing a 10% increase due to rising raw material and energy costs.",
+          "ja": "このレストランチェーンは木曜から、原材料費とエネルギー費の上昇を理由にメニュー全体で平均6%値上げし、運営コストの高い一部の店では10%上がります。"
+        },
+        {
+          "en": "It is the first comprehensive price rise since 1998, when Saizeriya became a public company, and the first time prices will vary among locations.",
+          "ja": "サイゼリヤが上場した1998年以来初めての全面的な値上げで、店舗によって価格が異なるのも初めてです。"
+        },
+        {
+          "en": "Saizeriya was famed for its inflation-defying cheap dishes, so when even it gives in, the pressure on prices is real.",
+          "ja": "サイゼリヤは物価高に逆らう安い料理で知られておりましたので、そこさえ屈するとなれば、物価への圧力は本物でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/25/companies/saizeriya-price-hike/"
+        }
+      ]
+    },
+    {
+      "id": "brewers-cartel-prices-held",
+      "region": "japan",
+      "headline_en": "Brewers in a cartel probe held beer prices after a tax cut.",
+      "headline": "カルテル調査のビール4社、減税後も価格据え置き。",
+      "summary": [
+        {
+          "en": "Japan's four major beer companies, suspected of price collusion, kept shipping prices unchanged after the 2023 tax cut of ¥19 per liter of beer, citing higher costs, sources said.",
+          "ja": "関係者によりますと、価格の談合を疑われている日本の大手ビール4社は、2023年にビール1リットルあたり19円の減税があった後も、コスト上昇を理由に出荷価格を据え置きました。"
+        },
+        {
+          "en": "The Japan Fair Trade Commission is investigating a possible cartel among Asahi, Kirin, Suntory and Sapporo, with a view to filing a criminal complaint with prosecutors.",
+          "ja": "公正取引委員会はアサヒ、キリン、サントリー、サッポロの間のカルテルの可能性を調べており、検察への刑事告発を視野に入れています。"
+        },
+        {
+          "en": "\"Totally strange and not understandable at all,\" one wholesaler said, and that is exactly what the watchdog wants to explain.",
+          "ja": "ある卸売業者は「まったくおかしく、まったく理解できない」と述べており、それこそ監視当局が解き明かそうとしている点でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/25/japan-cartel-suspected-brewers/"
+        }
+      ]
+    },
+    {
+      "id": "musk-says-spacex-restricted-starlink",
+      "region": "world",
+      "headline_en": "Musk says SpaceX restricted Ukraine's Starlink connection.",
+      "headline": "マスク氏、スペースXがウクライナの接続を制限と。",
+      "summary": [
+        {
+          "en": "Elon Musk has said his company SpaceX restricted Ukraine's Starlink internet service, accusing Ukraine of violating its terms of service by using it for military activity.",
+          "ja": "イーロン・マスク氏は、自身の会社スペースXがウクライナのスターリンクのインターネットサービスを制限したと述べ、ウクライナが軍事活動に使って利用規約に違反したと非難しました。"
+        },
+        {
+          "en": "Ukrainian presidential adviser Serhii Beskrestnov said his post was \"very strange\", adding that drones on Starlink did not work on Russian territory.",
+          "ja": "ウクライナ大統領顧問のセルヒー・ベスクレストノフ氏はこの投稿を「非常に奇妙だ」と述べ、スターリンクを使うドローンはロシア領内では動かないと付け加えました。"
+        },
+        {
+          "en": "Musk had earlier denied deliberately throttling the connection, so his story has now changed.",
+          "ja": "マスク氏は以前、接続を意図的に絞ったことを否定しておりましたので、話はいまや変わったのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo"
+        }
+      ]
+    },
+    {
+      "id": "machado-returns-venezuela",
+      "region": "world",
+      "headline_en": "Opposition leader María Machado returns to Venezuela.",
+      "headline": "野党指導者マチャド氏がベネズエラに帰国。",
+      "summary": [
+        {
+          "en": "Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after more than 10 months in exile.",
+          "ja": "ベネズエラの野党指導者マリア・コリナ・マチャド氏は、10か月を超える亡命の後、緊張に満ちた政治状況の母国に戻りました。"
+        },
+        {
+          "en": "\"I am here. With you,\" Machado wrote on X on Sunday, after repeated prior efforts to re-enter the country came to no avail.",
+          "ja": "マチャド氏は日曜、Xに「私はここにいます。皆さんと共に」と書き込みましたが、それまでは何度も入国を試みて実りませんでした。"
+        },
+        {
+          "en": "She has said she would run for president again if an election were held, so her return raises the question of when that will be.",
+          "ja": "マチャド氏は選挙が行われれば再び大統領選に出ると述べており、その帰国は、それがいつになるのかという問いを投げかけております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo"
+        }
+      ]
+    },
+    {
+      "id": "france-protests-1300-arrested",
+      "region": "europe",
+      "headline_en": "Over 1,300 are arrested after more mass protests in France.",
+      "headline": "フランスで再び大規模デモ、1,300人超を逮捕。",
+      "summary": [
+        {
+          "en": "More than 1,300 arrests were made as hundreds of thousands of people took part in another day of protests across France on Saturday.",
+          "ja": "フランス全土で土曜に再び抗議行動があり、数十万人が参加する中で1,300人を超える逮捕者が出ました。"
+        },
+        {
+          "en": "The interior ministry said an estimated 410,000 people protested on Saturday, while the unions put the number at about 800,000.",
+          "ja": "内務省は土曜に推計41万人が抗議したと述べましたが、労働組合はその数を約80万人としました。"
+        },
+        {
+          "en": "Officials avoided rioting on the scale of last weekend, but the anger over the cost of living has not gone anywhere.",
+          "ja": "当局は先週末ほどの規模の暴動は避けましたが、生活費をめぐる怒りはどこにも消えておりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 156.834,
+        "change_pct": 0.22,
+        "change": 0.34,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.92,
+        "change_pct": 0.18,
+        "change": 0.32,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1218,
+        "change_pct": -0.03,
+        "change": -0.0003,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 62693.16,
+        "change_pct": -0.34,
+        "change": -214.68,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3965.81,
+        "change_pct": -0.79,
+        "change": -31.69,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7623.68,
+        "change_pct": -0.52,
+        "change": -39.75,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25955.34,
+        "change_pct": -0.21,
+        "change": -53.52,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52215.16,
+        "change_pct": -1.23,
+        "change": -652.82,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.914,
+        "unit": "%",
+        "change_bp": -0.9,
+        "source": "財務省 国債金利情報 (R8.10.22)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.69,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/23/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.0,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (10/23/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4009.8,
+        "change_pct": -1.25,
+        "change": -50.6,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 103.44,
+        "change_pct": 3.99,
+        "change": 3.97,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 80509.1,
+        "change_pct": -0.35,
+        "change": -281.73,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 23 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 22; FX and Bitcoin as of publishing time on Monday morning, before Tokyo opens.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.34%",
+        "explanation": "株探によりますと、半導体関連に売りが優勢で続落しましたが、終盤は下げ渋りました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "+3.99%",
+        "explanation": "WTIが3.99%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
