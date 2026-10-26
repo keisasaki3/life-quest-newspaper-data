@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-27",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-27T05:22:10+09:00",
+  "news": [
+    {
+      "id": "lula-wins-fourth-term",
+      "region": "world",
+      "headline_en": "Lula wins a fourth term in a dramatic comeback.",
+      "headline": "ルラ氏が劇的な逆転で4期目の当選。",
+      "summary": [
+        {
+          "en": "Left-wing leader Lula took 51.79% of votes, becoming the first president since Brazil's return to civilian rule in 1985 to be elected after losing the first round of voting.",
+          "ja": "左派の指導者ルラ氏は51.79%の票を得て、ブラジルが1985年に民政に戻って以来、1回目の投票で負けた後に当選した初めての大統領となりました。"
+        },
+        {
+          "en": "Flávio Bolsonaro has so far refused to recognise the result and called for it to be annulled, but the gap of 4.4 million votes makes the result more difficult to challenge.",
+          "ja": "フラビオ・ボルソナロ氏はこれまで結果を認めず無効を求めていますが、440万票という差が結果に異議を唱えることをより難しくしています。"
+        },
+        {
+          "en": "Lula's camp won by getting people to vote after 33 million stayed home in round one, so turnout, not persuasion, decided this race.",
+          "ja": "ルラ陣営は1回目に3,300万人が投票しなかった後、人々を投票に向かわせて勝ちましたので、この選挙を決めたのは説得ではなく投票率でございました。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo"
+        }
+      ]
+    },
+    {
+      "id": "serbia-vucic-concedes",
+      "region": "europe",
+      "headline_en": "Serbia's Vučić concedes the election to a student-led movement.",
+      "headline": "セルビアのブチッチ氏、学生運動に敗北を認める。",
+      "summary": [
+        {
+          "en": "Serbia's long-standing leader Aleksandar Vučić has admitted defeat to a student-led protest movement in snap parliamentary elections.",
+          "ja": "セルビアの長期指導者アレクサンダル・ブチッチ氏は、繰り上げ議会選挙で学生主導の抗議運動に敗れたことを認めました。"
+        },
+        {
+          "en": "The students had secured 52.7% of the vote, while Vučić's Serbian Progressive Party was on 39.2%, according to preliminary figures.",
+          "ja": "暫定の数字によりますと、学生側は52.7%の票を得て、ブチッチ氏のセルビア進歩党は39.2%でした。"
+        },
+        {
+          "en": "A movement born from a station canopy collapse that killed 16 people has now taken power at the ballot box.",
+          "ja": "16人が亡くなった駅のひさしの崩落から生まれた運動が、いま投票によって権力を手にしたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-ipo-risk-warning",
+      "region": "us",
+      "headline_en": "Anthropic warns of AI's \"catastrophic risks\" ahead of its IPO.",
+      "headline": "アンソロピック、上場を前にAIの「破滅的リスク」を警告。",
+      "summary": [
+        {
+          "en": "Anthropic has warned artificial intelligence could pose \"catastrophic or existential risks to humanity\" as it unveiled details of its planned stock market listing in the US.",
+          "ja": "アンソロピックは米国での株式上場計画の詳細を明らかにする中で、人工知能が「人類にとって破滅的、あるいは存亡にかかわるリスク」をもたらし得ると警告しました。"
+        },
+        {
+          "en": "The Claude chatbot developer reported $16.3bn of revenue in the first half of the year, with losses of more than $80.7bn, and said it will list on the Nasdaq under the symbol ANT.",
+          "ja": "チャットボットClaudeの開発元は上半期に163億ドルの売上高と807億ドルを超える損失を報告し、ナスダックに「ANT」の銘柄記号で上場すると述べました。"
+        },
+        {
+          "en": "It is the first fully AI-focused company to go public, so investors are being asked to buy into both the promise and the warning.",
+          "ja": "AIに完全に特化した企業として初めての上場で、投資家は約束と警告の両方を買うよう求められているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo"
+        }
+      ]
+    },
+    {
+      "id": "yasuo-fukuda-dies",
+      "region": "japan",
+      "headline_en": "Former Prime Minister Yasuo Fukuda dies at 90.",
+      "headline": "福田康夫元首相が90歳で死去しました。",
+      "summary": [
+        {
+          "en": "Former Prime Minister Yasuo Fukuda, who led Japan from 2007-08 and sought to strengthen ties with China during and after his brief tenure, died Thursday at the age of 90, his son announced Monday.",
+          "ja": "2007年から08年まで日本を率い、短い在任中もその後も中国との関係強化に努めた福田康夫元首相が木曜に90歳で亡くなったと、息子が月曜に発表しました。"
+        },
+        {
+          "en": "He took office in September 2007 after Shinzo Abe's abrupt resignation, and the two Fukudas became the country's first father-and-son pair to serve as prime ministers.",
+          "ja": "福田氏は安倍晋三氏の突然の辞任を受けて2007年9月に就任し、二人の福田氏は国内で初めて親子で首相を務めた組となりました。"
+        },
+        {
+          "en": "His time in office was short, but his work on ties with China went on long after it.",
+          "ja": "在任期間は短いものでしたが、中国との関係に向けた取り組みはその後も長く続いたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/yasuo-fukuda-obituary/"
+        }
+      ]
+    },
+    {
+      "id": "chinese-cars-overtake-japan-europe",
+      "region": "japan",
+      "headline_en": "Chinese carmakers overtake Japan in Europe for the first time.",
+      "headline": "欧州で中国車が初めて日本車を上回りました。",
+      "summary": [
+        {
+          "en": "Chinese automakers outsold Japanese rivals in Europe for the first time over a full quarter, underscoring how quickly brands like BYD and Chery Automobile are gaining ground in the region.",
+          "ja": "中国の自動車メーカーが欧州で四半期を通じて初めて日本勢を販売で上回り、BYDや奇瑞汽車といったブランドがどれほど速くこの地域で地歩を固めているかを浮き彫りにしました。"
+        },
+        {
+          "en": "Registrations of Chinese-branded cars made up 12.7% of total sales across the region in September, ahead of Japanese manufacturers including Toyota at 11.9%.",
+          "ja": "中国ブランド車の登録は9月に地域全体の販売の12.7%を占め、トヨタなどを含む日本メーカーの11.9%を上回りました。"
+        },
+        {
+          "en": "Five years ago Chinese brands had barely 1% of European sales, so Japan's decades of work there have been matched in a few years.",
+          "ja": "5年前、中国ブランドの欧州での販売はわずか1%ほどでしたので、日本が何十年もかけて築いたものに数年で並ばれたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/26/companies/china-carmakers-overtake-japan-europe-market/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.499,
+        "change_pct": 0.64,
+        "change": 1.005,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.03,
+        "change_pct": 0.25,
+        "change": 0.43,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1179,
+        "change_pct": -0.37,
+        "change": -0.0042,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 62189.65,
+        "change_pct": -0.8,
+        "change": -503.51,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3972.98,
+        "change_pct": 0.18,
+        "change": 7.17,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7676.77,
+        "change_pct": 0.7,
+        "change": 53.09,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26169.38,
+        "change_pct": 0.82,
+        "change": 214.04,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52361.58,
+        "change_pct": 0.28,
+        "change": 146.42,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.837,
+        "unit": "%",
+        "change_bp": -7.7,
+        "source": "財務省 国債金利情報 (R8.10.23)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.68,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (10/26/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.0,
+        "unit": "%",
+        "change_bp": 0,
+        "source": "U.S. Treasury (10/26/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4026.6,
+        "change_pct": 0.47,
+        "change": 18.7,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 101.63,
+        "change_pct": -1.59,
+        "change": -1.64,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 79786.2,
+        "change_pct": -0.3,
+        "change": -237.8,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Monday, Oct 26 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 23; FX and Bitcoin as of publishing time on Tuesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.80%",
+        "explanation": "株探によりますと、AI・半導体株を中心に売りが優勢で、3日続落いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-1.59%",
+        "explanation": "WTIが1.59%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
