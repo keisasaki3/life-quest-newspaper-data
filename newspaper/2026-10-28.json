@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-28T05:22:02+09:00",
+  "news": [
+    {
+      "id": "oleshky-truce-begins",
+      "region": "europe",
+      "headline_en": "A truce begins in a Ukraine city where people ate weeds.",
+      "headline": "住民が雑草で命をつないだウクライナの町で停戦。",
+      "summary": [
+        {
+          "en": "A truce has begun in the Russian-occupied Ukrainian city of Oleshky, where residents have been trapped without food, water and electricity.",
+          "ja": "住民が食料も水も電気もないまま閉じ込められてきた、ロシアに占領されたウクライナの町オレシキで停戦が始まりました。"
+        },
+        {
+          "en": "The truce, which the White House said was secured by First Lady Melania Trump, is meant to allow aid deliveries and a civilian evacuation on Friday.",
+          "ja": "ホワイトハウスがメラニア・トランプ大統領夫人によって実現したとするこの停戦は、金曜の支援物資の搬入と民間人の避難を可能にするためのものです。"
+        },
+        {
+          "en": "One resident said, \"I don't believe in Russia's humanity,\" so the real test is whether the roads out are safe on Friday.",
+          "ja": "ある住民は「ロシアの人間性を信じていない」と語っており、本当の試練は金曜に外へ出る道が安全かどうかでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo"
+        }
+      ]
+    },
+    {
+      "id": "comey-charged-third-time",
+      "region": "us",
+      "headline_en": "Ex-FBI chief James Comey faces federal charges for a third time.",
+      "headline": "コミー元FBI長官、3度目の連邦起訴手続き。",
+      "summary": [
+        {
+          "en": "Federal prosecutors have taken steps to charge ex-FBI Director James Comey with leaking national defence information, according to a court filing.",
+          "ja": "裁判所への提出書類によりますと、連邦検察はジェームズ・コミー元FBI長官を国防情報を漏らした罪で起訴する手続きを取りました。"
+        },
+        {
+          "en": "Comey denied any wrongdoing, calling the charges an \"appalling abuse\", and his legal team has filed a motion to dismiss them.",
+          "ja": "コミー氏は一切の不正を否定してこの起訴を「ひどい乱用」と呼び、弁護団は起訴の棄却を求める申し立てを行いました。"
+        },
+        {
+          "en": "A former prosecutor said the case may have passed the 10-year statute of limitations, so the clock itself may decide this one.",
+          "ja": "元検察官はこの件が10年の時効を過ぎている可能性があると述べており、この件は時計そのものが決めるかもしれません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo"
+        }
+      ]
+    },
+    {
+      "id": "mbappe-mao-apology",
+      "region": "world",
+      "headline_en": "Mbappé apologises for an \"ill-judged\" Mao remark.",
+      "headline": "エムバペ、毛沢東発言で中国の反発を受け謝罪。",
+      "summary": [
+        {
+          "en": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong which led to him being dropped by several Chinese brands.",
+          "ja": "キリアン・エムバペ選手は、複数の中国ブランドから契約を打ち切られる原因となった、故毛沢東・元中国指導者についての「軽率な」発言を謝罪しました。"
+        },
+        {
+          "en": "\"My comment was ill-judged, and I now understand that it hurt many people in China and in Chinese communities around the world,\" Mbappé said.",
+          "ja": "エムバペ選手は「私の発言は軽率で、それが中国と世界中の中国系社会の多くの人を傷つけたと、今は理解しています」と述べました。"
+        },
+        {
+          "en": "A laugh about a meme cost him sponsors in a day, which shows how sensitive Mao still is in China.",
+          "ja": "ミームを笑ったことで1日のうちにスポンサーを失っており、中国で毛沢東がいまなおどれほど敏感な話題かを示しております。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo"
+        }
+      ]
+    },
+    {
+      "id": "tetsuya-chiba-dies",
+      "region": "japan",
+      "headline_en": "Manga artist Tetsuya Chiba, creator of \"Ashita no Joe,\" dies at 87.",
+      "headline": "「あしたのジョー」のちばてつや氏が87歳で死去。",
+      "summary": [
+        {
+          "en": "Publishing house Kodansha announced Tuesday that manga artist Tetsuya Chiba, best known for co-creating the popular boxing series \"Ashita no Joe,\" died at 87 last Thursday at a hospital in Tokyo.",
+          "ja": "出版社の講談社は火曜、人気ボクシング作品「あしたのジョー」の共作者として最もよく知られる漫画家ちばてつや氏が、先週木曜に東京の病院で87歳で亡くなったと発表しました。"
+        },
+        {
+          "en": "With a career spanning seven decades, Chiba was a key figure in establishing sports manga as a major genre, and in 2024 he became the first manga artist to receive the Order of Culture.",
+          "ja": "70年にわたる経歴の中で、ちば氏はスポーツ漫画を主要なジャンルとして確立する上で鍵となった人物で、2024年には漫画家として初めて文化勲章を受けました。"
+        },
+        {
+          "en": "The award in his name has helped new artists for 46 years, so his work will keep going through them.",
+          "ja": "その名を冠した賞は46年にわたり新人を後押ししてきましたので、ちば氏の仕事は彼らを通じて続いていくのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/culture/2026/10/27/entertainment-news/tetsuya-chiba-obituary/"
+        }
+      ]
+    },
+    {
+      "id": "hamaoka-restart-unlikely",
+      "region": "japan",
+      "headline_en": "A court finds a Hamaoka reactor restart unlikely after a data scandal.",
+      "headline": "裁判所、データ不正で浜岡の再稼働は困難と判断。",
+      "summary": [
+        {
+          "en": "The Shizuoka District Court rejected a lawsuit seeking an injunction against the operation of reactors at Chubu Electric Power's Hamaoka nuclear power plant.",
+          "ja": "静岡地裁は、中部電力浜岡原子力発電所の原子炉の運転差し止めを求めた訴えを退けました。"
+        },
+        {
+          "en": "The court found that the lawsuit had effectively lost its meaning because the Nuclear Regulation Authority is now unlikely to approve a restart due to Chubu Electric's data manipulation scandal.",
+          "ja": "裁判所は、中部電力のデータ改ざん問題により原子力規制委員会が再稼働を認める見込みが低くなったため、訴えは事実上意味を失ったと判断しました。"
+        },
+        {
+          "en": "The residents lost the case but got what they wanted for now, and the court never ruled on the safety question itself.",
+          "ja": "住民側は敗訴しましたが当面は望んだ結果を得ており、裁判所は安全性の問題そのものには判断を下しておりません。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/27/japan/crime-legal/shizuoka-court-rejects-hamaoka-reactor-injunction/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.932,
+        "change_pct": 0.7,
+        "change": 1.102,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.78,
+        "change_pct": -0.08,
+        "change": -0.13,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1133,
+        "change_pct": -0.75,
+        "change": -0.0084,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 63268.37,
+        "change_pct": 1.73,
+        "change": 1078.72,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3997.37,
+        "change_pct": 0.61,
+        "change": 24.39,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7722.6,
+        "change_pct": 0.6,
+        "change": 45.83,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26477.81,
+        "change_pct": 1.18,
+        "change": 308.43,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52377.57,
+        "change_pct": 0.03,
+        "change": 15.99,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.824,
+        "unit": "%",
+        "change_bp": -1.3,
+        "source": "財務省 国債金利情報 (R8.10.26)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.7,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (10/27/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.99,
+        "unit": "%",
+        "change_bp": -1,
+        "source": "U.S. Treasury (10/27/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4073.2,
+        "change_pct": 0.86,
+        "change": 34.8,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 100.03,
+        "change_pct": -1.7,
+        "change": -1.73,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 80657.38,
+        "change_pct": 0.81,
+        "change": 650.73,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Tuesday, Oct 27 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 26; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.73%",
+        "explanation": "株探によりますと、米アンソロピックのIPO申請が好感され、4日ぶりに反発いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-1.70%",
+        "explanation": "WTIが1.70%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
