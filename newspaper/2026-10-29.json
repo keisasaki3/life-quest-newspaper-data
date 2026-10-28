@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-29T05:22:13+09:00",
+  "news": [
+    {
+      "id": "spain-train-collision",
+      "region": "europe",
+      "headline_en": "Two trains collide in Spain, killing at least 68.",
+      "headline": "スペインで列車2本が衝突、少なくとも68人死亡。",
+      "summary": [
+        {
+          "en": "Two trains collided about 140km south of Madrid on Wednesday morning, and so far at least 68 people are confirmed to have died.",
+          "ja": "水曜朝、マドリードの南約140キロで列車2本が衝突し、これまでに少なくとも68人の死亡が確認されています。"
+        },
+        {
+          "en": "Transport minister Oscar Puente said the control centre allowed the trains to move again after a computer failure, without any speed restrictions, \"under inexplicable circumstances\".",
+          "ja": "オスカル・プエンテ運輸相は、コンピューターの故障の後、管制センターが「説明のつかない状況のもとで」速度制限なしに列車の運行再開を許したと述べました。"
+        },
+        {
+          "en": "The minister himself called the decision inexplicable, so the questions now point at the control centre, not the trains.",
+          "ja": "運輸相自身がその判断を説明がつかないと呼んでおり、いま疑問の矛先は列車ではなく管制センターに向いているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo"
+        }
+      ]
+    },
+    {
+      "id": "israel-election-no-majority",
+      "region": "world",
+      "headline_en": "Netanyahu's bloc leads Israel's election but falls short of a majority.",
+      "headline": "イスラエル総選挙、ネタニヤフ陣営が首位も過半数届かず。",
+      "summary": [
+        {
+          "en": "With 85% of ballots counted, Netanyahu's Likud party and its allies were on track to win 53 seats in the 120-seat Knesset, while Eisenkot's bloc was set for 48.",
+          "ja": "開票率85%の時点で、ネタニヤフ氏のリクードと同盟政党は定数120のクネセトで53議席を得る見通しで、アイゼンコット氏の陣営は48議席の見通しでした。"
+        },
+        {
+          "en": "Arab-led parties, who are on course to win an unprecedented 19 seats, could emerge as kingmakers, but all but one of the Jewish parties have pledged not to work with them.",
+          "ja": "前例のない19議席を得る勢いのアラブ系政党がキャスティングボートを握る可能性がありますが、ユダヤ系政党は一つを除いてすべて彼らとは組まないと誓っています。"
+        },
+        {
+          "en": "Neither side has 61 seats, so the coming weeks of talks matter more than election night did.",
+          "ja": "どちらの陣営も61議席に届いておらず、これからの数週間の協議の方が開票の夜よりも重要でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
+        }
+      ]
+    },
+    {
+      "id": "uk-budget-energy-100",
+      "region": "europe",
+      "headline_en": "The UK Budget funds £100 energy help with a bank tax.",
+      "headline": "英予算案、銀行課税で光熱費に100ポンド支給。",
+      "summary": [
+        {
+          "en": "Millions of households will get £100 to help with soaring energy bills to be paid for by a tax on bank profits, John Healey has announced in his first Budget.",
+          "ja": "ジョン・ヒーリー財務相は初の予算案で、高騰する光熱費を助けるため数百万世帯に100ポンドを支給し、その財源を銀行の利益への課税で賄うと発表しました。"
+        },
+        {
+          "en": "Healey increased the tax on the profits of big banks from 3% to 6%, which will last from January next year to April 2028.",
+          "ja": "ヒーリー氏は大手銀行の利益への税を3%から6%に引き上げ、これは来年1月から2028年4月まで続きます。"
+        },
+        {
+          "en": "Conservative leader Kemi Badenoch said the plans were \"not bold enough\", and many big decisions were left until next year.",
+          "ja": "保守党のケミ・ベーデノック党首はこの計画を「大胆さが足りない」と述べており、多くの大きな決定は来年に持ち越されたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go"
+        }
+      ]
+    },
+    {
+      "id": "chiba-m54-quake",
+      "region": "japan",
+      "headline_en": "An M5.4 quake in Chiba shakes Tokyo and nearby prefectures.",
+      "headline": "千葉でM5.4の地震、東京と周辺県が揺れました。",
+      "summary": [
+        {
+          "en": "Tokyo and surrounding prefectures were rocked early Thursday morning by a magnitude 5.4 earthquake in northeastern Chiba Prefecture.",
+          "ja": "木曜未明、千葉県北東部でマグニチュード5.4の地震があり、東京と周辺の県が揺れました。"
+        },
+        {
+          "en": "The quake occurred at 12:07 a.m. at a depth of 50 kilometers, registering up to lower five on Japan's seven-point shindo scale, and no tsunami alert was issued.",
+          "ja": "地震は午前0時7分に深さ50キロで起き、日本の7段階の震度で最大5弱を観測し、津波の注意報は出されませんでした。"
+        },
+        {
+          "en": "Police had received no reports of damage or injury shortly after, but it is a good night to check your emergency bag.",
+          "ja": "警察には直後の時点で被害やけがの報告はありませんでしたが、非常用の持ち出し袋を確かめるのによい晩でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/29/japan/society/earthquake-chiba-kanto-10290007/"
+        }
+      ]
+    },
+    {
+      "id": "un-japan-nuclear-resolution",
+      "region": "japan",
+      "headline_en": "A U.N. panel adopts a Japan-led nuclear weapon abolition resolution.",
+      "headline": "国連委員会が日本主導の核廃絶決議を採択。",
+      "summary": [
+        {
+          "en": "A U.N. General Assembly committee has adopted by majority vote a Japan-led resolution seeking the abolition of nuclear weapons.",
+          "ja": "国連総会の委員会は、核兵器の廃絶を求める日本主導の決議を多数決で採択しました。"
+        },
+        {
+          "en": "The resolution received support from 150 countries, while seven, including China, Russia, Iran and North Korea, voted against it, and 25, including the United States and France, abstained.",
+          "ja": "決議は150か国の支持を得た一方、中国、ロシア、イラン、北朝鮮を含む7か国が反対し、米国やフランスを含む25か国が棄権しました。"
+        },
+        {
+          "en": "It is the 33rd straight year, but with the U.S. abstaining, even Japan's closest ally is not fully on board.",
+          "ja": "これで33年連続ですが、米国が棄権しており、日本の最も近い同盟国でさえ完全には賛同していないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/28/japan/un-panel-nuclear-abolition-resolution/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.855,
+        "change_pct": 0.21,
+        "change": 0.327,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.1,
+        "change_pct": 0.05,
+        "change": 0.08,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1159,
+        "change_pct": -0.13,
+        "change": -0.0014,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 63954.19,
+        "change_pct": 1.08,
+        "change": 685.82,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0000"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3991.71,
+        "change_pct": -0.14,
+        "change": -5.66,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7743.98,
+        "change_pct": 0.28,
+        "change": 21.38,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26549.85,
+        "change_pct": 0.27,
+        "change": 72.04,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52475.1,
+        "change_pct": 0.19,
+        "change": 97.53,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.829,
+        "unit": "%",
+        "change_bp": 0.5,
+        "source": "財務省 国債金利情報 (R8.10.27)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.67,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (10/28/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.05,
+        "unit": "%",
+        "change_bp": 6,
+        "source": "U.S. Treasury (10/28/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4081.3,
+        "change_pct": 0.16,
+        "change": 6.7,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 101.64,
+        "change_pct": 1.74,
+        "change": 1.74,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 81193.41,
+        "change_pct": 0.48,
+        "change": 388.33,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Wednesday, Oct 28 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 27; FX and Bitcoin as of publishing time on Thursday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.08%",
+        "explanation": "株探によりますと、AI・半導体関連が引き続き買われ、続伸いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "+1.74%",
+        "explanation": "WTIが1.74%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
