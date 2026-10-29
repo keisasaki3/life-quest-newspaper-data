@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-30T05:25:34+09:00",
+  "news": [
+    {
+      "id": "lower-house-seat-cut",
+      "region": "japan",
+      "headline_en": "Three parties agree to cut 31 Lower House seats.",
+      "headline": "3党、衆院31議席の削減で合意。",
+      "summary": [
+        {
+          "en": "The Liberal Democratic Party, the Japan Innovation Party and the Democratic Party for the People approved a plan Thursday to cut 31 Lower House proportional representation seats.",
+          "ja": "自民党、日本維新の会、国民民主党は木曜、衆院の比例代表31議席を削減する案を承認しました。"
+        },
+        {
+          "en": "The JIP settled for a cut of 14 fewer seats than it wanted, while the DPP agreed to 12 more seat cuts than it had proposed.",
+          "ja": "維新は望んでいたより14少ない議席削減で折り合い、国民民主は自ら提案していたより12多い議席削減に同意しました。"
+        },
+        {
+          "en": "Both sides gave ground, and with a majority secured, the bill is set to pass before the session ends on Dec. 12.",
+          "ja": "双方が歩み寄り、過半数も確保したことで、法案は12月12日の会期末までに成立する見通しでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/29/japan/politics/seat-reduction-agreement/"
+        }
+      ]
+    },
+    {
+      "id": "dnipro-station-strike",
+      "region": "world",
+      "headline_en": "A Russian drone strike kills 14 at Dnipro's main station.",
+      "headline": "ロシアの無人機攻撃、ドニプロ駅で14人死亡。",
+      "summary": [
+        {
+          "en": "At least 14 people have been killed after a Russian jet-powered drone hit a crowded platform at the main railway station in the Ukrainian city of Dnipro.",
+          "ja": "ロシアのジェット推進式無人機がウクライナの都市ドニプロの中央駅の混雑したホームに命中し、少なくとも14人が死亡しました。"
+        },
+        {
+          "en": "An elevated threat level had been announced ahead of the strike, but \"there were still a large number of people on the platform\", the railway operator chief said.",
+          "ja": "攻撃の前に警戒レベルの引き上げが発表されていましたが、「それでもホームには多くの人がいた」と鉄道会社のトップは述べました。"
+        },
+        {
+          "en": "A warning came first, yet the platform was still full, which shows how hard it is to stop daily life even under threat.",
+          "ja": "警告が先にあったにもかかわらずホームは人で埋まっており、脅威のもとでも日々の暮らしを止めるのがいかに難しいかを示しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko"
+        }
+      ]
+    },
+    {
+      "id": "fed-holds-rates",
+      "region": "us",
+      "headline_en": "The Fed holds US interest rates steady at 3.75%-4%.",
+      "headline": "米FRB、金利を3.75～4%に据え置き。",
+      "summary": [
+        {
+          "en": "The US Federal Reserve has held interest rates steady at 3.75% - 4%, after raising them for the first time in three years at its September meeting.",
+          "ja": "米連邦準備制度理事会（FRB）は、9月の会合で3年ぶりに利上げした後、金利を3.75～4%に据え置きました。"
+        },
+        {
+          "en": "Fed Chair Kevin Warsh said the \"monetary medicine\" of September's rise \"is starting to work some\".",
+          "ja": "ケビン・ウォーシュFRB議長は、9月の利上げという「金融の薬」が「いくらか効き始めている」と述べました。"
+        },
+        {
+          "en": "Two members still voted to raise rates, so the door to another hike is not closed.",
+          "ja": "それでも2人の委員が利上げに票を投じており、追加利上げへの扉は閉ざされていないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o"
+        }
+      ]
+    },
+    {
+      "id": "lagarde-resigns",
+      "region": "europe",
+      "headline_en": "ECB President Lagarde resigns and will step down on Feb. 7.",
+      "headline": "ECBラガルド総裁が辞任、2月7日に退任。",
+      "summary": [
+        {
+          "en": "European Central Bank President Christine Lagarde announced her resignation on Thursday, ending months of speculation about her future.",
+          "ja": "欧州中央銀行（ECB）のクリスティーヌ・ラガルド総裁は木曜、辞任を発表し、自身の去就をめぐる数カ月の憶測に終止符を打ちました。"
+        },
+        {
+          "en": "She will step down on Feb. 7, giving EU leaders time to pick a successor well before a French presidential election.",
+          "ja": "同氏は2月7日に退任し、EU首脳にはフランス大統領選よりかなり前に後任を選ぶ時間が与えられます。"
+        },
+        {
+          "en": "She leaves while the ECB battles inflation risks from an oil shock, so her successor inherits a hard job.",
+          "ja": "ECBが石油ショックによるインフレリスクと闘っている最中の退任であり、後任は難しい仕事を引き継ぐことになるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/29/ecb-lagarde-resignation/"
+        }
+      ]
+    },
+    {
+      "id": "hong-kong-fire-apology",
+      "region": "world",
+      "headline_en": "Hong Kong's leader apologizes for the deadly Tai Po fire.",
+      "headline": "香港長官、大埔の死者火災を謝罪。",
+      "summary": [
+        {
+          "en": "Hong Kong leader John Lee apologized on Thursday for the blaze that killed 168 people in the city last November.",
+          "ja": "香港の李家超（ジョン・リー）行政長官は木曜、昨年11月に市内で168人が死亡した火災について謝罪しました。"
+        },
+        {
+          "en": "An independent report held four government departments partially responsible for a fire that erupted after more than a year of safety complaints.",
+          "ja": "独立した報告書は、1年以上にわたる安全面の苦情の末に起きた火災について、政府の4部局に一部責任があるとしました。"
+        },
+        {
+          "en": "As the report puts it, \"the fire has been put out, but the reform has only just begun\".",
+          "ja": "報告書の言葉どおり、「火は消し止められたが、改革は始まったばかり」なのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/hong-kong-fire-apology/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.675,
+        "change_pct": -0.2,
+        "change": -0.318,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.26,
+        "change_pct": 0.26,
+        "change": 0.46,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1181,
+        "change_pct": 0.46,
+        "change": 0.0051,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 64659.47,
+        "change_pct": 1.1,
+        "change": 705.28,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 4003.28,
+        "change_pct": 0.29,
+        "change": 11.57,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7720.39,
+        "change_pct": -0.3,
+        "change": -23.59,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 26184.72,
+        "change_pct": -1.38,
+        "change": -365.12,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52342.56,
+        "change_pct": -0.25,
+        "change": -132.54,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.867,
+        "unit": "%",
+        "change_bp": 3.8,
+        "source": "財務省 国債金利情報 (R8.10.28)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.67,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (10/28/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.05,
+        "unit": "%",
+        "change_bp": 6,
+        "source": "U.S. Treasury (10/28/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4038.9,
+        "change_pct": -0.31,
+        "change": -12.7,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 102.82,
+        "change_pct": 0.04,
+        "change": 0.04,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 80272.29,
+        "change_pct": -1.22,
+        "change": -995.3,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Thursday, Oct 29 (Japan and US stocks, oil, gold); US yields are Treasury figures for Oct 28; JP10Y is the Ministry of Finance figure for Oct 28; FX and Bitcoin as of publishing time on Friday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.10%",
+        "explanation": "株探によりますと、一時マイナス圏に沈みましたが後場に切り返し、3日続伸いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-1.38%",
+        "explanation": "ナスダックが1.38%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
