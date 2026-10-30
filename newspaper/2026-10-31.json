@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-10-31T05:25:44+09:00",
+  "news": [
+    {
+      "id": "binance-hack",
+      "region": "world",
+      "headline_en": "Binance is hit by a record $6.3bn hack linked to North Korea.",
+      "headline": "バイナンス、過去最大63億ドルの不正流出。",
+      "summary": [
+        {
+          "en": "Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.3bn was accessed in what is believed to be a record heist.",
+          "ja": "世界最大の暗号資産取引所バイナンスは、記録的な窃盗とみられる事件で63億ドルが引き出された後、「複雑な」ハッキングで盗まれた資金のおよそ半分を凍結したと述べています。"
+        },
+        {
+          "en": "Several analytics firms have linked the hack, which eclipses a $1.5bn heist on the Bybit exchange in 2025, to a North Korean hacking unit.",
+          "ja": "複数の分析会社は、2025年の取引所バイビットでの15億ドルの窃盗を上回るこのハッキングを、北朝鮮のハッキング部隊と結びつけています。"
+        },
+        {
+          "en": "Half is frozen, but much of the rest is still in the hackers' hands, so the race to trace it goes on.",
+          "ja": "半分は凍結されたものの残りの多くはいまだハッカーの手にあり、追跡の競争は続いているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo"
+        }
+      ]
+    },
+    {
+      "id": "us-tech-stocks-fall",
+      "region": "us",
+      "headline_en": "US tech stocks fall sharply over fears about AI spending.",
+      "headline": "米ハイテク株が急落、AI投資への懸念で。",
+      "summary": [
+        {
+          "en": "Tech stocks tumbled for the second day in a row as concerns rise over the hundreds of billions of dollars firms are investing in artificial intelligence.",
+          "ja": "企業が人工知能に投じている数千億ドルへの懸念が高まるなか、ハイテク株は2日続けて急落しました。"
+        },
+        {
+          "en": "Shares in Intel plummeted by as much as 30% on Friday, following Alphabet's stock price plunging by more than $500bn in the previous day's trading.",
+          "ja": "前日の取引でアルファベットの株価が5000億ドル超急落したのに続き、金曜にはインテル株が最大30%暴落しました。"
+        },
+        {
+          "en": "Spending is racing ahead while earnings do not always meet expectations, which is why fears of an AI bubble are growing.",
+          "ja": "支出が先走る一方で利益は必ずしも期待に届いておらず、だからこそAIバブルへの不安が広がっているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+        }
+      ]
+    },
+    {
+      "id": "boj-holds-rates",
+      "region": "japan",
+      "headline_en": "The BOJ holds rates and says its inflation target is reached.",
+      "headline": "日銀が金利据え置き、物価目標は達成と表明。",
+      "summary": [
+        {
+          "en": "The Bank of Japan kept its policy rate at 1.25% as it concluded a two-day policy meeting on Friday.",
+          "ja": "日本銀行は金曜、2日間の政策決定会合を終え、政策金利を1.25%に据え置きました。"
+        },
+        {
+          "en": "Inflation is ticking up again and is now above the central bank's target rate for core consumer price increases.",
+          "ja": "インフレは再び上向いており、現在は日銀のコア消費者物価上昇率の目標を上回っています。"
+        },
+        {
+          "en": "With the last hike only in September, sitting tight was what markets expected, so attention shifts to the next meeting.",
+          "ja": "前回の利上げが9月だったばかりで、今回の様子見は市場の予想どおりであり、関心は次の会合に移るのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/boj-rates-steady-inflation/"
+        }
+      ]
+    },
+    {
+      "id": "food-price-hikes-november",
+      "region": "japan",
+      "headline_en": "Nearly 1,500 food and drink items will rise in price in November.",
+      "headline": "11月に食品・飲料約1500品目が値上げ。",
+      "summary": [
+        {
+          "en": "The prices of 1,477 products from 195 major food and beverage makers in Japan are set to rise in November, a roughly 10-fold increase from 150 items a year before.",
+          "ja": "日本の大手食品・飲料メーカー195社の1477品目の価格が11月に上がる見通しで、1年前の150品目からおよそ10倍の増加です。"
+        },
+        {
+          "en": "This year, the number of items whose prices have been raised, or are set to be raised, stands at 20,327, surpassing 20,000 for the second consecutive year.",
+          "ja": "今年、値上げされた、または値上げ予定の品目数は2万327に達し、2年連続で2万を超えました。"
+        },
+        {
+          "en": "Mayonnaise, Mitsuya Cider and barley tea are on the list, so the rise will be felt right on the kitchen table.",
+          "ja": "マヨネーズや三ツ矢サイダー、麦茶も対象で、値上げはまさに食卓で実感されることになるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/30/companies/food-price-hikes-november/"
+        }
+      ]
+    },
+    {
+      "id": "novaya-gazeta-closes",
+      "region": "europe",
+      "headline_en": "Russia's Novaya Gazeta shuts down under pressure from authorities.",
+      "headline": "露独立紙ノーバヤ・ガゼータ、当局の圧力で廃刊。",
+      "summary": [
+        {
+          "en": "Novaya Gazeta, one of the most high-profile independent news outlets in Russia for the last three decades, is shutting down.",
+          "ja": "過去30年にわたりロシアで最も著名な独立系報道機関の一つだったノーバヤ・ガゼータが、廃刊します。"
+        },
+        {
+          "en": "The paper received an eviction order, and at the same time the system that allowed it to receive donations from readers was disabled.",
+          "ja": "同紙は立ち退き命令を受け、同時に読者からの寄付を受け取る仕組みも使えなくされました。"
+        },
+        {
+          "en": "With no office and no reader donations, it has no way to fund itself, which is why it calls this the \"murder\" of a newspaper.",
+          "ja": "事務所も読者の寄付も失って資金を得る手段がなく、だからこそ同紙はこれを新聞の「殺害」と呼んでいるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.554,
+        "change_pct": -0.18,
+        "change": -0.279,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.91,
+        "change_pct": -0.09,
+        "change": -0.15,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1168,
+        "change_pct": 0.11,
+        "change": 0.0012,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 63290.11,
+        "change_pct": -2.12,
+        "change": -1369.36,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3965.07,
+        "change_pct": -0.95,
+        "change": -38.21,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7580.07,
+        "change_pct": -1.82,
+        "change": -140.32,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25437.0,
+        "change_pct": -2.86,
+        "change": -747.72,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51770.31,
+        "change_pct": -1.09,
+        "change": -572.25,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.876,
+        "unit": "%",
+        "change_bp": 0.9,
+        "source": "財務省 国債金利情報 (R8.10.29)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.56,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.94,
+        "unit": "%",
+        "change_bp": -4,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3892.3,
+        "change_pct": -3.45,
+        "change": -139.1,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 104.38,
+        "change_pct": 2.33,
+        "change": 2.38,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 76827.47,
+        "change_pct": -1.22,
+        "change": -947.64,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 30 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 29; FX and Bitcoin as of publishing time on Saturday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-2.12%",
+        "explanation": "株探によりますと、AI・半導体などに売りが膨らみ、4日ぶりに大幅反落いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.86%",
+        "explanation": "BBCによりますと、AIへの巨額投資への懸念から、ハイテク株が2日続けて急落いたしました。"
+      }
+    ]
+  }
+}
