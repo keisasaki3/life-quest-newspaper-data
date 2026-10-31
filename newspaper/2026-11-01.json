@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-01",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-01T05:22:27+09:00",
+  "news": [
+    {
+      "id": "congo-ebola-deaths",
+      "region": "world",
+      "headline_en": "More than 5,000 die in DR Congo's deadliest Ebola outbreak.",
+      "headline": "コンゴのエボラ、死者5000人超に。",
+      "summary": [
+        {
+          "en": "More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows.",
+          "ja": "政府のデータによりますと、コンゴ民主共和国で続くエボラ出血熱の流行で5000人以上が死亡しました。"
+        },
+        {
+          "en": "The Bundibugyo species is behind the current outbreak, but there is not yet any treatment or vaccine for this strain.",
+          "ja": "今回の流行の原因はブンディブギョ種ですが、この株にはまだ治療法もワクチンもありません。"
+        },
+        {
+          "en": "The epicentre is a conflict zone and there is no vaccine yet, and the UN warns it is \"taking lives at a much faster rate\".",
+          "ja": "震源地は紛争地帯でワクチンもまだなく、国連は「はるかに速いペースで命を奪っている」と警告しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
+        }
+      ]
+    },
+    {
+      "id": "poland-court-standoff",
+      "region": "europe",
+      "headline_en": "Riot police are deployed at Poland's Constitutional Court.",
+      "headline": "ポーランド憲法裁判所に機動隊が展開。",
+      "summary": [
+        {
+          "en": "Riot police have been deployed at Poland's Constitutional Court amid an escalating stand-off between the government and the court's top judges.",
+          "ja": "政府と同裁判所の最高位の判事たちとの対立が激化するなか、ポーランドの憲法裁判所に機動隊が展開しました。"
+        },
+        {
+          "en": "The Justice Minister said he had requested stripping the court's President and Vice-President of their immunity from prosecution to bring criminal charges against them.",
+          "ja": "法相は、刑事訴追するため、同裁判所の長官と副長官から訴追免除特権を剥奪するよう求めたと述べました。"
+        },
+        {
+          "en": "The court calls it \"the crime of a coup d'etat\", while Tusk calls it restoring the rule of law, so each side says the other is breaking it.",
+          "ja": "裁判所はこれを「クーデターの罪」と呼び、トゥスク首相は法の支配の回復と呼んでおり、双方が相手こそ法を破っていると言っているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o"
+        }
+      ]
+    },
+    {
+      "id": "patriot-sale-ukraine",
+      "region": "us",
+      "headline_en": "The US approves a sale of 500 Patriot missiles to Ukraine.",
+      "headline": "米、ウクライナへのパトリオット500発売却を承認。",
+      "summary": [
+        {
+          "en": "The Trump administration on Friday green-lit the sale of 500 Patriot missiles to Ukraine, the State Department said.",
+          "ja": "国務省によりますと、トランプ政権は金曜、ウクライナへのパトリオットミサイル500発の売却にゴーサインを出しました。"
+        },
+        {
+          "en": "But Ukrainian President Volodymyr Zelenskyy said \"deliveries may begin ONLY IN A FEW YEARS.\"",
+          "ja": "しかしウクライナのウォロディミル・ゼレンスキー大統領は「納入は数年後にしか始まらないかもしれない」と述べました。"
+        },
+        {
+          "en": "The missiles are approved but the danger is now, so Kyiv is asking allies to lend from their stockpiles in the meantime.",
+          "ja": "ミサイルは承認されたものの危険は今そこにあり、そのためウクライナはその間、同盟国に備蓄分を回してくれるよう求めているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-patriot-missile-sale-approve/"
+        }
+      ]
+    },
+    {
+      "id": "shuri-castle-reopening",
+      "region": "japan",
+      "headline_en": "Seven years after the fire, Shuri Castle nears reopening.",
+      "headline": "火災から7年、首里城が再公開間近に。",
+      "summary": [
+        {
+          "en": "Final preparations are underway to reopen the main hall of Shuri Castle next month, as Saturday marked the seventh anniversary of the fire that destroyed the landmark.",
+          "ja": "土曜でこの名所を焼失させた火災から7年となり、来月の首里城正殿の再公開に向けて最終準備が進んでいます。"
+        },
+        {
+          "en": "A state-hosted ceremony will celebrate the project's completion on Nov. 22, and the main hall will be opened to the public the following day.",
+          "ja": "11月22日に国主催の式典で事業の完了が祝われ、正殿はその翌日に一般公開されます。"
+        },
+        {
+          "en": "This time the hall has sprinklers and an automatic fire alarm, because so much wood helped the last fire spread.",
+          "ja": "前回は大量の木材が延焼の一因となったため、今回の正殿にはスプリンクラーや自動火災報知設備が備えられているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/shuri-castle-reopen-november/"
+        }
+      ]
+    },
+    {
+      "id": "low-income-benefit-5000",
+      "region": "japan",
+      "headline_en": "Japan considers paying low-income workers ¥5,000 a year.",
+      "headline": "政府、低所得の就労者に年5000円支給を検討。",
+      "summary": [
+        {
+          "en": "The Japanese government said Friday that it is considering providing around ¥5,000 a year to low-income workers under a proposed income-linked benefit program.",
+          "ja": "日本政府は金曜、所得に連動する給付制度案のもとで、低所得の就労者に年約5000円を支給することを検討していると述べました。"
+        },
+        {
+          "en": "The government plans to provide ¥600 billion in benefits a year in total, a figure equivalent to 1% of the consumption tax.",
+          "ja": "政府は年間で総額6000億円の給付を予定しており、これは消費税1%分に相当する額です。"
+        },
+        {
+          "en": "Finance Minister Katayama stressed the figures are for reference only, so the real amount is still open.",
+          "ja": "片山財務相はこれらの数字はあくまで参考だと強調しており、実際の額はまだ決まっていないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/japan-5000-benefit/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.804,
+        "change_pct": -0.02,
+        "change": -0.029,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.65,
+        "change_pct": -0.47,
+        "change": -0.82,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1183,
+        "change_pct": 0.24,
+        "change": 0.0027,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 63290.11,
+        "change_pct": -2.12,
+        "change": -1369.36,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3965.07,
+        "change_pct": -0.95,
+        "change": -38.21,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7580.07,
+        "change_pct": -1.82,
+        "change": -140.32,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25437.0,
+        "change_pct": -2.86,
+        "change": -747.72,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51770.31,
+        "change_pct": -1.09,
+        "change": -572.25,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.876,
+        "unit": "%",
+        "change_bp": 0.9,
+        "source": "財務省 国債金利情報 (R8.10.29)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.56,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.94,
+        "unit": "%",
+        "change_bp": -4,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3892.3,
+        "change_pct": -3.45,
+        "change": -139.1,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 104.38,
+        "change_pct": 2.33,
+        "change": 2.38,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 77453.82,
+        "change_pct": 0.33,
+        "change": 255.61,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 30 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 29; FX and Bitcoin as of publishing time on Sunday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-2.12%",
+        "explanation": "株探によりますと、AI・半導体などに売りが膨らみ、4日ぶりに大幅反落いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.86%",
+        "explanation": "BBCによりますと、AIへの巨額投資への懸念から、ハイテク株が2日続けて急落いたしました。"
+      }
+    ]
+  }
+}
