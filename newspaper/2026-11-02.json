@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-02",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-02T05:22:24+09:00",
+  "news": [
+    {
+      "id": "germany-protests-looting",
+      "region": "europe",
+      "headline_en": "Shops are looted as German cost-of-living protests turn violent.",
+      "headline": "独の生活費抗議が暴徒化、商店で略奪。",
+      "summary": [
+        {
+          "en": "Rioters looted shops in central Frankfurt late on Saturday as clashes erupted in German cities over the cost of living.",
+          "ja": "生活費をめぐってドイツ各地の都市で衝突が起きるなか、土曜の夜遅く、暴徒がフランクフルト中心部の商店で略奪を働きました。"
+        },
+        {
+          "en": "The demonstrations were organised by the campaign group Gen Z regelt, meaning \"Gen Z takes charge\", to protest against underfunding in schools, the high cost of living, public spending cuts and military service.",
+          "ja": "デモは「Z世代が取り仕切る」を意味する運動団体「Gen Z regelt」が主催し、学校の予算不足、高い生活費、公共支出の削減、兵役に抗議するものでした。"
+        },
+        {
+          "en": "Youth-led mass protests also drew more than 320,000 people in France on Saturday, so this anger is not Germany's alone.",
+          "ja": "土曜にはフランスでも若者主導の大規模抗議に32万人以上が参加しており、この怒りはドイツだけのものではないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-power-strikes",
+      "region": "world",
+      "headline_en": "Russian strikes cut power in Ukraine as the Kherson ceasefire ends.",
+      "headline": "露の攻撃でウクライナ停電、ヘルソン停戦は終了へ。",
+      "summary": [
+        {
+          "en": "A rare humanitarian ceasefire in Ukraine's Kherson region, which has allowed civilians to evacuate the Russian-occupied city of Oleshky, is due to end on Sunday night.",
+          "ja": "ロシア占領下の都市オレシキから民間人の避難を可能にしてきた、ウクライナ・ヘルソン州での珍しい人道的停戦は、日曜の夜に終わる予定です。"
+        },
+        {
+          "en": "Zelensky said Russia had struck energy infrastructure in four regions overnight on Saturday, leaving hundreds of thousands of homes without power.",
+          "ja": "ゼレンスキー大統領は、ロシアが土曜の夜にかけて4つの州のエネルギーインフラを攻撃し、数十万世帯が停電したと述べました。"
+        },
+        {
+          "en": "He says Russia is \"trying to take maximum advantage of the shortage of ballistic missile interceptors\", which is why he keeps asking for Patriots every day.",
+          "ja": "同氏はロシアが「弾道ミサイル迎撃弾の不足を最大限に利用しようとしている」と述べており、だからこそ毎日パトリオットを求め続けているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
+        }
+      ]
+    },
+    {
+      "id": "judge-election-officials",
+      "region": "us",
+      "headline_en": "A judge orders the US government to stop threatening election officials.",
+      "headline": "米判事、選挙職員への脅しの停止を政府に命令。",
+      "summary": [
+        {
+          "en": "A federal judge has ordered the federal government to stop threatening local and state election officials with criminal charges over their role in processing election ballots.",
+          "ja": "連邦判事は連邦政府に対し、選挙の投票用紙を処理する役割をめぐって州や地方の選挙職員を刑事訴追で脅すのをやめるよう命じました。"
+        },
+        {
+          "en": "The ruling comes days before the midterm elections, which will determine which party controls the US Congress for the last two years of Trump's presidency.",
+          "ja": "この判決は、トランプ大統領の任期最後の2年間に米議会をどの党が握るかを決める中間選挙の数日前に出されました。"
+        },
+        {
+          "en": "The officials said they must follow election procedures required by state and federal law, and the court has now backed them.",
+          "ja": "職員たちは州法と連邦法が定める選挙手続きに従わねばならないと述べており、裁判所はいまそれを支持したのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o"
+        }
+      ]
+    },
+    {
+      "id": "kioxia-prices-stall",
+      "region": "japan",
+      "headline_en": "Kioxia warns flash memory prices are stalling after an outlook miss.",
+      "headline": "キオクシア、メモリ価格の伸び鈍化を警告。",
+      "summary": [
+        {
+          "en": "Kioxia Holdings delivered a profit outlook that trailed estimates, warning that an AI-fueled surge in flash memory chip prices was fading after several quarters of breakneck growth.",
+          "ja": "キオクシアホールディングスは予想を下回る利益見通しを示し、AIに後押しされたフラッシュメモリ価格の急騰が、数四半期にわたる猛烈な伸びの後に薄れつつあると警告しました。"
+        },
+        {
+          "en": "Its average selling price of NAND flash memory rose a mid-20% in the three months to September, compared with 70% in the prior quarter.",
+          "ja": "NAND型フラッシュメモリの平均販売価格は、前の四半期の70%に対し、9月までの3カ月間は20%台半ばの上昇でした。"
+        },
+        {
+          "en": "From 70% to the mid-20s and now nearly flat, so the AI memory boom is losing speed, and the shares fell 11%.",
+          "ja": "70%から20%台半ば、そしてほぼ横ばいへと、AIメモリ景気は勢いを失いつつあり、株価は11%下落したのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/01/companies/kioxia-chip-prices-stall/"
+        }
+      ]
+    },
+    {
+      "id": "north-korea-cluster-test",
+      "region": "world",
+      "headline_en": "North Korea fires cluster bomb warheads in a 'major' weapons test.",
+      "headline": "北朝鮮、クラスター弾頭を発射する「重要」実験。",
+      "summary": [
+        {
+          "en": "North Korea said Sunday that it had fired off cluster-bomb warheads for its tactical ballistic missiles a day earlier, the latest in a spate of weapons tests.",
+          "ja": "北朝鮮は日曜、前日に戦術弾道ミサイル用のクラスター爆弾弾頭を発射したと発表し、相次ぐ兵器実験の最新のものとなりました。"
+        },
+        {
+          "en": "Officials said the warhead is capable of \"turning into ashes a target area of 12 to 13 hectares\", according to the official Korean Central News Agency.",
+          "ja": "国営の朝鮮中央通信によりますと、当局者はこの弾頭が「12～13ヘクタールの目標区域を灰に変える」能力があると述べました。"
+        },
+        {
+          "en": "It calls this \"regular scientific research\", but it is only the latest in a spate of tests this month.",
+          "ja": "同国はこれを「定例の科学研究」と呼んでいますが、これは今月相次いだ実験の最新の一つにすぎないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.804,
+        "change_pct": -0.02,
+        "change": -0.029,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.36,
+        "change_pct": -0.63,
+        "change": -1.11,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1183,
+        "change_pct": 0.24,
+        "change": 0.0027,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 63290.11,
+        "change_pct": -2.12,
+        "change": -1369.36,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3965.07,
+        "change_pct": -0.95,
+        "change": -38.21,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7580.07,
+        "change_pct": -1.82,
+        "change": -140.32,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25437.0,
+        "change_pct": -2.86,
+        "change": -747.72,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51770.31,
+        "change_pct": -1.09,
+        "change": -572.25,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.876,
+        "unit": "%",
+        "change_bp": 0.9,
+        "source": "財務省 国債金利情報 (R8.10.29)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.56,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.94,
+        "unit": "%",
+        "change_bp": -4,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3892.3,
+        "change_pct": -3.45,
+        "change": -139.1,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 104.38,
+        "change_pct": 2.33,
+        "change": 2.38,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 77614.87,
+        "change_pct": 0.23,
+        "change": 180.12,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Friday, Oct 30 (Japan and US stocks, oil, gold, US yields); JP10Y is the Ministry of Finance figure for Oct 29; FX and Bitcoin as of publishing time on Monday morning, before Tokyo opens.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-2.12%",
+        "explanation": "株探によりますと、AI・半導体などに売りが膨らみ、4日ぶりに大幅反落いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.86%",
+        "explanation": "BBCによりますと、AIへの巨額投資への懸念から、ハイテク株が2日続けて急落いたしました。"
+      }
+    ]
+  }
+}
