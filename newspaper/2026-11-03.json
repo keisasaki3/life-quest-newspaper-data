@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-03T05:24:58+09:00",
+  "news": [
+    {
+      "id": "komyshuvakha-aid-centre-strike",
+      "region": "world",
+      "headline_en": "Russian bombs kill 26 at a Ukraine aid centre, Kyiv says.",
+      "headline": "露の爆撃でウクライナ支援拠点の26人死亡。",
+      "summary": [
+        {
+          "en": "At least 26 people were killed after Russian bombs hit an aid distribution centre, in an attack that Ukraine's leader has called \"utterly horrific\".",
+          "ja": "ロシアの爆弾が支援物資の配布拠点に命中し、少なくとも26人が死亡し、ウクライナの指導者はこの攻撃を「まったくもって恐ろしい」と呼びました。"
+        },
+        {
+          "en": "Zelensky said that after the first strike on the local school \"used for humanitarian needs\", there was a second attack on the place where people were sheltering.",
+          "ja": "ゼレンスキー大統領は、「人道目的に使われていた」地元の学校への最初の攻撃の後、人々が避難していた場所に2度目の攻撃があったと述べました。"
+        },
+        {
+          "en": "Days after a ceasefire let civilians leave Oleshky, he says Russia is \"sending the exact opposite signal\".",
+          "ja": "停戦で民間人がオレシキを出られたわずか数日後であり、同氏はロシアが「正反対のシグナルを送っている」と述べているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
+        }
+      ]
+    },
+    {
+      "id": "supermarket-freezer-cyberattack",
+      "region": "europe",
+      "headline_en": "A cyber-attack hits shop freezers in seven European countries.",
+      "headline": "欧州7カ国で店舗の冷凍庫にサイバー攻撃。",
+      "summary": [
+        {
+          "en": "Dozens of supermarkets across seven European countries have been hit by a cyber-attack affecting their refrigerators and freezers.",
+          "ja": "欧州7カ国の数十のスーパーマーケットが、冷蔵庫と冷凍庫に影響するサイバー攻撃を受けました。"
+        },
+        {
+          "en": "The units' evaporators were switched to defrost mode, causing them to warm up, in what is believed to be the same method used in last month's incident in France.",
+          "ja": "装置の蒸発器が霜取りモードに切り替えられて温度が上がり、これは先月のフランスでの事件と同じ手口だとみられています。"
+        },
+        {
+          "en": "A software update is not enough because the units need physical changes, so the same trick worked twice.",
+          "ja": "装置にはソフトウェア更新では足りず物理的な改修が必要なため、同じ手口が2度通用してしまったのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo"
+        }
+      ]
+    },
+    {
+      "id": "agoa-south-africa-rwanda",
+      "region": "us",
+      "headline_en": "Trump moves to drop South Africa and Rwanda from US trade deal.",
+      "headline": "トランプ氏、南アとルワンダを米貿易優遇から除外へ。",
+      "summary": [
+        {
+          "en": "US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027.",
+          "ja": "ドナルド・トランプ米大統領は、2027年1月1日付で南アフリカとルワンダを貿易優遇制度から外す意向を議会に通知しました。"
+        },
+        {
+          "en": "The African Growth and Opportunity Act allows eligible African countries to export thousands of products to the US duty-free.",
+          "ja": "アフリカ成長機会法は、資格のあるアフリカ諸国が数千の品目を無関税で米国に輸出することを認めています。"
+        },
+        {
+          "en": "It comes barely a week after US sanctions on Rwanda's defence ministry, so pressure on Kigali is piling up.",
+          "ja": "ルワンダ国防省への米国の制裁からわずか1週間後のことで、ルワンダへの圧力は積み重なっているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
+        }
+      ]
+    },
+    {
+      "id": "boj-consumption-population",
+      "region": "japan",
+      "headline_en": "The BOJ signals low hopes for consumer spending as population falls.",
+      "headline": "日銀、人口減で消費の伸びに低い期待を示す。",
+      "summary": [
+        {
+          "en": "The Bank of Japan signaled that the shrinking of Japan's population means that it's increasingly difficult to achieve robust growth in overall consumer spending.",
+          "ja": "日本銀行は、日本の人口減少により、個人消費全体の力強い伸びを実現するのがますます難しくなっていることを示しました。"
+        },
+        {
+          "en": "Japan's population fell 2.5% in 2025 from five years earlier, the fastest decline on record going back to 1920.",
+          "ja": "日本の人口は2025年に5年前から2.5%減り、1920年までさかのぼる記録で最も速い減少となりました。"
+        },
+        {
+          "en": "So a drop in total spending may not mean households are weaker, which keeps a December rate hike on the table.",
+          "ja": "つまり消費総額の減少は家計が弱っていることを意味しないかもしれず、12月の利上げは選択肢に残り続けるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/02/economy/bank-of-japan-quarterly-outlook/"
+        }
+      ]
+    },
+    {
+      "id": "disaster-agency-launch",
+      "region": "japan",
+      "headline_en": "Japan's new disaster agency calls on the public to prepare.",
+      "headline": "新設の防災庁、国民に災害への備えを呼びかけ。",
+      "summary": [
+        {
+          "en": "The head of Japan's new National Disaster Management Agency, which was launched Monday, urged people to stockpile food and secure furniture.",
+          "ja": "月曜に発足した日本の防災庁のトップは、人々に食料を備蓄し家具を固定するよう促しました。"
+        },
+        {
+          "en": "Goshi Hosono, the agency's first chief, noted that there are limits to what the central and local governments can do in the event of a massive disaster.",
+          "ja": "初代長官の細野豪志氏は、大規模災害の際に国や自治体ができることには限りがあると指摘しました。"
+        },
+        {
+          "en": "The agency asks for water and food for at least three days, preferably one week, so the first line of defence is at home.",
+          "ja": "同庁は少なくとも3日分、できれば1週間分の水と食料を求めており、最初の防衛線は家庭にあるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/new-disaster-agency-public-prepare/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.903,
+        "change_pct": 0.06,
+        "change": 0.099,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.74,
+        "change_pct": 0.15,
+        "change": 0.27,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1194,
+        "change_pct": 0.1,
+        "change": 0.0012,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 63081.86,
+        "change_pct": -0.33,
+        "change": -208.25,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3930.28,
+        "change_pct": -0.88,
+        "change": -34.79,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7575.48,
+        "change_pct": -0.06,
+        "change": -4.59,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25333.58,
+        "change_pct": -0.41,
+        "change": -103.42,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52154.81,
+        "change_pct": 0.74,
+        "change": 384.5,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.817,
+        "unit": "%",
+        "change_bp": -5.9,
+        "source": "財務省 国債金利情報 (R8.10.30)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.56,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.94,
+        "unit": "%",
+        "change_bp": -4,
+        "source": "U.S. Treasury (10/30/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3951.6,
+        "change_pct": 1.35,
+        "change": 52.7,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 96.46,
+        "change_pct": -7.36,
+        "change": -7.66,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611030060/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 77043.26,
+        "change_pct": -1.54,
+        "change": -1205.2,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Closes for Monday, Nov 2 (Japan and US stocks, oil, gold); US yields are Treasury figures for Oct 30; JP10Y is the Ministry of Finance figure for Oct 30; FX and Bitcoin as of publishing time on Tuesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.33%",
+        "explanation": "株探によりますと、キオクシアの急落が相場の重荷となり、続落いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-7.36%",
+        "explanation": "株探（フィスコ）によりますと、米イラン紛争の外交的解決への期待から、原油先物が急落いたしました。"
+      }
+    ]
+  }
+}
