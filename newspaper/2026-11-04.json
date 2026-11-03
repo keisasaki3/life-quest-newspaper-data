@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-04",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-04T05:24:42+09:00",
+  "news": [
+    {
+      "id": "us-strikes-qeshm",
+      "region": "us",
+      "headline_en": "The US strikes an Iranian island ahead of the midterm elections.",
+      "headline": "米、中間選挙を前にイランの島を攻撃。",
+      "summary": [
+        {
+          "en": "The US has carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.",
+          "ja": "米当局者がBBCの米国での提携先CBSに語ったところによりますと、米国はホルムズ海峡にあるイランのケシュム島を攻撃しました。"
+        },
+        {
+          "en": "The officials described the strikes as limited and defensive, and said they were in response to the IRGC firing on a US aircraft.",
+          "ja": "当局者はこの攻撃を限定的かつ防御的なものと説明し、革命防衛隊が米軍機に発砲したことへの対応だと述べました。"
+        },
+        {
+          "en": "Trump says he is in \"no rush\", but Iran says \"the ball is now in America's court to prevent war.\"",
+          "ja": "トランプ氏は「急いでいない」と言いますが、イランは「戦争を防ぐボールは今や米国の側にある」と述べているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
+        }
+      ]
+    },
+    {
+      "id": "uk-eu-food-deal",
+      "region": "europe",
+      "headline_en": "UK and EU agree a draft deal to cut Brexit food checks.",
+      "headline": "英EU、食品輸出のブレグジット手続き撤廃で合意案。",
+      "summary": [
+        {
+          "en": "The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month.",
+          "ja": "英国とEUは今月後半の英EU首脳会議を前に、食品・農産物の輸出からブレグジット後の検査をなくす合意案をまとめました。"
+        },
+        {
+          "en": "Exports to the EU of fresh sausages, burgers, shellfish from domestic waters and seed potatoes would be able to resume.",
+          "ja": "生ソーセージ、ハンバーガー、国内水域の貝類、種芋のEUへの輸出が再開できるようになります。"
+        },
+        {
+          "en": "In return, the UK is expected to adapt to EU food rules, a process called \"dynamic alignment\", so less red tape comes at a price.",
+          "ja": "その見返りに英国は「動的な整合」と呼ばれる手続きでEUの食品規則に合わせるとみられ、手続きが減ることには代償が伴うのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
+        }
+      ]
+    },
+    {
+      "id": "europe-flight-bomb-threats",
+      "region": "europe",
+      "headline_en": "Seven flights across Europe are targeted by suspected bomb threats.",
+      "headline": "欧州で旅客機7機に爆破予告の疑い。",
+      "summary": [
+        {
+          "en": "Seven passenger planes across Europe, two of which departed from the UK, have been inspected following a series of suspected bomb threats.",
+          "ja": "一連の爆破予告とみられる事案を受け、うち2機が英国発の、欧州各地の旅客機7機が検査されました。"
+        },
+        {
+          "en": "Two Ryanair flights were searched after landing in Rome following anonymous tips, but no explosives were found.",
+          "ja": "ライアンエアーの2便が匿名の通報を受けてローマに着陸後に捜索されましたが、爆発物は見つかりませんでした。"
+        },
+        {
+          "en": "No bombs were found, but authorities are now checking whether it was a co-ordinated attack designed to disrupt airspace.",
+          "ja": "爆弾は見つかりませんでしたが、当局はいま、空域の混乱を狙った組織的な攻撃だったかどうかを調べているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo"
+        }
+      ]
+    },
+    {
+      "id": "japan-defense-spending-plan",
+      "region": "japan",
+      "headline_en": "Japan weighs nearly doubling defense spending over five years.",
+      "headline": "防衛費、5年でほぼ倍増を検討。",
+      "summary": [
+        {
+          "en": "The government and ruling coalition are reportedly considering nearly doubling defense spending over the next five years.",
+          "ja": "政府と与党は今後5年間で防衛費をほぼ倍増させることを検討していると報じられています。"
+        },
+        {
+          "en": "One plan for the five years from April 2027 could see spending rise to as much as ¥80 trillion, up about 1.8 times the roughly ¥43 trillion under the current plan.",
+          "ja": "2027年4月からの5年間の案の一つでは、支出が最大80兆円に増え、現行計画の約43兆円の約1.8倍となる可能性があります。"
+        },
+        {
+          "en": "The deadline is the year-end revision of three key security documents, so the number should be fixed within weeks.",
+          "ja": "期限は年末の安全保障関連3文書の改定であり、数字は数週間のうちに固まるはずでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/japan-defense-spending-hike-focus/"
+        }
+      ]
+    },
+    {
+      "id": "jaxa-yoneda-moon-japanese",
+      "region": "japan",
+      "headline_en": "Japan's newest female astronaut wants to speak Japanese on the moon.",
+      "headline": "JAXA米田さん、月で日本語を話したい。",
+      "summary": [
+        {
+          "en": "Ever since Neil Armstrong first set foot on the moon in 1969, every word broadcast from the lunar surface has been spoken in English.",
+          "ja": "1969年にニール・アームストロングが初めて月に降り立って以来、月面から放送された言葉はすべて英語で話されてきました。"
+        },
+        {
+          "en": "\"If I'm able to go to the moon, I want to share my thoughts in Japanese,\" said Ayu Yoneda, the Japanese space agency's youngest astronaut at 31.",
+          "ja": "「もし月に行けたら、自分の思いを日本語で伝えたい」と、31歳で宇宙航空研究開発機構の最年少宇宙飛行士である米田あゆさんは語りました。"
+        },
+        {
+          "en": "She wants to reach anyone who speaks or is learning Japanese, so the first Japanese words on the moon would be for learners too.",
+          "ja": "彼女は日本語を話す人や学んでいる人に届けたいと考えており、月で初めての日本語は学ぶ人々にも向けたものになるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/science-health/jaxa-yoneda-astronaut/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.719,
+        "change_pct": 0.66,
+        "change": 1.042,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.62,
+        "change_pct": 0.97,
+        "change": 1.7,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1193,
+        "change_pct": 0.33,
+        "change": 0.0036,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 63081.86,
+        "change_pct": -0.33,
+        "change": -208.25,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3930.28,
+        "change_pct": -0.88,
+        "change": -34.79,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7541.4,
+        "change_pct": -0.51,
+        "change": -38.67,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25164.31,
+        "change_pct": -1.07,
+        "change": -272.69,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51983.98,
+        "change_pct": 0.41,
+        "change": 213.67,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.817,
+        "unit": "%",
+        "change_bp": -5.9,
+        "source": "財務省 国債金利情報 (R8.10.30)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.59,
+        "unit": "%",
+        "change_bp": 3,
+        "source": "U.S. Treasury (11/02/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.91,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (11/02/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3940.4,
+        "change_pct": -0.74,
+        "change": -29.2,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611040034/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 96.09,
+        "change_pct": -0.38,
+        "change": -0.37,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611040040/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 77638.01,
+        "change_pct": 1.25,
+        "change": 960.71,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Monday, Nov 2 (Tokyo was closed Tuesday for Culture Day); US stocks and yields are closes for Monday, Nov 2, as Wall Street now closes at 6 a.m. Japan time; oil and gold are Tuesday, Nov 3 settlements; JP10Y is the Ministry of Finance figure for Oct 30; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NASDAQ",
+        "move": "-1.07%",
+        "explanation": "ナスダックが月曜に1.07%下げましたが、理由は確かめられませんでした。"
+      },
+      {
+        "symbol": "GOLD",
+        "move": "-0.74%",
+        "explanation": "金が0.74%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
