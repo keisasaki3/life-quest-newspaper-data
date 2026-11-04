@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-05",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-05T05:25:08+09:00",
+  "news": [
+    {
+      "id": "republicans-blame-trump-midterms",
+      "region": "us",
+      "headline_en": "Angry Republicans blame Trump for the midterms defeat.",
+      "headline": "怒る共和党員、中間選挙の敗北はトランプ氏のせい。",
+      "summary": [
+        {
+          "en": "After Democrats won upset after upset in deep-red states like Texas, Kansas and South Carolina, some Republicans focused their ire on Trump.",
+          "ja": "民主党がテキサス、カンザス、サウスカロライナといった共和党の牙城の州で番狂わせを次々と起こした後、一部の共和党員は怒りの矛先をトランプ氏に向けました。"
+        },
+        {
+          "en": "\"It's on him. It's not on anybody else. It's a total, complete rejection of President Trump,\" a top Republican lobbyist in Texas told the BBC.",
+          "ja": "「彼の責任だ、ほかの誰のせいでもない、トランプ大統領への全面的で完全な拒絶だ」と、テキサスの共和党の有力ロビイストはBBCに語りました。"
+        },
+        {
+          "en": "Most Republicans expected to lose the House, but upsets in deep-red states were the real shock.",
+          "ja": "多くの共和党員は下院を失うことは覚悟していましたが、本当の衝撃は牙城の州での番狂わせだったのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o"
+        }
+      ]
+    },
+    {
+      "id": "iran-says-no-to-war",
+      "region": "world",
+      "headline_en": "Iran's chief negotiator says Americans voted 'no to war'.",
+      "headline": "イラン交渉責任者「米国民は戦争にノーと投票」。",
+      "summary": [
+        {
+          "en": "Iran's chief negotiator in talks with the US has said that Americans voted \"NO TO WAR\", after Trump's Republican Party suffered a stunning defeat in the midterm elections.",
+          "ja": "米国との協議でイランの交渉責任者を務める人物は、トランプ氏の共和党が中間選挙で衝撃的な敗北を喫した後、米国民は「戦争にノー」と投票したと述べました。"
+        },
+        {
+          "en": "Trump acknowledged that the poor results were partly due to the war and the related surge in petrol prices.",
+          "ja": "トランプ氏は、不振な結果の一因が戦争とそれに伴うガソリン価格の急騰にあったことを認めました。"
+        },
+        {
+          "en": "Trump still says the war will end \"when I say it ends\", so the next move is his.",
+          "ja": "それでもトランプ氏は戦争は「私が終わると言ったときに終わる」と述べており、次の一手は同氏次第なのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o"
+        }
+      ]
+    },
+    {
+      "id": "japan-stocks-sink-midterms",
+      "region": "japan",
+      "headline_en": "Japanese stocks sink as US midterm results hit tech shares.",
+      "headline": "米中間選挙の結果でハイテク株安、日本株が下落。",
+      "summary": [
+        {
+          "en": "Japanese equities sank amid indications of Democratic gains in Tuesday's US midterm elections, a scenario some strategists had said would weigh on AI stocks.",
+          "ja": "火曜の米中間選挙で民主党が議席を伸ばす兆しが出るなか日本株は下落し、一部のストラテジストはこの筋書きがAI株の重荷になると言っていました。"
+        },
+        {
+          "en": "The tech-heavy Nikkei 225 declined as much as 4.8%, with Kioxia and Taiyo Yuden slumping more than 13%.",
+          "ja": "ハイテク比率の高い日経平均は一時4.8%下落し、キオクシアや太陽誘電は13%超急落しました。"
+        },
+        {
+          "en": "The Nikkei closed down 1.42% after falling as much as 4.8%, so buyers came back before the close.",
+          "ja": "日経平均は一時4.8%下げた後、1.42%安で引けており、大引けまでに買い手が戻ってきたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink/"
+        }
+      ]
+    },
+    {
+      "id": "dpp-rejects-food-tax-bill",
+      "region": "japan",
+      "headline_en": "DPP leader rejects the food tax cut bill in its current form.",
+      "headline": "国民・玉木代表、食品減税法案に現状では反対。",
+      "summary": [
+        {
+          "en": "DPP leader Yuichiro Tamaki said Wednesday that support for the government's bill to cut the consumption tax on food would be \"impossible in its current form.\"",
+          "ja": "国民民主党の玉木雄一郎代表は水曜、食品の消費税を下げる政府法案への賛成は「現状のままでは不可能」だと述べました。"
+        },
+        {
+          "en": "Some participants pointed out that the middle class could face a heavier burden after the tax cut ends in April 2029.",
+          "ja": "一部の出席者は、2029年4月に減税が終わった後、中間層の負担が重くなりかねないと指摘しました。"
+        },
+        {
+          "en": "The DPP will decide after seeing whether the government accepts its alternative proposal, so its vote is still on the table.",
+          "ja": "国民民主は政府が自党の対案を受け入れるかを見極めてから決めるとしており、賛否はまだ交渉の材料なのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/politics/tamaki-consumption-tax-bill-rejection/"
+        }
+      ]
+    },
+    {
+      "id": "hungary-secret-police-files",
+      "region": "europe",
+      "headline_en": "Hungary opens its communist-era secret police files to the public.",
+      "headline": "ハンガリー、共産時代の秘密警察文書を公開。",
+      "summary": [
+        {
+          "en": "Hungary has opened communist-era secret police files to the public, in a move the government says will help society heal from the traumas of 45 years of communist rule.",
+          "ja": "ハンガリーは共産主義時代の秘密警察の文書を一般に公開し、政府はこれが45年の共産党支配のトラウマから社会が癒えるのを助けると述べています。"
+        },
+        {
+          "en": "The date is symbolic: on 4 November 1956 Soviet tanks rolled through Budapest to crush Hungary's short-lived revolution.",
+          "ja": "日付には象徴的な意味があり、1956年11月4日、ソ連の戦車がハンガリーの短命に終わった革命を鎮圧するためブダペストを進んだのです。"
+        },
+        {
+          "en": "Every government since 1989 refused to open the files, so this ends a 37-year wait.",
+          "ja": "1989年以降のどの政権も文書の公開を拒んできており、これで37年に及ぶ待機が終わるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.487,
+        "change_pct": 0.36,
+        "change": 0.572,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.96,
+        "change_pct": 0.71,
+        "change": 1.25,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1232,
+        "change_pct": 0.36,
+        "change": 0.004,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 62188.63,
+        "change_pct": -1.42,
+        "change": -893.23,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3895.38,
+        "change_pct": -0.89,
+        "change": -34.9,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7568.92,
+        "change_pct": 0.36,
+        "change": 27.52,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25372.01,
+        "change_pct": 0.83,
+        "change": 207.7,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51786.72,
+        "change_pct": -0.38,
+        "change": -197.26,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.817,
+        "unit": "%",
+        "change_bp": 0.0,
+        "source": "財務省 国債金利情報 (R8.11.2)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.61,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (11/03/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.95,
+        "unit": "%",
+        "change_bp": 4,
+        "source": "U.S. Treasury (11/03/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3940.4,
+        "change_pct": -0.74,
+        "change": -29.2,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611040034/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 88.12,
+        "change_pct": -8.29,
+        "change": -7.97,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611050053/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 80097.49,
+        "change_pct": 3.56,
+        "change": 2752.45,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Wednesday, Nov 4; US stocks and yields are closes for Tuesday, Nov 3, as Wall Street closes at 6 a.m. Japan time; oil is the Wednesday, Nov 4 settlement and gold the Tuesday, Nov 3 settlement; JP10Y is the Ministry of Finance figure for Nov 2; FX and Bitcoin as of publishing time on Thursday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-1.42%",
+        "explanation": "株探によりますと、AI・半導体関連を中心に売りが優勢となり、3日続落いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-8.29%",
+        "explanation": "株探（フィスコ）によりますと、米国の対イラン攻撃回避の思惑から、原油先物が急落いたしました。"
+      }
+    ]
+  }
+}
