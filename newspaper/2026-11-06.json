@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-06T05:25:43+09:00",
+  "news": [
+    {
+      "id": "boe-hikes-to-4pc",
+      "region": "europe",
+      "headline_en": "UK interest rates rise to 4% in first hike in three years.",
+      "headline": "英中銀、3年ぶり利上げで金利4%に。",
+      "summary": [
+        {
+          "en": "Interest rates have risen for the first time in more than three years, and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved.",
+          "ja": "金利は3年以上ぶりに上がり、イングランド銀行は米イラン戦争が解決しない限りさらなる利上げの可能性が高いと示唆しました。"
+        },
+        {
+          "en": "Rates rose to 4% from 3.75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices.",
+          "ja": "主に紛争が世界の原油価格に与えた影響によるインフレを抑えようと、金利は3.75%から4%に上がりました。"
+        },
+        {
+          "en": "Governor Bailey says it \"requires real progress towards settling the conflict\", so the next move depends on the Middle East.",
+          "ja": "ベイリー総裁は「紛争の解決に向けた本当の進展が必要だ」と述べており、次の一手は中東次第なのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
+        }
+      ]
+    },
+    {
+      "id": "spacex-tech-stocks-fall",
+      "region": "us",
+      "headline_en": "Shares in Musk's SpaceX plunge as tech and AI stocks fall.",
+      "headline": "ハイテク・AI株安でスペースX株が急落。",
+      "summary": [
+        {
+          "en": "Shares in Elon Musk's SpaceX have plunged as tech and AI stocks more broadly plummeted a day after the Democrats swept to victory in the midterms.",
+          "ja": "民主党が中間選挙で圧勝した翌日、ハイテク株やAI株が幅広く急落するなか、イーロン・マスク氏のスペースXの株価も急落しました。"
+        },
+        {
+          "en": "The market has been reacting to possible tougher scrutiny of data centre construction following Democrat wins in key data centre states including Texas.",
+          "ja": "市場は、テキサスを含むデータセンターの主要州で民主党が勝ったことを受け、データセンター建設への監視が厳しくなる可能性に反応しています。"
+        },
+        {
+          "en": "Texas's governor-elect pledged a moratorium on new data centres, so the AI building boom now faces a political wall.",
+          "ja": "テキサス州の次期知事はデータセンター新設の一時停止を公約しており、AIの建設ブームはいま政治の壁に直面しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+        }
+      ]
+    },
+    {
+      "id": "paraguay-president-resigns",
+      "region": "world",
+      "headline_en": "Paraguay's President Peña resigns after a bank collapse.",
+      "headline": "パラグアイのペニャ大統領、銀行破綻で辞任。",
+      "summary": [
+        {
+          "en": "Paraguay's President Santiago Peña has announced his resignation following a political crisis sparked by the collapse of a bank linked to him.",
+          "ja": "パラグアイのサンティアゴ・ペニャ大統領は、自身とつながりのある銀行の破綻をきっかけとした政治危機を受けて辞任を表明しました。"
+        },
+        {
+          "en": "Ueno Bank says it has about three million customers, equivalent to about 60% of Paraguay's adult population.",
+          "ja": "ウエノ銀行は顧客が約300万人いるとしており、これはパラグアイの成人人口の約60%に相当します。"
+        },
+        {
+          "en": "When one bank holds the money of six in ten adults, its collapse can bring down a president.",
+          "ja": "成人の10人に6人のお金を預かる銀行ともなれば、その破綻は大統領をも倒しうるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-profit-drops",
+      "region": "japan",
+      "headline_en": "Nintendo's net profit drops as Switch 2 unit sales slow.",
+      "headline": "任天堂、スイッチ2の販売鈍化で純利益が減少。",
+      "summary": [
+        {
+          "en": "Nintendo reported a drop in quarterly net profit on Thursday as unit sales slowed for its Switch 2 console, but it is maintaining its annual forecasts.",
+          "ja": "任天堂は木曜、スイッチ2本体の販売台数が鈍ったことで四半期の純利益が減ったと発表しましたが、通期の予想は据え置いています。"
+        },
+        {
+          "en": "A remake of 1990s action-adventure classic \"The Legend of Zelda: Ocarina of Time,\" which comes out Thursday, has sparked nostalgic fan excitement.",
+          "ja": "木曜に発売された1990年代のアクションアドベンチャーの名作「ゼルダの伝説 時のオカリナ」のリメイクは、ファンの懐かしさをかき立てています。"
+        },
+        {
+          "en": "Analysts will be watching how much Zelda can boost Switch 2 sales, so an old classic now carries a new console.",
+          "ja": "アナリストはゼルダがスイッチ2の販売をどれだけ押し上げるかを注視しており、昔の名作がいま新しいゲーム機を背負っているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/nintendo-quarterly-net-profit-drops/"
+        }
+      ]
+    },
+    {
+      "id": "buzzword-shortlist-2026",
+      "region": "japan",
+      "headline_en": "Chiikawa, brainrot and naphtha make the 2026 buzzword shortlist.",
+      "headline": "ちいかわ、ドパガキ、ナフサが流行語候補に。",
+      "summary": [
+        {
+          "en": "From artificial intelligence to Chiikawa, Japan's 2026 buzzword nominees offer a glimpse into a year defined by technology, economic uncertainty and internet memes.",
+          "ja": "人工知能からちいかわまで、日本の2026年の流行語候補は、テクノロジーと経済の不確実性とネットミームに彩られた1年をのぞかせています。"
+        },
+        {
+          "en": "NISA binbō, or \"NISA poor,\" refers to people who struggle to cover everyday expenses after investing too much through the tax-free investment program.",
+          "ja": "「NISA貧乏」は、非課税の投資制度で投資しすぎて日々の出費をまかなうのに苦労する人を指します。"
+        },
+        {
+          "en": "Several of the 30 nominees are about AI, so the year's words show how far AI has reached into daily life.",
+          "ja": "30の候補のうちいくつもがAIに関するもので、今年の言葉はAIが日常にどこまで入り込んだかを示しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/2026-buzzword-nominations/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.836,
+        "change_pct": -0.4,
+        "change": -0.633,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.18,
+        "change_pct": -0.24,
+        "change": -0.42,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1228,
+        "change_pct": 0.19,
+        "change": 0.0021,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 61077.9,
+        "change_pct": -1.79,
+        "change": -1110.73,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3940.39,
+        "change_pct": 1.16,
+        "change": 45.01,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7688.62,
+        "change_pct": 1.58,
+        "change": 119.7,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25736.51,
+        "change_pct": 1.44,
+        "change": 364.5,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 53356.12,
+        "change_pct": 3.03,
+        "change": 1569.4,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.855,
+        "unit": "%",
+        "change_bp": 3.8,
+        "source": "財務省 国債金利情報 (R8.11.4)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.58,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (11/04/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.9,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (11/04/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4113.5,
+        "change_pct": 0.99,
+        "change": 40.5,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611060098/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 90.52,
+        "change_pct": 2.72,
+        "change": 2.4,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611060106/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 75935.2,
+        "change_pct": -5.56,
+        "change": -4470.09,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Thursday, Nov 5; US stocks are closes for Wednesday, Nov 4, as Wall Street closes at 6 a.m. Japan time; US yields are Treasury figures for Nov 4; oil and gold are Thursday, Nov 5 settlements; JP10Y is the Ministry of Finance figure for Nov 4; FX and Bitcoin as of publishing time on Friday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-1.79%",
+        "explanation": "株探によりますと、AI・半導体関連が引き続き売られ、4日続落いたしました。"
+      },
+      {
+        "symbol": "DOW",
+        "move": "+3.03%",
+        "explanation": "ダウが水曜に3.03%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
