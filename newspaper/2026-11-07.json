@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-07",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-07T05:25:41+09:00",
+  "news": [
+    {
+      "id": "midterms-ai-selloff",
+      "region": "us",
+      "headline_en": "Why the US midterms sparked an AI stock selloff.",
+      "headline": "米中間選挙がAI株売りを招いた理由。",
+      "summary": [
+        {
+          "en": "Is the artificial intelligence gold rush coming to an end, or is this simply a reality check?",
+          "ja": "人工知能のゴールドラッシュは終わりに近づいているのか、それとも単なる現実確認なのでしょうか。"
+        },
+        {
+          "en": "A number of leading Democrats campaigned against the unhindered expansion of data centres, which have underpinned the growth of AI.",
+          "ja": "多くの有力な民主党員が、AIの成長を支えてきたデータセンターの野放図な拡大に反対して選挙戦を戦いました。"
+        },
+        {
+          "en": "Fears of more AI regulation lit the fuse, but worries about whether AI investment will pay off had been growing for months.",
+          "ja": "AI規制強化への不安が導火線に火をつけましたが、AI投資が報われるのかという懸念は何カ月も前から高まっていたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo"
+        }
+      ]
+    },
+    {
+      "id": "quake-off-tokyo",
+      "region": "japan",
+      "headline_en": "A magnitude 6.1 quake hits off Tokyo, with no tsunami alert.",
+      "headline": "東京沖でM6.1の地震、津波警報なし。",
+      "summary": [
+        {
+          "en": "A magnitude 6.1 earthquake struck off the coast of Tokyo on Friday, Japanese authorities said, but no tsunami alert was issued.",
+          "ja": "日本の当局によりますと、金曜に東京沖でマグニチュード6.1の地震が起きましたが、津波警報は出されませんでした。"
+        },
+        {
+          "en": "The JMA recorded a \"seismic intensity 3\", meaning that \"almost everyone indoors feels the shaking\".",
+          "ja": "気象庁は「震度3」を観測し、これは「屋内にいるほとんどの人が揺れを感じる」程度を意味します。"
+        },
+        {
+          "en": "No damage was reported, but a fresh jolt is a good reason to check the three days of supplies the new disaster agency asked for.",
+          "ja": "被害は報告されていませんが、新たな揺れは、新設の防災庁が求めた3日分の備蓄を確かめるよい機会でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/tokyo-shallow-quake/"
+        }
+      ]
+    },
+    {
+      "id": "food-tax-bill-lower-house",
+      "region": "japan",
+      "headline_en": "Bill to cut the consumption tax on food clears Lower House.",
+      "headline": "食品の消費税下げ法案、衆院を通過。",
+      "summary": [
+        {
+          "en": "The Lower House passed a bill Friday to cut the consumption tax on food from 8% to 1% for two years.",
+          "ja": "衆議院は金曜、食品の消費税を2年間8%から1%に下げる法案を可決しました。"
+        },
+        {
+          "en": "The cut would take effect in April next year and apply to food and nonalcoholic drinks already subject to the reduced rate.",
+          "ja": "減税は来年4月に始まり、すでに軽減税率の対象となっている食品と酒類以外の飲料に適用されます。"
+        },
+        {
+          "en": "Takaichi wants at least 30% of workers to get the payments, but the income lines are left to Cabinet order, so the details are still blank.",
+          "ja": "高市首相は少なくとも働く人の30%に給付を届けたいとしていますが、所得の線引きは政令に委ねられており、詳細はまだ空白なのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/consumption-tax-bill-passed-lower-house/"
+        }
+      ]
+    },
+    {
+      "id": "putin-seizes-jti-assets",
+      "region": "world",
+      "headline_en": "Putin seizes Japan Tobacco's Russian assets, straining ties with Japan.",
+      "headline": "プーチン氏、日本たばこのロシア資産を接収。",
+      "summary": [
+        {
+          "en": "Russian President Vladimir Putin has issued a decree to temporarily seize Japan Tobacco Inc.'s Russian assets, further straining relations with Japan.",
+          "ja": "ロシアのウラジーミル・プーチン大統領は日本たばこ産業のロシア資産を一時的に接収する大統領令を出し、日本との関係をさらに緊張させました。"
+        },
+        {
+          "en": "Putin's order directly impacts four JTI manufacturing plants, and JTI employs about 4,000 people in Russia.",
+          "ja": "プーチン氏の命令はJTIの4つの製造工場に直接影響し、JTIはロシアで約4000人を雇用しています。"
+        },
+        {
+          "en": "Tokyo says it had been on alert for such a move, so the risk was known but could not be stopped.",
+          "ja": "日本政府はこうした動きを警戒していたと述べており、リスクは分かっていても止められなかったのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/jt-seize-russia/"
+        }
+      ]
+    },
+    {
+      "id": "kenya-cult-leader-sentenced",
+      "region": "world",
+      "headline_en": "A Kenyan cult leader gets 200 years for murdering 191 people.",
+      "headline": "ケニアのカルト指導者、191人殺害で禁錮200年。",
+      "summary": [
+        {
+          "en": "A Kenyan court has sentenced the leader of a doomsday cult, Paul Mackenzie, to 200 years in prison for murdering 191 people, all but one of them children.",
+          "ja": "ケニアの裁判所は終末論カルトの指導者ポール・マッケンジー被告に対し、1人を除き全員が子どもだった191人の殺害で禁錮200年を言い渡しました。"
+        },
+        {
+          "en": "He was found guilty of instructing members of his cult to starve their children to death so they could \"meet Jesus\".",
+          "ja": "同被告は、「イエスに会う」ためとして信者に子どもを餓死させるよう指示した罪で有罪とされました。"
+        },
+        {
+          "en": "Prosecutors sought the death penalty, but the judge chose 200 years, which still means he will never walk free.",
+          "ja": "検察は死刑を求めましたが、裁判官は禁錮200年を選び、それでも同被告が自由の身になることはないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.489,
+        "change_pct": 0.08,
+        "change": 0.132,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.54,
+        "change_pct": -0.77,
+        "change": -1.37,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1142,
+        "change_pct": -0.83,
+        "change": -0.0093,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 57434.77,
+        "change_pct": -5.96,
+        "change": -3643.13,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3707.99,
+        "change_pct": -5.9,
+        "change": -232.4,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7353.73,
+        "change_pct": -4.36,
+        "change": -334.89,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 24315.0,
+        "change_pct": -5.52,
+        "change": -1421.51,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51523.06,
+        "change_pct": -3.44,
+        "change": -1833.06,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.806,
+        "unit": "%",
+        "change_bp": -4.9,
+        "source": "財務省 国債金利情報 (R8.11.5)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.46,
+        "unit": "%",
+        "change_bp": -12,
+        "source": "U.S. Treasury (11/05/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.84,
+        "unit": "%",
+        "change_bp": -6,
+        "source": "U.S. Treasury (11/05/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4074.9,
+        "change_pct": -0.94,
+        "change": -38.6,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611070052/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 90.83,
+        "change_pct": 0.34,
+        "change": 0.31,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611070054/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 75663.13,
+        "change_pct": -0.37,
+        "change": -278.99,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Friday, Nov 6; US stocks and yields are closes for Thursday, Nov 5, as Wall Street closes at 6 a.m. Japan time; oil and gold are Friday, Nov 6 settlements; JP10Y is the Ministry of Finance figure for Nov 5; FX and Bitcoin as of publishing time on Saturday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-5.96%",
+        "explanation": "株探によりますと、半導体関連を中心に値を崩し、5日続落で6万円を割り込みました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-5.52%",
+        "explanation": "BBCによりますと、中間選挙での民主党の躍進でAI規制強化への不安が広がり、木曜に急落いたしました。"
+      }
+    ]
+  }
+}
