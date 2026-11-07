@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-08",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-08T05:22:52+09:00",
+  "news": [
+    {
+      "id": "ai-stocks-climb",
+      "region": "us",
+      "headline_en": "AI stocks climb after trillions wiped from market values.",
+      "headline": "数兆ドルが市場価値から消えた後、AI株が上昇。",
+      "summary": [
+        {
+          "en": "Shares in artificial intelligence and technology firms have recovered slightly from an enormous sell-off that wiped trillions of dollars off stock values.",
+          "ja": "人工知能とテクノロジー企業の株は、株式価値から数兆ドルを消し去った巨大な売りから、わずかに回復しました。"
+        },
+        {
+          "en": "The Nasdaq Composite bounced back slightly on Friday, ending the day up 1.1%, partly reversing some of its 5.5% fall.",
+          "ja": "ナスダック総合指数は金曜にわずかに反発し、1.1%高で一日を終え、5.5%の下落の一部を取り戻しました。"
+        },
+        {
+          "en": "The rebound was modest, and markets in Asia and Europe fared worse, with South Korea's Kospi closing down 6%.",
+          "ja": "反発は小幅で、アジアと欧州の市場はさらに悪く、韓国のKOSPIは6%安で引けたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o"
+        }
+      ]
+    },
+    {
+      "id": "ueda-inflation",
+      "region": "japan",
+      "headline_en": "BOJ's Ueda says unclear how long 2% inflation rate will remain.",
+      "headline": "植田日銀総裁、2%のインフレ率がいつまで続くかは不明と発言。",
+      "summary": [
+        {
+          "en": "Bank of Japan Gov. Kazuo Ueda said that while his nation's inflation rate has reached policymakers' target, it's unclear how long it will stay there.",
+          "ja": "日本銀行の植田和男総裁は、自国のインフレ率は政策当局者の目標に達したものの、それがどれだけ長くそこにとどまるかは不明だと述べました。"
+        },
+        {
+          "en": "“Underlying inflation is 2% — our goal is to keep it there,” Ueda said after delivering a speech at the International Monetary Fund in Washington on Friday.",
+          "ja": "「基調的なインフレは2%です、私たちの目標はそれをそこに保つことです」と、植田氏は金曜にワシントンの国際通貨基金で講演した後に述べました。"
+        },
+        {
+          "en": "Ueda didn't offer any specific guidance on the central bank's appetite to raise interest rates further.",
+          "ja": "植田氏は、さらなる利上げに対する中央銀行の意欲について、具体的な手がかりを何も示さなかったのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/boj-ueda-2-inflation-rate/"
+        }
+      ]
+    },
+    {
+      "id": "growth-priority-items",
+      "region": "japan",
+      "headline_en": "Japan picks 28 priority items for ¥370 trillion in investments.",
+      "headline": "日本、370兆円の投資に向けて28の重点項目を選定。",
+      "summary": [
+        {
+          "en": "The government has selected 28 priority products and technologies, including semiconductors and artificial intelligence, for public and private investments totaling over ¥370 trillion.",
+          "ja": "政府は、半導体や人工知能を含む28の重点製品・技術を、総額370兆円超の官民投資に向けて選定しました。"
+        },
+        {
+          "en": "“Large-scale and strategic investment support measures are essential for establishing a domestic semiconductor supply chain,” Takaichi said at the meeting.",
+          "ja": "「大規模かつ戦略的な投資支援策は、国内の半導体サプライチェーンを確立するために不可欠です」と、高市氏は会合で述べました。"
+        },
+        {
+          "en": "The government will formulate an implementation plan by the end of the year, designating the next five years as a period for intensive investments.",
+          "ja": "政府は年末までに実行計画を策定し、今後5年間を集中投資の期間と位置づけるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/"
+        }
+      ]
+    },
+    {
+      "id": "new-zealand-election",
+      "region": "world",
+      "headline_en": "No clear winner after tight New Zealand general election.",
+      "headline": "接戦のニュージーランド総選挙、明確な勝者なし。",
+      "summary": [
+        {
+          "en": "Prime Minister Christopher Luxon's centre-right National Party won 42 seats but was 19 short of the simple majority needed to form a government, preliminary results show.",
+          "ja": "暫定結果によりますと、クリストファー・ラクソン首相の中道右派・国民党は42議席を獲得しましたが、政府を樹立するのに必要な単純過半数に19議席足りませんでした。"
+        },
+        {
+          "en": "Opposition leader Chris Hipkins, whose Labour Party won 36 seats, showed no signs of conceding.",
+          "ja": "労働党が36議席を獲得した野党党首クリス・ヒプキンス氏は、敗北を認める気配を見せませんでした。"
+        },
+        {
+          "en": "The Opportunity Party, which entered parliament for the first time, has been described as the kingmaker, and the official result is due on 27 November.",
+          "ja": "初めて議会入りしたオポチュニティ党はキングメーカーと評されており、公式結果は11月27日に発表される予定でございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+        }
+      ]
+    },
+    {
+      "id": "barnier-cherry-pick",
+      "region": "europe",
+      "headline_en": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC.",
+      "headline": "英国はEU単一市場を「つまみ食い」できない、とバルニエ氏。",
+      "summary": [
+        {
+          "en": "The EU's former Brexit negotiator has warned that the UK cannot \"cherry pick\" which elements of the single market to which it subscribes.",
+          "ja": "EUの元ブレグジット交渉官は、英国は単一市場のどの要素に加わるかを「つまみ食い」できないと警告しました。"
+        },
+        {
+          "en": "He said there was not a \"single market à la carte\" menu from which the UK could pick and choose what elements it wanted to adopt.",
+          "ja": "彼は、英国が採り入れたい要素を選り好みできる「アラカルトの単一市場」というメニューは存在しないと述べました。"
+        },
+        {
+          "en": "Barnier said the \"door is open\" to the UK rejoining, but only on the same terms as other members, including free movement of people.",
+          "ja": "バルニエ氏は英国の再加盟に「扉は開かれている」と述べましたが、それは人の移動の自由を含め、他の加盟国と同じ条件に限られるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.425,
+        "change_pct": 0.59,
+        "change": 0.927,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.34,
+        "change_pct": -0.27,
+        "change": -0.48,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1228,
+        "change_pct": -0.06,
+        "change": -0.0007,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 57434.77,
+        "change_pct": -5.96,
+        "change": -3643.13,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3707.99,
+        "change_pct": -5.9,
+        "change": -232.4,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7376.86,
+        "change_pct": 0.31,
+        "change": 23.13,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 24579.43,
+        "change_pct": 1.09,
+        "change": 264.43,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51285.73,
+        "change_pct": -0.46,
+        "change": -237.33,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.806,
+        "unit": "%",
+        "change_bp": -4.9,
+        "source": "財務省 国債金利情報 (R8.11.5)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.51,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (11/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.86,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (11/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4074.9,
+        "change_pct": -0.94,
+        "change": -38.6,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611070052/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 90.83,
+        "change_pct": 0.34,
+        "change": 0.31,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611070054/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 75670.9,
+        "change_pct": -0.1,
+        "change": -76.03,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan and US stocks, US yields, oil and gold are closes and settlements for Friday, Nov 6; JP10Y is the Ministry of Finance figure for Nov 5; FX and Bitcoin as of publishing time on Sunday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-5.96%",
+        "explanation": "株探によりますと、半導体関連を中心に値を崩し、5日続落で6万円を割り込みました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "+1.09%",
+        "explanation": "BBCによりますと、木曜の大規模な売りの後、エヌビディアなどAI関連株が一部値を戻しました。"
+      }
+    ]
+  }
+}
