@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-09",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-09T05:23:44+09:00",
+  "news": [
+    {
+      "id": "central-japan-quake",
+      "region": "japan",
+      "headline_en": "A magnitude 5.7 quake injures dozens in central Japan.",
+      "headline": "M5.7の地震、中部日本で数十人が負傷。",
+      "summary": [
+        {
+          "en": "A strong 5.7-magnitude earthquake shook central Japan early Sunday, injuring dozens of people, shattering windows and disrupting train services, officials and local media said.",
+          "ja": "当局者や地元メディアによりますと、マグニチュード5.7の強い地震が日曜未明に中部日本を揺らし、数十人が負傷し、窓ガラスが割れ、列車の運行が乱れました。"
+        },
+        {
+          "en": "The quake struck at 1:04 am in Shizuoka Prefecture, the Japan Meteorological Agency said.",
+          "ja": "気象庁によりますと、地震は午前1時4分に静岡県で発生しました。"
+        },
+        {
+          "en": "No tsunami warning was issued, and authorities reported no deaths.",
+          "ja": "津波警報は出されず、当局は死者を報告していないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/earthquake-aichi-sunday/"
+        }
+      ]
+    },
+    {
+      "id": "trump-coalition-shattered",
+      "region": "us",
+      "headline_en": "Republicans soul-search after the Trump coalition shatters in midterms.",
+      "headline": "中間選挙でトランプ連合が崩れ、共和党は自省モードに。",
+      "summary": [
+        {
+          "en": "Republicans are in soul-searching mode after the coalition that powered Donald Trump to three straight presidential nominations imploded in spectacular fashion in the 2026 midterms.",
+          "ja": "ドナルド・トランプ氏を3回連続の大統領候補指名に押し上げた連合が2026年の中間選挙で派手に崩壊し、共和党は自省モードにあります。"
+        },
+        {
+          "en": "The depth of the problem was captured by outgoing Florida Governor Ron DeSantis, who called the midterms \"close to an extinction-level event for Republicans\".",
+          "ja": "問題の深さを言い表したのは退任するフロリダ州のロン・デサンティス知事で、彼は中間選挙を「共和党にとって絶滅級の出来事に近い」と呼びました。"
+        },
+        {
+          "en": "Vice-President JD Vance predicted \"a lot of infighting and arguing over what happened and why\", and that battle is already under way.",
+          "ja": "JD・バンス副大統領は「何が起きたのか、なぜなのかをめぐる多くの内輪もめと口論」を予測しましたが、その争いはすでに始まっているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo"
+        }
+      ]
+    },
+    {
+      "id": "egypt-train-crash",
+      "region": "world",
+      "headline_en": "Seven dead and more than 100 injured after trains collide in Egypt.",
+      "headline": "エジプトで列車衝突、7人死亡、100人超負傷。",
+      "summary": [
+        {
+          "en": "At least seven people have died in a train crash near the Egyptian city of Giza, with more than 100 injured.",
+          "ja": "エジプトの都市ギザの近くで列車事故があり、少なくとも7人が死亡し、100人以上が負傷しました。"
+        },
+        {
+          "en": "The country's railway authority said two trains travelling south from Giza and Cairo collided, causing several carriages to derail and fall down an embankment.",
+          "ja": "同国の鉄道当局によりますと、ギザとカイロから南へ向かっていた2本の列車が衝突し、数両の客車が脱線して土手を転げ落ちました。"
+        },
+        {
+          "en": "President Sisi ordered an investigation, and the public prosecutor's office warned the death toll could rise.",
+          "ja": "シーシ大統領は調査を命じ、検察当局は死者数が増える可能性があると警告したのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo"
+        }
+      ]
+    },
+    {
+      "id": "ecb-presidency-race",
+      "region": "europe",
+      "headline_en": "Dutchman and Spaniard in two-horse race for ECB presidency.",
+      "headline": "ECB総裁の座、オランダ人とスペイン人の一騎打ちに。",
+      "summary": [
+        {
+          "en": "The choice for European Central Bank President Christine Lagarde's successor probably comes down to Dutchman Klaas Knot and Spaniard Pablo Hernandez de Cos.",
+          "ja": "欧州中央銀行のクリスティーヌ・ラガルド総裁の後任選びは、おそらくオランダ人のクラース・ノット氏とスペイン人のパブロ・エルナンデス・デ・コス氏に絞られます。"
+        },
+        {
+          "en": "The Netherlands and Spain each nominated their former central-bank chiefs to replace Lagarde when she departs in February.",
+          "ja": "オランダとスペインは、2月に退任するラガルド氏の後任として、それぞれ自国の元中央銀行総裁を指名しました。"
+        },
+        {
+          "en": "Euro-area finance ministers will take stock of the candidacies at their meeting on 9 November.",
+          "ja": "ユーロ圏の財務相らは、11月9日の会合でこれらの立候補を見極めるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/08/dutchman-spaniard-ecb-presidency/"
+        }
+      ]
+    },
+    {
+      "id": "godzilla-megamullion",
+      "region": "japan",
+      "headline_en": "'Godzilla' seafloor formation found by coast guard wins heritage status.",
+      "headline": "海保が見つけた「ゴジラ」海底地形、遺産に選定。",
+      "summary": [
+        {
+          "en": "The Japan Coast Guard said that the \"Godzilla Megamullion,\" a massive seafloor formation discovered during its 2001 continental shelf survey, has been selected for a list of 100 Geological Heritage Sites.",
+          "ja": "海上保安庁は、2001年の大陸棚調査で発見された巨大な海底地形「ゴジラメガムリオン」が、「100の地質遺産」のリストに選ばれたと発表しました。"
+        },
+        {
+          "en": "The Godzilla Megamullion measures about 125 kilometers in length and 55 kilometers in width, making it roughly 10 times larger than a typical megamullion.",
+          "ja": "ゴジラメガムリオンは長さ約125キロ、幅約55キロで、一般的なメガムリオンのおよそ10倍の大きさです。"
+        },
+        {
+          "en": "It was named after the giant monster Godzilla because of its enormous size, and is believed to be the largest such formation ever discovered.",
+          "ja": "その巨大さから怪獣ゴジラにちなんで名付けられ、これまでに発見された同種の地形で最大とみられているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/godzilla-megamullion-heritage/"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.351,
+        "change_pct": 0.54,
+        "change": 0.853,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.34,
+        "change_pct": -0.27,
+        "change": -0.48,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1142,
+        "change_pct": -0.77,
+        "change": -0.0086,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 57434.77,
+        "change_pct": -5.96,
+        "change": -3643.13,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3707.99,
+        "change_pct": -5.9,
+        "change": -232.4,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7376.86,
+        "change_pct": 0.31,
+        "change": 23.13,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 24579.43,
+        "change_pct": 1.09,
+        "change": 264.43,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51285.73,
+        "change_pct": -0.46,
+        "change": -237.33,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.806,
+        "unit": "%",
+        "change_bp": -4.9,
+        "source": "財務省 国債金利情報 (R8.11.5)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.51,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (11/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.86,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (11/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4074.9,
+        "change_pct": -0.94,
+        "change": -38.6,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611070052/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 90.83,
+        "change_pct": 0.34,
+        "change": 0.31,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611070054/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 75799.0,
+        "change_pct": 0.07,
+        "change": 51.42,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan and US stocks, US yields, oil and gold are closes and settlements for Friday, Nov 6; JP10Y is the Ministry of Finance figure for Nov 5; FX and Bitcoin as of publishing time on Monday morning, before Tokyo opens.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-5.96%",
+        "explanation": "株探によりますと、半導体関連を中心に値を崩し、5日続落で6万円を割り込みました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "+1.09%",
+        "explanation": "BBCによりますと、木曜の大規模な売りの後、エヌビディアなどAI関連株が一部値を戻しました。"
+      }
+    ]
+  }
+}
