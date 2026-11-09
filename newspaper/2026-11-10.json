@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-10",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-10T05:22:48+09:00",
+  "news": [
+    {
+      "id": "nvidia-huang-probe",
+      "region": "us",
+      "headline_en": "Nvidia shares tumble over probe into Huang's affair with alleged Chinese spy.",
+      "headline": "フアン氏の不倫調査で、エヌビディア株が急落。",
+      "summary": [
+        {
+          "en": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation into its chief executive's affair with an alleged Chinese spy.",
+          "ja": "米半導体大手エヌビディアが、最高経営責任者と中国のスパイとされる人物との不倫について独立調査を発表した後、同社の価値から数千億ドルが消し去られました。"
+        },
+        {
+          "en": "The tech firm saw its shares fall by about 6% on Monday after Jensen Huang admitted having an extramarital affair.",
+          "ja": "ジェンスン・フアン氏が婚外関係を認めた後、このテック企業の株価は月曜に約6%下落しました。"
+        },
+        {
+          "en": "Nvidia said it had no reason to believe its secrets or national security were compromised, and China called the spy claims \"entirely groundless\".",
+          "ja": "エヌビディアは会社の機密や国家安全保障が損なわれたと考える理由はないとし、中国はスパイ疑惑を「まったく根拠がない」と退けたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
+        }
+      ]
+    },
+    {
+      "id": "food-tax-abstain",
+      "region": "japan",
+      "headline_en": "Takaichi and LDP weigh discipline for lawmakers who skipped food tax vote.",
+      "headline": "高市氏と自民党、食料品減税の採決を棄権した議員の処分を検討。",
+      "summary": [
+        {
+          "en": "Prime Minister Sanae Takaichi and the Liberal Democratic Party find themselves in a quandary about what to do with four LDP lawmakers who abstained from voting on the food consumption tax reduction bill.",
+          "ja": "高市早苗首相と自由民主党は、食料品の消費税減税法案の採決を棄権した自民党議員4人をどう扱うかで、苦慮しています。"
+        },
+        {
+          "en": "“It's extremely problematic to lose financial resources for (social security expenses) when we don't have an alternative way to fund the shortfall,” said Ishiba.",
+          "ja": "「不足分を賄う代わりの方法がないのに、（社会保障費の）財源を失うのは極めて問題です」と石破氏は述べました。"
+        },
+        {
+          "en": "The bill cleared the Lower House easily, but the rebellion could complicate its passage in the opposition-controlled upper chamber.",
+          "ja": "法案は衆議院を楽に通過しましたが、この造反は野党が多数を握る参議院での成立を複雑にしかねないのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/food-tax-bill-abstain/"
+        }
+      ]
+    },
+    {
+      "id": "japan-vietnam-ties",
+      "region": "japan",
+      "headline_en": "Japan and Vietnam agree to boost economic security and energy ties.",
+      "headline": "日越、経済安全保障とエネルギーの結びつき強化で合意。",
+      "summary": [
+        {
+          "en": "Japan and Vietnam agreed to deepen cooperation in trade, technology, defense and energy security as their leaders met in Tokyo on Monday.",
+          "ja": "日本とベトナムは、月曜に東京で首脳が会談し、貿易、技術、防衛、エネルギー安全保障での協力を深めることで合意しました。"
+        },
+        {
+          "en": "The two nations announced 10 deals and pledged to boost bilateral trade to as much as $100 billion by 2030.",
+          "ja": "両国は10件の合意を発表し、2030年までに二国間貿易を最大1000億ドルに押し上げると約束しました。"
+        },
+        {
+          "en": "It was the first visit by a Vietnamese Communist Party chief in 11 years, and the talks also covered LNG power and nuclear energy cooperation.",
+          "ja": "ベトナム共産党トップの訪問は11年ぶりで、会談ではLNG発電や原子力での協力も話し合われたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/japan-vietnam-economic-security/"
+        }
+      ]
+    },
+    {
+      "id": "turkey-steel-blast",
+      "region": "world",
+      "headline_en": "Turkey steel factory blast kills at least 16 people.",
+      "headline": "トルコの製鉄工場で爆発、少なくとも16人死亡。",
+      "summary": [
+        {
+          "en": "At least 16 people have died and 13 others have been injured in an explosion at an iron and steel factory near the port city of Izmir in western Turkey.",
+          "ja": "トルコ西部の港湾都市イズミル近くの鉄鋼工場で爆発があり、少なくとも16人が死亡し、ほか13人が負傷しました。"
+        },
+        {
+          "en": "The local governor said the blast happened around midday after a crane carrying a replacement boiler collapsed, causing materials to fall into a furnace below.",
+          "ja": "地元の知事によりますと、爆発は正午ごろ、交換用のボイラーを運んでいたクレーンが倒れ、資材が下の炉に落ちたことで起きました。"
+        },
+        {
+          "en": "Workplace accidents remain a chronic problem in Turkey, an independent labour safety group said.",
+          "ja": "独立系の労働安全団体によりますと、トルコでは労働災害が慢性的な問題であり続けているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+        }
+      ]
+    },
+    {
+      "id": "france-iran-fridge-hack",
+      "region": "europe",
+      "headline_en": "France accuses Iran of supermarket fridge hacking.",
+      "headline": "フランス、スーパーの冷蔵庫ハッキングでイランを非難。",
+      "summary": [
+        {
+          "en": "France has accused Iran's Islamic Revolutionary Guard Corps of being behind cyber-attacks that raised the temperatures of supermarket fridges and freezers across the country last month.",
+          "ja": "フランスは、先月国内各地のスーパーの冷蔵庫と冷凍庫の温度を上げたサイバー攻撃の背後に、イランのイスラム革命防衛隊がいると非難しました。"
+        },
+        {
+          "en": "Foreign Minister Jean-Noël Barrot said the attack was \"unprecedented in both its scale and its level of aggression\".",
+          "ja": "ジャン＝ノエル・バロ外相は、この攻撃は「規模においても攻撃性の水準においても前例がない」と述べました。"
+        },
+        {
+          "en": "Iran has yet to respond officially, and France has summoned the Iranian ambassador to lodge a strong protest.",
+          "ja": "イランはまだ公式に反応しておらず、フランスは強く抗議するためイラン大使を呼び出したのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 157.827,
+        "change_pct": 0.21,
+        "change": 0.329,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.12,
+        "change_pct": 0.17,
+        "change": 0.3,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1226,
+        "change_pct": -0.02,
+        "change": -0.0002,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 58775.5,
+        "change_pct": 2.33,
+        "change": 1340.73,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3818.16,
+        "change_pct": 2.97,
+        "change": 110.17,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7376.86,
+        "change_pct": 0.31,
+        "change": 23.13,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 24579.43,
+        "change_pct": 1.09,
+        "change": 264.43,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51285.73,
+        "change_pct": -0.46,
+        "change": -237.33,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.696,
+        "unit": "%",
+        "change_bp": -11.0,
+        "source": "財務省 国債金利情報 (R8.11.6)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.51,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (11/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.86,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (11/06/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4114.5,
+        "change_pct": 0.97,
+        "change": 39.6,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611100054/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 86.85,
+        "change_pct": -4.38,
+        "change": -3.98,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611100062/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 74824.13,
+        "change_pct": 0.32,
+        "change": 239.48,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Monday, Nov 9; US stocks and yields are closes for Friday, Nov 6, as Wall Street closes at 6 a.m. Japan time; oil and gold are Monday, Nov 9 settlements; JP10Y is the Ministry of Finance figure for Nov 6; FX and Bitcoin as of publishing time on Tuesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+2.33%",
+        "explanation": "株探によりますと、米半導体株高を受けて買い戻しが優勢となり、6日ぶりに急反発いたしました。"
+      },
+      {
+        "symbol": "WTI",
+        "move": "-4.38%",
+        "explanation": "WTI原油先物が4.38%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
