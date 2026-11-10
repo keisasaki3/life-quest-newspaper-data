@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-11",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-11T05:22:00+09:00",
+  "news": [
+    {
+      "id": "us-inflation-october",
+      "region": "us",
+      "headline_en": "US inflation higher than expected in October.",
+      "headline": "米国の10月のインフレ率、予想を上回る。",
+      "summary": [
+        {
+          "en": "US inflation rose at a faster-than-expected pace in October, according to official figures.",
+          "ja": "公式統計によりますと、米国のインフレは10月に予想より速いペースで上昇しました。"
+        },
+        {
+          "en": "Prices rose by 0.4% in the month, which was lower than the 0.6% increase in September.",
+          "ja": "物価は同月に0.4%上昇し、これは9月の0.6%上昇を下回りました。"
+        },
+        {
+          "en": "Analysts had expected 0.3%, and the higher pace could add to arguments for the Federal Reserve to raise interest rates in December.",
+          "ja": "アナリストは0.3%を予想しており、この予想より速いペースは、連邦準備制度が12月に利上げすべきだという主張を後押ししうるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
+        }
+      ]
+    },
+    {
+      "id": "softbank-quarterly-loss",
+      "region": "japan",
+      "headline_en": "SoftBank logs $7 billion loss after US data center costs swell.",
+      "headline": "ソフトバンク、米データセンター費用の膨張で70億ドルの赤字。",
+      "summary": [
+        {
+          "en": "SoftBank Group reported Tuesday its first net loss in almost two years after swallowing a $3.7 billion writedown over a U.S. data-center project.",
+          "ja": "ソフトバンクグループは火曜、米国のデータセンター計画で37億ドルの評価損をのみ込み、ほぼ2年ぶりの純損失を報告しました。"
+        },
+        {
+          "en": "The Tokyo-based backer of OpenAI tumbled to a ¥1.12 trillion ($7.1 billion) loss in its fiscal second quarter.",
+          "ja": "OpenAIを支援する東京拠点の同社は、第2四半期に1兆1200億円（71億ドル）の赤字に転落しました。"
+        },
+        {
+          "en": "Analysts on average had expected a profit of ¥129 billion, and SoftBank's shares have plunged more than 50% from their record high in June.",
+          "ja": "アナリストは平均で1290億円の利益を予想しており、ソフトバンク株は6月の最高値から50%超も急落しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/10/softbank-loss-data-center-costs/"
+        }
+      ]
+    },
+    {
+      "id": "children-social-media-guidelines",
+      "region": "japan",
+      "headline_en": "Japan to call for limiting children's exposure to social media.",
+      "headline": "日本、子どものSNS接触を制限するよう呼びかけへ。",
+      "summary": [
+        {
+          "en": "Upcoming government guidelines are expected to say that parents and other guardians should limit the exposure of young children to social media and other internet content, a draft showed Tuesday.",
+          "ja": "火曜に明らかになった草案によりますと、今後の政府指針は、親など保護者が幼い子どものSNSやその他のネットコンテンツへの接触を制限すべきだとする見通しです。"
+        },
+        {
+          "en": "In the draft, the agency divided children up to age 18 into six age groups and outlined precautions for each.",
+          "ja": "草案でこども家庭庁は、18歳までの子どもを6つの年齢層に分け、それぞれの注意点を示しました。"
+        },
+        {
+          "en": "For ages 13 to 15, the draft said parents should respect children's independence and privacy rather than trying to fully manage their online activities.",
+          "ja": "13歳から15歳については、親はネット上の活動を完全に管理しようとするより、子どもの自立とプライバシーを尊重すべきだと草案は述べているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/government-guidelines-children-social-media/"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-talks-abu-dhabi",
+      "region": "world",
+      "headline_en": "First day of Ukraine peace talks constructive, Zelensky says.",
+      "headline": "ウクライナ和平協議の初日は建設的、とゼレンスキー氏。",
+      "summary": [
+        {
+          "en": "The first of two days of trilateral talks between Ukraine, Russia and the US aimed at ending the war in Ukraine has concluded in Abu Dhabi.",
+          "ja": "ウクライナでの戦争終結を目指すウクライナ、ロシア、米国の2日間の3者協議のうち初日が、アブダビで終わりました。"
+        },
+        {
+          "en": "President Volodymyr Zelensky, who was not at the talks, said they had proved \"constructive and quite substantive\".",
+          "ja": "協議に出席していなかったウォロディミル・ゼレンスキー大統領は、協議が「建設的で、かなり実質的」だったと述べました。"
+        },
+        {
+          "en": "Expectations for a breakthrough are low, but US officials said both sides were privately showing \"a little bit of flexibility\" over who would control Ukraine's eastern regions.",
+          "ja": "突破口への期待は低いものの、米当局者は、双方がウクライナ東部地域を誰が支配するかをめぐって、非公式に「少しばかりの柔軟性」を見せていると述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+        }
+      ]
+    },
+    {
+      "id": "bulgaria-fog-pileups",
+      "region": "europe",
+      "headline_en": "Twelve dead after motorway pile-ups in Bulgaria fog.",
+      "headline": "ブルガリアの霧で高速道路の玉突き事故、12人死亡。",
+      "summary": [
+        {
+          "en": "Twelve people have been killed after dozens of cars and lorries were involved in two pile-ups on the Trakia motorway in south-eastern Bulgaria, Prime Minister Rumen Radev has said.",
+          "ja": "ルメン・ラデフ首相によりますと、ブルガリア南東部のトラキア高速道路で数十台の乗用車とトラックが2件の玉突き事故に巻き込まれ、12人が死亡しました。"
+        },
+        {
+          "en": "Officials have said dense fog reduced visibility and was the likely cause of the first crash.",
+          "ja": "当局者は、濃い霧が視界を悪くし、最初の事故の原因となった可能性が高いと述べました。"
+        },
+        {
+          "en": "More than 70 vehicles were involved, and Radev declared Wednesday a day of national mourning.",
+          "ja": "70台を超える車両が巻き込まれ、ラデフ首相は水曜を国民の服喪の日と宣言したのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 158.794,
+        "change_pct": 0.32,
+        "change": 0.502,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.27,
+        "change_pct": 0.47,
+        "change": 0.83,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1168,
+        "change_pct": 0.19,
+        "change": 0.0021,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 60459.58,
+        "change_pct": 2.87,
+        "change": 1684.08,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3893.71,
+        "change_pct": 1.98,
+        "change": 75.55,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7549.94,
+        "change_pct": 2.35,
+        "change": 173.08,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25253.14,
+        "change_pct": 2.74,
+        "change": 673.71,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52389.75,
+        "change_pct": 2.15,
+        "change": 1104.02,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.724,
+        "unit": "%",
+        "change_bp": 2.8,
+        "source": "財務省 国債金利情報 (R8.11.9)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.56,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (11/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.88,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (11/09/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4030.2,
+        "change_pct": -2.05,
+        "change": -84.3,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611110044/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 86.04,
+        "change_pct": -0.93,
+        "change": -0.81,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611110049/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 73620.18,
+        "change_pct": -2.13,
+        "change": -1602.97,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Tuesday, Nov 10; US stocks and yields are closes for Monday, Nov 9, as Wall Street closes at 6 a.m. Japan time; oil and gold are Tuesday, Nov 10 settlements; JP10Y is the Ministry of Finance figure for Nov 9; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+2.87%",
+        "explanation": "株探によりますと、AI関連株が買い戻されて大幅続伸し、6万円台を回復いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "+2.74%",
+        "explanation": "ナスダック総合指数が月曜に2.74%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
