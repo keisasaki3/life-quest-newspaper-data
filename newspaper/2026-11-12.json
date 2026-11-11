@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-12",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-12T05:21:37+09:00",
+  "news": [
+    {
+      "id": "upper-house-vote-disparity",
+      "region": "japan",
+      "headline_en": "Japan Supreme Court rules 2025 election was held in unconstitutional state.",
+      "headline": "最高裁、2025年参院選は違憲状態で行われたと判断。",
+      "summary": [
+        {
+          "en": "The Supreme Court ruled Wednesday that the July 2025 Upper House election was conducted in an \"unconstitutional state\" due to vote-value disparities of up to 3.13.",
+          "ja": "最高裁は水曜、2025年7月の参議院選挙は最大3.13倍の一票の格差のため「違憲状態」で行われたとの判決を出しました。"
+        },
+        {
+          "en": "It dismissed requests to invalidate the election.",
+          "ja": "最高裁は選挙を無効とする請求は退けました。"
+        },
+        {
+          "en": "It is the first time the top court has found an Upper House election with a maximum gap of less than 4.00 to be in an unconstitutional state.",
+          "ja": "最高裁が最大格差4.00倍未満の参院選を違憲状態と判断したのは、これが初めてなのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/upper-house-election-unconstitutional-state/"
+        }
+      ]
+    },
+    {
+      "id": "zelda-remake-sales",
+      "region": "japan",
+      "headline_en": "Nintendo sells 5.2 million copies of 'Zelda' remake in four days.",
+      "headline": "任天堂、「ゼルダ」リメイクを4日間で520万本販売。",
+      "summary": [
+        {
+          "en": "Nintendo sold 5.2 million copies of its \"The Legend of Zelda: Ocarina of Time\" remake in just four days, invigorating the Switch 2 platform that had been waiting for a blockbuster hit.",
+          "ja": "任天堂は「ゼルダの伝説 時のオカリナ」のリメイクをわずか4日間で520万本販売し、大ヒットを待ち望んでいたSwitch 2のプラットフォームを活気づけました。"
+        },
+        {
+          "en": "The Switch 2 console has had an uneven first year on the market, challenged by the rising cost of memory pushing hardware prices up.",
+          "ja": "Switch 2本体は、メモリー費用の上昇がハードウェア価格を押し上げるという難題に直面し、発売1年目はでこぼこした歩みでした。"
+        },
+        {
+          "en": "Only \"Mario Kart World,\" which was part of a launch bundle with the Switch 2 console, has sold more units so far.",
+          "ja": "これまでにこれより多く売れたのは、Switch 2本体との発売時のセットに含まれていた「マリオカート ワールド」だけなのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/11/zelda-remake-sales/"
+        }
+      ]
+    },
+    {
+      "id": "bessent-relocated",
+      "region": "us",
+      "headline_en": "US Treasury Secretary Bessent relocated after alleged Iranian threats.",
+      "headline": "ベッセント米財務長官、イランによるとされる脅迫で移転。",
+      "summary": [
+        {
+          "en": "US Treasury Secretary Scott Bessent has been moved from his Washington DC home to a military base after Iran-linked threats to his life, according to US media reports.",
+          "ja": "米メディアの報道によりますと、スコット・ベッセント米財務長官は、イランと関連する命への脅迫を受け、ワシントンの自宅から軍の基地へ移されました。"
+        },
+        {
+          "en": "Bessent has been at the forefront of efforts to isolate Iran economically through sanctions and a wider economic blockade.",
+          "ja": "ベッセント氏は、制裁とより広い経済封鎖を通じてイランを経済的に孤立させる取り組みの最前線に立ってきました。"
+        },
+        {
+          "en": "A Treasury spokesperson said only that Bessent \"will not be deterred\" by threats.",
+          "ja": "財務省の報道官は、ベッセント氏は脅迫に「ひるまない」とだけ述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-talks-no-breakthrough",
+      "region": "world",
+      "headline_en": "Russia-Ukraine talks turn to post-war security but end without breakthrough.",
+      "headline": "露ウ協議、戦後の安全保障に移るも突破口なく終了。",
+      "summary": [
+        {
+          "en": "Trilateral talks in Abu Dhabi between Russia, Ukraine and the US aimed at ending the war in Ukraine have concluded after a second day.",
+          "ja": "ウクライナでの戦争終結を目指すロシア、ウクライナ、米国のアブダビでの3者協議が、2日目を終えて閉幕しました。"
+        },
+        {
+          "en": "Both Moscow and Kyiv confirmed that a large-scale prisoner of war exchange was in the works and could be carried out soon.",
+          "ja": "モスクワとキーウはともに、大規模な捕虜交換が準備中で、近く実施されうることを認めました。"
+        },
+        {
+          "en": "US negotiators Steve Witkoff and Jared Kushner will travel to Moscow to meet Putin on Thursday, and then to Dublin to speak to Zelensky.",
+          "ja": "米国の交渉担当者スティーブ・ウィトコフ氏とジャレッド・クシュナー氏は、木曜にモスクワへ向かいプーチン氏と会い、その後ダブリンでゼレンスキー氏と話すのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
+        }
+      ]
+    },
+    {
+      "id": "spain-general-strike",
+      "region": "europe",
+      "headline_en": "Clashes in Barcelona as thousands join Spain general strike.",
+      "headline": "スペインのゼネストに数千人参加、バルセロナで衝突。",
+      "summary": [
+        {
+          "en": "Clashes have broken out between groups of protesters and police in Barcelona after tens of thousands of people took part in Spain's first general strike for 14 years.",
+          "ja": "スペインで14年ぶりのゼネストに数万人が参加し、バルセロナでは抗議者の集団と警察の間で衝突が起きました。"
+        },
+        {
+          "en": "The strike was called by the country's main unions over housing and the high cost of living.",
+          "ja": "ストは、住宅と高い生活費をめぐって同国の主要労組が呼びかけたものです。"
+        },
+        {
+          "en": "Spaniards are due to vote in parliamentary elections on 29 November.",
+          "ja": "スペインの人々は11月29日に議会選挙で投票する予定なのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 159.864,
+        "change_pct": 1.19,
+        "change": 1.881,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 177.33,
+        "change_pct": 0.02,
+        "change": 0.03,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1095,
+        "change_pct": -1.14,
+        "change": -0.0127,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 61248.59,
+        "change_pct": 1.31,
+        "change": 789.01,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3929.39,
+        "change_pct": 0.92,
+        "change": 35.68,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7520.93,
+        "change_pct": -0.38,
+        "change": -29.01,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25065.87,
+        "change_pct": -0.74,
+        "change": -187.27,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52231.89,
+        "change_pct": -0.3,
+        "change": -157.86,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.748,
+        "unit": "%",
+        "change_bp": 2.4,
+        "source": "財務省 国債金利情報 (R8.11.10)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.73,
+        "unit": "%",
+        "change_bp": 17,
+        "source": "U.S. Treasury (11/10/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.98,
+        "unit": "%",
+        "change_bp": 10,
+        "source": "U.S. Treasury (11/10/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 4000.5,
+        "change_pct": -0.74,
+        "change": -29.7,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611120041/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 86.53,
+        "change_pct": 0.57,
+        "change": 0.49,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611120050/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 74433.55,
+        "change_pct": 0.97,
+        "change": 713.43,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Wednesday, Nov 11; US stocks and yields are closes for Tuesday, Nov 10, as Wall Street closes at 6 a.m. Japan time; oil and gold are Wednesday, Nov 11 settlements; JP10Y is the Ministry of Finance figure for Nov 10; FX and Bitcoin as of publishing time on Thursday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+1.31%",
+        "explanation": "株探によりますと、AI関連株を中心にリバウンド局面が続き、3連騰いたしました。"
+      },
+      {
+        "symbol": "USD/JPY",
+        "move": "+1.19%",
+        "explanation": "ドル円が1.19%上げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
