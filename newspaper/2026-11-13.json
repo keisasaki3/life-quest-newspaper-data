@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-13",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-13T05:23:17+09:00",
+  "news": [
+    {
+      "id": "nvidia-huang-resigns",
+      "region": "us",
+      "headline_en": "Nvidia's Jensen Huang resigns over affairs, with CFO Kress in charge.",
+      "headline": "エヌビディアのフアン氏が辞任、クレスCFOが指揮。",
+      "summary": [
+        {
+          "en": "The influential co-founder of the AI chip-making giant resigned on Thursday over reports of extramarital affairs, one of which was with a woman suspected of being a Chinese spy.",
+          "ja": "AI半導体大手の影響力ある共同創業者は、婚外関係の報道を受けて木曜に辞任しましたが、その相手の1人は中国のスパイと疑われる女性でした。"
+        },
+        {
+          "en": "Chief financial officer Colette Kress is in charge, for now, as the tech giant faces one of its biggest challenges.",
+          "ja": "最高財務責任者のコレット・クレス氏が当面の指揮を執り、このテック大手は最大級の難題の一つに直面しています。"
+        },
+        {
+          "en": "Nvidia is now facing a scenario few would have considered until very recently - a future without Jensen Huang.",
+          "ja": "エヌビディアは今、ごく最近まで誰も考えなかったであろう事態、つまりジェンスン・フアン氏のいない未来に直面しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
+        }
+      ]
+    },
+    {
+      "id": "japan-producer-prices",
+      "region": "japan",
+      "headline_en": "Japan's producer prices pick up, backing case for another BOJ rate hike.",
+      "headline": "日本の企業物価が加速、日銀の追加利上げを後押し。",
+      "summary": [
+        {
+          "en": "The measure of prices for goods traded between Japanese firms climbed 7.1% in October from a year earlier, accelerating from 6.8% in the previous month, the Bank of Japan reported Thursday.",
+          "ja": "日本銀行が木曜に発表したところによりますと、日本企業の間で取引される商品の価格の指標は10月に前年比7.1%上昇し、前月の6.8%から加速しました。"
+        },
+        {
+          "en": "Economists had forecast the pace of gains to ease.",
+          "ja": "エコノミストたちは上昇のペースが和らぐと予想していました。"
+        },
+        {
+          "en": "Swaps pricing implies an 82% probability of a rate increase at the BOJ's Dec. 18 meeting.",
+          "ja": "スワップの価格は、12月18日の日銀会合での利上げの確率を82%と示しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/12/economy/japan-producer-prices-october-pick-up/"
+        }
+      ]
+    },
+    {
+      "id": "lower-house-seat-cut-bill",
+      "region": "japan",
+      "headline_en": "Three parties submit bill to cut 31 Lower House seats.",
+      "headline": "3党、衆院定数31削減の法案を提出。",
+      "summary": [
+        {
+          "en": "The ruling Liberal Democratic Party, its coalition partner the Japan Innovation Party and the opposition Democratic Party for the People jointly submitted a bill Thursday to cut 31 Lower House seats.",
+          "ja": "与党の自由民主党、連立相手の日本維新の会、野党の国民民主党は木曜、衆議院の議席を31削減する法案を共同で提出しました。"
+        },
+        {
+          "en": "All cuts would come from proportional representation seats, leaving the number of single-member districts unchanged.",
+          "ja": "削減はすべて比例代表の議席から行われ、小選挙区の数は変わりません。"
+        },
+        {
+          "en": "The three parties aim to pass the bill by Dec. 12, when the current Diet session is scheduled to end.",
+          "ja": "3党は、今国会の会期末が予定される12月12日までの成立を目指しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/politics/seat-reduction-bill-submitted/"
+        }
+      ]
+    },
+    {
+      "id": "us-envoys-putin-zelensky",
+      "region": "world",
+      "headline_en": "US envoys head to meet Zelensky after talks with Putin in Moscow.",
+      "headline": "米特使、プーチン氏と協議後ゼレンスキー氏のもとへ。",
+      "summary": [
+        {
+          "en": "US envoys Jared Kushner and Steve Witkoff held a fresh round of talks with Russian President Vladimir Putin in Moscow.",
+          "ja": "米国の特使ジャレッド・クシュナー氏とスティーブ・ウィトコフ氏は、モスクワでロシアのウラジーミル・プーチン大統領と新たな協議を行いました。"
+        },
+        {
+          "en": "The pair are now flying to Dublin to meet Ukraine's President Volodymyr Zelensky, and Witkoff said a new round of trilateral talks had already been agreed with Putin.",
+          "ja": "2人はウクライナのウォロディミル・ゼレンスキー大統領に会うためダブリンへ向かっており、ウィトコフ氏は新たな3者協議がすでにプーチン氏と合意されたと述べました。"
+        },
+        {
+          "en": "Putin said the territorial issue continues to be a key point of contention.",
+          "ja": "プーチン氏は、領土問題が依然として主な争点であると述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+        }
+      ]
+    },
+    {
+      "id": "uk-economy-growth",
+      "region": "europe",
+      "headline_en": "UK economy grows at fastest rate for more than two years.",
+      "headline": "英国経済、2年余りで最速の成長。",
+      "summary": [
+        {
+          "en": "The UK economy grew at its fastest rate for more than two years in the three months to September.",
+          "ja": "英国経済は9月までの3カ月間に、2年余りで最も速いペースで成長しました。"
+        },
+        {
+          "en": "Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures show.",
+          "ja": "公式統計によりますと、7月から9月にかけて経済は0.7%拡大し、前の3カ月から加速しました。"
+        },
+        {
+          "en": "Computer programming, helped by cloud computing and AI-linked spending, registered its fastest growth for the past three years.",
+          "ja": "クラウドコンピューティングとAI関連の支出に助けられ、コンピュータープログラミングは過去3年で最速の伸びを記録したのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 159.818,
+        "change_pct": 0.7,
+        "change": 1.113,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.71,
+        "change_pct": -0.31,
+        "change": -0.55,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1059,
+        "change_pct": -0.98,
+        "change": -0.0109,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 60819.36,
+        "change_pct": -0.7,
+        "change": -429.23,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3937.33,
+        "change_pct": 0.2,
+        "change": 7.94,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7619.38,
+        "change_pct": 1.31,
+        "change": 98.45,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25466.19,
+        "change_pct": 1.6,
+        "change": 400.32,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52486.49,
+        "change_pct": 0.49,
+        "change": 254.6,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.84,
+        "unit": "%",
+        "change_bp": 9.2,
+        "source": "財務省 国債金利情報 (R8.11.11)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.73,
+        "unit": "%",
+        "change_bp": 17,
+        "source": "U.S. Treasury (11/10/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 4.98,
+        "unit": "%",
+        "change_bp": 10,
+        "source": "U.S. Treasury (11/10/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3885.3,
+        "change_pct": -2.88,
+        "change": -115.2,
+        "unit": "USD/oz",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611130061/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 89.0,
+        "change_pct": 2.85,
+        "change": 2.47,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 71496.98,
+        "change_pct": -3.34,
+        "change": -2467.49,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Thursday, Nov 12; US stocks are closes for Wednesday, Nov 11, as Wall Street closes at 6 a.m. Japan time; US yields are the latest Treasury figures, for Nov 10; gold is the Thursday, Nov 12 settlement; oil is the Yahoo Finance price at publishing time on Friday morning, compared with the Nov 11 settlement; JP10Y is the Ministry of Finance figure for Nov 11; FX and Bitcoin as of publishing time on Friday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-0.70%",
+        "explanation": "株探によりますと、エヌビディアへの不安から売りが優勢となり、4日ぶりに反落いたしました。"
+      },
+      {
+        "symbol": "GOLD",
+        "move": "-2.88%",
+        "explanation": "金先物が2.88%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
