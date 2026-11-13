@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-14T05:22:28+09:00",
+  "news": [
+    {
+      "id": "microsoft-outage",
+      "region": "us",
+      "headline_en": "A major Microsoft outage hits schools, hospitals and businesses worldwide.",
+      "headline": "マイクロソフトの大規模障害、世界の学校や病院、企業に打撃。",
+      "summary": [
+        {
+          "en": "A major Microsoft outage has impacted schools, healthcare systems, businesses, courts and governments around the world.",
+          "ja": "マイクロソフトの大規模な障害が、世界中の学校、医療システム、企業、裁判所、政府に影響を与えました。"
+        },
+        {
+          "en": "Services including Teams, Outlook and AI software Copilot, are being restored almost 24 hours since issues first surfaced.",
+          "ja": "Teams、Outlook、AIソフトのCopilotなどのサービスは、問題が最初に表面化してからほぼ24時間たって復旧しつつあります。"
+        },
+        {
+          "en": "Microsoft said the outage was not a cyber-security incident and was caused by a technical issue.",
+          "ja": "マイクロソフトは、障害はサイバーセキュリティ上の事案ではなく、技術的な問題によって引き起こされたと述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+        }
+      ]
+    },
+    {
+      "id": "planimal-cells",
+      "region": "japan",
+      "headline_en": "Japan team creates 'planimal' hybrid plant-animal cells in world first.",
+      "headline": "日本のチーム、動植物の「プラニマル」細胞を世界初作製。",
+      "summary": [
+        {
+          "en": "A Japanese team said that it has become the first in the world to create hybrid plant-animal cells, dubbed \"planimal\" cells, by fusing a unicellular alga into cultured animal cells.",
+          "ja": "日本の研究チームは、単細胞の藻類を培養した動物細胞に融合させ、「プラニマル」細胞と名付けた植物と動物のハイブリッド細胞を世界で初めて作ったと発表しました。"
+        },
+        {
+          "en": "All of the alga's DNA was integrated into the animal cells' chromosomes.",
+          "ja": "藻類のDNAはすべて動物細胞の染色体に組み込まれました。"
+        },
+        {
+          "en": "If such cells can be cultured in large quantities using photosynthesis, it could provide a new means of producing drugs and cultured meat.",
+          "ja": "こうした細胞を光合成を使って大量に培養できれば、薬や培養肉を作る新たな手段になりうるのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/science-health/plant-animal-cells/"
+        }
+      ]
+    },
+    {
+      "id": "megabanks-raise-forecasts",
+      "region": "japan",
+      "headline_en": "Sumitomo Mitsui and Mizuho raise annual profit forecasts and announce buybacks.",
+      "headline": "三井住友とみずほ、通期利益予想を上方修正し自社株買いを発表。",
+      "summary": [
+        {
+          "en": "Two of Japan's biggest banks raised their profit forecasts and unveiled share buybacks, after cashing in on rising interest rates and robust loan demand.",
+          "ja": "日本の最大手銀行のうち2行は、金利上昇と旺盛な融資需要で稼いだ後、利益予想を引き上げ、自社株買いを発表しました。"
+        },
+        {
+          "en": "Sumitomo Mitsui Financial Group now expects net income of ¥1.9 trillion for the year ending March 31, up from its earlier ¥1.7 trillion projection.",
+          "ja": "三井住友フィナンシャルグループは、3月31日に終わる年度の純利益を、従来の1兆7000億円の予想から1兆9000億円に見込みを引き上げました。"
+        },
+        {
+          "en": "Mizuho Financial Group lifted its annual target to ¥1.6 trillion from ¥1.4 trillion.",
+          "ja": "みずほフィナンシャルグループは、年間の目標を1兆4000億円から1兆6000億円に引き上げたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-mizuho-profit-forecast/"
+        }
+      ]
+    },
+    {
+      "id": "north-korea-facestealer",
+      "region": "world",
+      "headline_en": "North Korean hackers used fake video calls in $400m crypto theft.",
+      "headline": "北朝鮮ハッカー、偽ビデオ通話で4億ドルの暗号資産窃取。",
+      "summary": [
+        {
+          "en": "State-sponsored hackers from North Korea have taken more than $400 million in cryptocurrency by using fake video calls to steal people's identities, US authorities say.",
+          "ja": "米当局によりますと、北朝鮮の国家支援を受けたハッカーが、偽のビデオ通話を使って人々の身元を盗み、4億ドルを超える暗号資産を奪いました。"
+        },
+        {
+          "en": "More than 900 victims have fallen prey to the scheme, which the FBI refers to as FaceStealer, in the last 18 months.",
+          "ja": "FBIが「フェイススティーラー」と呼ぶこの手口の犠牲になった人は、この18カ月で900人を超えます。"
+        },
+        {
+          "en": "The FBI said the North Korean regime relies on proceeds from large-scale cryptocurrency theft to fund its illicit weapons program.",
+          "ja": "FBIは、北朝鮮の政権が不正な兵器計画の資金を大規模な暗号資産窃盗の収益に頼っていると述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o"
+        }
+      ]
+    },
+    {
+      "id": "germany-spy-powers",
+      "region": "europe",
+      "headline_en": "German spies handed new powers to tackle 'hybrid threats' from abroad.",
+      "headline": "独情報機関に、国外の「ハイブリッド脅威」対策の新権限。",
+      "summary": [
+        {
+          "en": "Germany's foreign and domestic intelligence services are to be given greater powers to combat espionage, terrorism and sabotage after the Bundestag approved a major overhaul of its legislation.",
+          "ja": "ドイツ連邦議会が法律の大幅な見直しを承認したことで、ドイツの対外・国内の情報機関は、スパイ活動、テロ、破壊工作と戦うためのより大きな権限を与えられます。"
+        },
+        {
+          "en": "In future, German spies working for the BND will be able to conduct covert operations abroad, including sabotage.",
+          "ja": "今後、BNDで働くドイツのスパイは、破壊工作を含む秘密作戦を国外で行えるようになります。"
+        },
+        {
+          "en": "Interior Minister Alexander Dobrindt called it a \"reform of the century\", but the Left Party said he was creating a new German secret police.",
+          "ja": "アレクサンダー・ドブリント内相はこれを「世紀の改革」と呼びましたが、左派党は彼が新たなドイツの秘密警察を作っていると述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 159.786,
+        "change_pct": 0.03,
+        "change": 0.052,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.13,
+        "change_pct": -0.62,
+        "change": -1.1,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1025,
+        "change_pct": -0.63,
+        "change": -0.007,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 61142.35,
+        "change_pct": 0.53,
+        "change": 322.99,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3941.57,
+        "change_pct": 0.11,
+        "change": 4.24,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7592.4,
+        "change_pct": -0.35,
+        "change": -26.98,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25366.09,
+        "change_pct": -0.39,
+        "change": -100.1,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52297.09,
+        "change_pct": -0.36,
+        "change": -189.4,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.841,
+        "unit": "%",
+        "change_bp": 0.1,
+        "source": "財務省 国債金利情報 (R8.11.12)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.86,
+        "unit": "%",
+        "change_bp": 13,
+        "source": "U.S. Treasury (11/12/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.1,
+        "unit": "%",
+        "change_bp": 12,
+        "source": "U.S. Treasury (11/12/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3880.0,
+        "change_pct": -0.14,
+        "change": -5.3,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 88.82,
+        "change_pct": 0.09,
+        "change": 0.08,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 69013.85,
+        "change_pct": -3.26,
+        "change": -2329.12,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Friday, Nov 13; US stocks and yields are closes for Thursday, Nov 12, as Wall Street closes at 6 a.m. Japan time; oil and gold are Yahoo Finance prices at publishing time on Saturday morning, compared with Thursday, Nov 12 settlements; JP10Y is the Ministry of Finance figure for Nov 12; FX and Bitcoin as of publishing time on Saturday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+0.53%",
+        "explanation": "株探によりますと、AI・半導体関連株などに買い戻しが優勢となり、反発いたしました。"
+      },
+      {
+        "symbol": "BITCOIN",
+        "move": "-3.26%",
+        "explanation": "ビットコインが3.26%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
