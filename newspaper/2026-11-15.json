@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-15T05:21:35+09:00",
+  "news": [
+    {
+      "id": "trump-putin-xi-meeting",
+      "region": "world",
+      "headline_en": "Trump, Putin and Xi plan historic joint meeting in China next week.",
+      "headline": "トランプ、プーチン、習の3氏、来週中国で歴史的な会談を計画。",
+      "summary": [
+        {
+          "en": "Donald Trump, Vladimir Putin and Xi Jinping are planning to meet on the sidelines of a summit in China next week, the White House has said.",
+          "ja": "ホワイトハウスによりますと、ドナルド・トランプ氏、ウラジーミル・プーチン氏、習近平氏は、来週中国で開かれる首脳会議の合間に会うことを計画しています。"
+        },
+        {
+          "en": "\"The president has made it clear that, among other topics, he will discuss the reduction of nuclear weapons in the world,\" spokeswoman Olivia Wales said.",
+          "ja": "「大統領は、ほかの議題とともに、世界の核兵器の削減について話し合うことを明らかにしています」と、オリビア・ウェールズ報道官は述べました。"
+        },
+        {
+          "en": "No agreement was expected to follow the talks, an unnamed senior US official said.",
+          "ja": "匿名の米政府高官は、会談の後に合意が出ることは見込まれていないと述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+        }
+      ]
+    },
+    {
+      "id": "us-ground-stop-copper",
+      "region": "us",
+      "headline_en": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says.",
+      "headline": "全米の航空便停止は銅線の更新工事が原因と米運輸長官。",
+      "summary": [
+        {
+          "en": "A nationwide US ground stop that caused thousands of flight cancellations was caused by an issue following a copper wire upgrade, Transport Secretary Sean Duffy said.",
+          "ja": "ショーン・ダフィー運輸長官によりますと、数千便の欠航を招いた全米の地上待機措置は、銅線の更新工事に続いて起きた問題が原因でした。"
+        },
+        {
+          "en": "Friday's suspension was the longest such incident since the 11 September 2001 attacks on the US.",
+          "ja": "金曜の停止は、2001年9月11日の米国への攻撃以来、この種の事態として最も長いものでした。"
+        },
+        {
+          "en": "The government does not believe it was a cyber-attack, although an investigation is still under way.",
+          "ja": "調査はなお続いているものの、政府はサイバー攻撃によるものではないと考えているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
+        }
+      ]
+    },
+    {
+      "id": "japan-defense-spending",
+      "region": "japan",
+      "headline_en": "Japan considers setting five-year defense spending plan at ¥60 trillion.",
+      "headline": "日本、5年間の防衛費を60兆円とする案を検討。",
+      "summary": [
+        {
+          "en": "Japan is considering setting its total defense spending for the next five years at around ¥60 trillion, as it revises its three key national security-related documents.",
+          "ja": "日本は、安全保障関連の主要3文書の改定に合わせて、今後5年間の防衛費の総額を約60兆円とすることを検討しています。"
+        },
+        {
+          "en": "The Defense Ministry estimates that necessary defense expenditures for the five-year period will total ¥70 trillion to ¥80 trillion, while the Finance Ministry is arguing for spending below ¥60 trillion.",
+          "ja": "防衛省は5年間に必要な防衛費を70兆〜80兆円と見積もる一方、財務省は60兆円未満の支出を主張しています。"
+        },
+        {
+          "en": "With Prime Minister Sanae Takaichi reportedly reluctant to raise taxes, a battle between the two ministries over funding is intensifying.",
+          "ja": "高市早苗首相は増税に消極的とされ、財源をめぐる両省の攻防が激しくなっているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/defense-spending-defense-ministry-finance-ministry/"
+        }
+      ]
+    },
+    {
+      "id": "host-nation-support-demand",
+      "region": "japan",
+      "headline_en": "White House demanding Japan triple host-nation support for U.S. troops.",
+      "headline": "米政府、在日米軍への思いやり予算の3倍増を日本に要求。",
+      "summary": [
+        {
+          "en": "The United States is demanding that Japan provide a total of ¥3 trillion over five years for U.S. forces stationed in the country, about three times the current five-year total of around ¥1 trillion, sources have said.",
+          "ja": "関係者によりますと、米国は日本に対し、国内に駐留する米軍のために5年間で総額3兆円を提供するよう求めており、これは現在の5年間の総額約1兆円のおよそ3倍です。"
+        },
+        {
+          "en": "The Japanese government is estimating the amount at around ¥1.5 trillion for the next five years, taking into account the yen's depreciation and rising prices.",
+          "ja": "日本政府は、円安と物価上昇を考慮して、今後5年間の額を約1兆5000億円と見積もっています。"
+        },
+        {
+          "en": "The two governments aim to reach an agreement by the end of this year, but negotiations are likely to be difficult.",
+          "ja": "両政府は年内の合意を目指していますが、交渉は難航しそうなのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/japan-triple-host-nation-support-us/"
+        }
+      ]
+    },
+    {
+      "id": "italy-fines-meta",
+      "region": "europe",
+      "headline_en": "Italy fines Meta €805m over accessing users' photos.",
+      "headline": "伊当局、写真アクセスでメタに8億500万ユーロの制裁金。",
+      "summary": [
+        {
+          "en": "Italian regulators have fined social media giant Meta €805m for accessing Android users' photos without their specific consent.",
+          "ja": "イタリアの規制当局は、Androidの利用者の写真に個別の同意なくアクセスしたとして、ソーシャルメディア大手のメタに8億500万ユーロの制裁金を科しました。"
+        },
+        {
+          "en": "The regulator said Meta did not properly inform about 20 million smartphone users that it had access to their photos and videos via a feature of the Facebook app.",
+          "ja": "規制当局によりますと、メタはFacebookアプリの機能を通じて写真や動画にアクセスできることを、約2000万人のスマートフォン利用者にきちんと知らせていませんでした。"
+        },
+        {
+          "en": "The fine is among the largest an Italian authority has ever imposed on a tech giant.",
+          "ja": "この制裁金は、イタリアの当局がこれまでにIT大手に科したものとして最大級なのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 159.875,
+        "change_pct": 0.09,
+        "change": 0.141,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 176.66,
+        "change_pct": -0.32,
+        "change": -0.56,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.105,
+        "change_pct": -0.41,
+        "change": -0.0045,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 61142.35,
+        "change_pct": 0.53,
+        "change": 322.99,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3941.57,
+        "change_pct": 0.11,
+        "change": 4.24,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7561.67,
+        "change_pct": -0.4,
+        "change": -30.73,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25136.27,
+        "change_pct": -0.91,
+        "change": -229.82,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52347.55,
+        "change_pct": 0.1,
+        "change": 50.46,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.841,
+        "unit": "%",
+        "change_bp": 0.1,
+        "source": "財務省 国債金利情報 (R8.11.12)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.88,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (11/13/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.15,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (11/13/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3886.3,
+        "change_pct": 0.03,
+        "change": 1.0,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 88.56,
+        "change_pct": -0.2,
+        "change": -0.18,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 65457.9,
+        "change_pct": -4.09,
+        "change": -2791.38,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan and US stocks, US yields, oil and gold are closes and settlements for Friday, Nov 13; JP10Y is the Ministry of Finance figure for Nov 12; FX and Bitcoin as of publishing time on Sunday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+0.53%",
+        "explanation": "株探によりますと、AI・半導体関連株などに買い戻しが優勢となり、反発いたしました。"
+      },
+      {
+        "symbol": "BITCOIN",
+        "move": "-4.09%",
+        "explanation": "ビットコインが4.09%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
