@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-16",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-16T05:21:29+09:00",
+  "news": [
+    {
+      "id": "iran-bahrain-drones",
+      "region": "world",
+      "headline_en": "Iran targets US military base in Bahrain with drone attack.",
+      "headline": "イラン、ドローン攻撃でバーレーンの米軍基地を標的に。",
+      "summary": [
+        {
+          "en": "Iran launched a drone attack against a US military base in Bahrain on Sunday, its second attempt to target the country in three days.",
+          "ja": "イランは日曜、バーレーンの米軍基地に対してドローン攻撃を行い、3日間で2度目となる同国を狙った試みとなりました。"
+        },
+        {
+          "en": "Bahrain's military said its air defence systems intercepted and destroyed the Iranian air attacks \"before they could achieve their objectives\".",
+          "ja": "バーレーン軍は、防空システムがイランの空からの攻撃を「目的を果たす前に」迎撃し破壊したと述べました。"
+        },
+        {
+          "en": "The US and Iran are locked in a stand-off over the Strait of Hormuz, through which about a fifth of the world's gas and oil supply usually flows.",
+          "ja": "米国とイランは、世界のガスと石油の供給のおよそ5分の1が通常通過するホルムズ海峡をめぐってにらみ合いを続けているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+        }
+      ]
+    },
+    {
+      "id": "us-flights-still-disrupted",
+      "region": "us",
+      "headline_en": "Thousands of US flights still cancelled or delayed after nationwide grounding.",
+      "headline": "全米の運航停止の後、なお数千便が欠航や遅延。",
+      "summary": [
+        {
+          "en": "Thousands of US flights were cancelled or delayed on Sunday as the US air-traffic control system continued to recover from a technical failure that led to a rare national ground stop.",
+          "ja": "米国の航空管制システムが、まれな全国的地上待機措置を招いた技術的障害からの回復を続ける中、日曜も米国の数千便が欠航または遅延しました。"
+        },
+        {
+          "en": "Secretary of Transportation Sean Duffy said normal operations may not be restored until Monday.",
+          "ja": "ショーン・ダフィー運輸長官は、通常の運航は月曜まで回復しないかもしれないと述べました。"
+        },
+        {
+          "en": "President Donald Trump urged Congress to approve more money to modernise the air-traffic control system.",
+          "ja": "ドナルド・トランプ大統領は、航空管制システムを近代化するための資金を増やすよう議会に促したのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o"
+        }
+      ]
+    },
+    {
+      "id": "asian-iea-proposal",
+      "region": "japan",
+      "headline_en": "Japan to propose Asian version of IEA at AZEC summit.",
+      "headline": "日本、AZEC首脳会議でアジア版IEAを提案へ。",
+      "summary": [
+        {
+          "en": "Prime Minister Sanae Takaichi plans to propose at an upcoming regional summit in Manila the creation of an Asian version of the International Energy Agency, informed sources said Sunday.",
+          "ja": "事情に詳しい関係者が日曜に明らかにしたところによりますと、高市早苗首相は、マニラで近く開かれる地域の首脳会議で、国際エネルギー機関（IEA）のアジア版の創設を提案する予定です。"
+        },
+        {
+          "en": "The framework would call for cooperation in oil stockpiling in preparation for energy crises.",
+          "ja": "この枠組みは、エネルギー危機に備えた石油備蓄での協力を求めるものになります。"
+        },
+        {
+          "en": "When IEA members jointly released oil reserves on a large scale from March, no ASEAN member nations took part.",
+          "ja": "IEA加盟国が3月以降に大規模な石油備蓄の協調放出を行った際、ASEAN加盟国は1カ国も参加しなかったのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/politics/japan-iea-asian-version/"
+        }
+      ]
+    },
+    {
+      "id": "samurai-japan-apbc",
+      "region": "japan",
+      "headline_en": "Samurai Japan beats South Korea to win Asia Professional Baseball Championship.",
+      "headline": "侍ジャパン、韓国を破りアジアプロ野球チャンピオンシップ優勝。",
+      "summary": [
+        {
+          "en": "Japan beat South Korea 5-1 to capture the title in front of a crowd of 36,022 at Tokyo Dome on Sunday night.",
+          "ja": "日本は日曜の夜、東京ドームの3万6022人の観衆の前で韓国を5対1で破り、タイトルを手にしました。"
+        },
+        {
+          "en": "Tomoya Masaki hit a three-run home run in the final.",
+          "ja": "正木智也選手が決勝で3点本塁打を放ちました。"
+        },
+        {
+          "en": "Hiroto Takahashi threw seven frames of one-run ball.",
+          "ja": "髙橋宏斗投手は7回を1失点に抑えたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/sports/2026/11/15/baseball/japan-korea-apbc-final/"
+        }
+      ]
+    },
+    {
+      "id": "czech-public-media-protest",
+      "region": "europe",
+      "headline_en": "Czechs rally against plan to switch funding of public media.",
+      "headline": "チェコで公共メディアの財源切り替え計画に抗議集会。",
+      "summary": [
+        {
+          "en": "Thousands of people have gathered in central Prague to protest against the Czech government's plans to scrap the licence fee and use the state budget to fund public media.",
+          "ja": "数千人がプラハ中心部に集まり、受信料を廃止して国家予算で公共メディアを賄うというチェコ政府の計画に抗議しました。"
+        },
+        {
+          "en": "Critics say the plans would allow politicians to stifle media freedom.",
+          "ja": "批判する人々は、この計画が政治家にメディアの自由を抑え込むことを許すと言っています。"
+        },
+        {
+          "en": "Prime Minister Andrej Babis has insisted the government does not want to control public media.",
+          "ja": "アンドレイ・バビシュ首相は、政府は公共メディアを支配したいわけではないと強調しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 159.545,
+        "change_pct": -0.21,
+        "change": -0.33,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.87,
+        "change_pct": -0.45,
+        "change": -0.79,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1031,
+        "change_pct": -0.17,
+        "change": -0.0019,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 61142.35,
+        "change_pct": 0.53,
+        "change": 322.99,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3941.57,
+        "change_pct": 0.11,
+        "change": 4.24,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7561.67,
+        "change_pct": -0.4,
+        "change": -30.73,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 25136.27,
+        "change_pct": -0.91,
+        "change": -229.82,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 52347.55,
+        "change_pct": 0.1,
+        "change": 50.46,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.841,
+        "unit": "%",
+        "change_bp": 0.1,
+        "source": "財務省 国債金利情報 (R8.11.12)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.88,
+        "unit": "%",
+        "change_bp": 2,
+        "source": "U.S. Treasury (11/13/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.15,
+        "unit": "%",
+        "change_bp": 5,
+        "source": "U.S. Treasury (11/13/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3886.3,
+        "change_pct": 0.03,
+        "change": 1.0,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 88.56,
+        "change_pct": -0.2,
+        "change": -0.18,
+        "unit": "USD/bbl",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/CL=F/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 64783.34,
+        "change_pct": 1.02,
+        "change": 655.29,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan and US stocks, US yields, oil and gold are closes and settlements for Friday, Nov 13; JP10Y is the Ministry of Finance figure for Nov 12; FX and Bitcoin as of publishing time on Monday morning, before Tokyo opens.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "+0.53%",
+        "explanation": "株探によりますと、AI・半導体関連株などに買い戻しが優勢となり、反発いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-0.91%",
+        "explanation": "ナスダック総合指数が金曜に0.91%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
