@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-18",
+  "timezone": "Asia/Tokyo",
+  "generated_at": "2026-11-18T05:21:44+09:00",
+  "news": [
+    {
+      "id": "nikkei-bear-territory",
+      "region": "japan",
+      "headline_en": "Nikkei 225 near bear market territory as AI boom cools.",
+      "headline": "AIブームが冷え、日経平均は弱気相場の目前に。",
+      "summary": [
+        {
+          "en": "The Nikkei 225 stock index has been trading in or near bear market territory for a week and is not expected to recover its highs until AI and data center optimism returns.",
+          "ja": "日経平均株価は1週間にわたり弱気相場の領域かその近くで推移しており、AIとデータセンターへの楽観が戻るまで高値を回復しないとみられています。"
+        },
+        {
+          "en": "It declined 6% on Nov. 6 to close at 57,434.77, down more than 20% from a record 72,366.34 hit on June 25.",
+          "ja": "11月6日には6%下落して5万7434.77で取引を終え、6月25日に付けた最高値7万2366.34から20%超下がりました。"
+        },
+        {
+          "en": "A 20% fall is considered a technical bear market, though analysts warn that a decline alone does not make a true bear market.",
+          "ja": "20%の下落はテクニカル上の弱気相場とみなされますが、アナリストは下落だけでは本当の弱気相場にはならないと警告しているのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/11/17/markets/nagata-nikkei-ai-bear/"
+        }
+      ]
+    },
+    {
+      "id": "fugaku-breach",
+      "region": "japan",
+      "headline_en": "Japan's most powerful supercomputer hit by unauthorized access.",
+      "headline": "日本最強のスパコン「富岳」に不正アクセス。",
+      "summary": [
+        {
+          "en": "Japan's most powerful supercomputer suffered a possible data breach to its system last week, its operator, the national research institute Riken, announced Monday.",
+          "ja": "運営する国立研究機関の理化学研究所は月曜、日本で最も強力なスーパーコンピューターが先週、システムへのデータ侵害を受けた可能性があると発表しました。"
+        },
+        {
+          "en": "The information of over 4,000 users of Fugaku was potentially taken in the breach.",
+          "ja": "この侵害で、富岳の4000人を超える利用者の情報が取られた可能性があります。"
+        },
+        {
+          "en": "From Nov. 10 to 13, hackers used Fugaku's publicly accessible \"Operating Status\" dashboard webpage to illicitly enter the system's internal network.",
+          "ja": "11月10日から13日にかけて、ハッカーは富岳の公開されている「稼働状況」のダッシュボードのウェブページを使い、システムの内部ネットワークに不正に入り込んだのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/fugaku-unauthorized-access/"
+        }
+      ]
+    },
+    {
+      "id": "us-measles-status",
+      "region": "us",
+      "headline_en": "US loses measles elimination status after 26 years amid record case numbers.",
+      "headline": "米国、記録的な感染者数で26年続いたはしか排除状態を失う。",
+      "summary": [
+        {
+          "en": "After more than two decades, the US has lost its measles-free status, following two years of record case numbers and deaths.",
+          "ja": "20年余りを経て、米国は2年続いた記録的な感染者数と死者数の後、はしかのない国という地位を失いました。"
+        },
+        {
+          "en": "The Pan American Health Organization determined the US has had uninterrupted transmission of the same strain of measles for more than 12 months.",
+          "ja": "汎米保健機構は、米国で同じ株のはしかが12カ月を超えて途切れずに感染を広げてきたと判断しました。"
+        },
+        {
+          "en": "The US has seen 5,400 cases of measles this year alone, with 10 measles-related deaths, the most since the 1990s.",
+          "ja": "米国では今年だけで5400人のはしかの症例があり、はしか関連の死者は10人と、1990年代以来の多さなのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+        }
+      ]
+    },
+    {
+      "id": "quad-summit-manila",
+      "region": "world",
+      "headline_en": "Trump joins 'Quad' summit for first leaders' meeting in two years.",
+      "headline": "トランプ氏、2年ぶりの「クアッド」首脳会議に参加。",
+      "summary": [
+        {
+          "en": "U.S. President Donald Trump on Tuesday joined his three fellow \"Quad\" leaders for their first summit in two years.",
+          "ja": "ドナルド・トランプ米大統領は火曜、「クアッド」のほか3人の首脳と2年ぶりの首脳会議に臨みました。"
+        },
+        {
+          "en": "The grouping expressed \"grave concerns\" about economic coercion and announced a new maritime security initiative.",
+          "ja": "この枠組みは経済的威圧について「重大な懸念」を表明し、新たな海洋安全保障の取り組みを発表しました。"
+        },
+        {
+          "en": "Trump joined Prime Minister Sanae Takaichi, Australia's Anthony Albanese and India's Narendra Modi on the sidelines of ASEAN meetings in Manila.",
+          "ja": "トランプ氏は、マニラでのASEAN関連会合の合間に、高市早苗首相、オーストラリアのアンソニー・アルバニージー首相、インドのナレンドラ・モディ首相と顔をそろえたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/politics/quad-leaders-summit-takaichi-trump/"
+        }
+      ]
+    },
+    {
+      "id": "crimean-bridge-collapse",
+      "region": "europe",
+      "headline_en": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack.",
+      "headline": "クリミア橋が一部崩落、ゼレンスキー氏「前例のない」攻撃。",
+      "summary": [
+        {
+          "en": "Ukraine has severely damaged a critical bridge linking Russia to occupied Crimea, in what President Volodymyr Zelensky says was an \"unprecedented operation\" weeks in the making.",
+          "ja": "ウクライナは、ロシアと占領下のクリミアを結ぶ重要な橋に深刻な損傷を与え、ウォロディミル・ゼレンスキー大統領はこれを何週間もかけて準備した「前例のない作戦」だと述べました。"
+        },
+        {
+          "en": "Images shared by Ukrainian officials show a section of the Crimean Bridge has collapsed into the water.",
+          "ja": "ウクライナ当局者が共有した画像には、クリミア橋の一部が水中に崩れ落ちた様子が写っています。"
+        },
+        {
+          "en": "The Kremlin said it would rebuild the bridge \"better than before\".",
+          "ja": "ロシア大統領府は、橋を「以前よりも良く」再建すると述べたのでございます。"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "fx": [
+      {
+        "symbol": "USD/JPY",
+        "value": 159.348,
+        "change_pct": -0.27,
+        "change": -0.432,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/JPY=X/"
+      },
+      {
+        "symbol": "EUR/JPY",
+        "value": 175.36,
+        "change_pct": -0.45,
+        "change": -0.8,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURJPY=X/"
+      },
+      {
+        "symbol": "EUR/USD",
+        "value": 1.1007,
+        "change_pct": -0.16,
+        "change": -0.0018,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/EURUSD=X/"
+      }
+    ],
+    "stocks": [
+      {
+        "symbol": "NIKKEI225",
+        "value": 58860.43,
+        "change_pct": -1.34,
+        "change": -801.59,
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/stocks/0000/"
+      },
+      {
+        "symbol": "TOPIX",
+        "value": 3840.02,
+        "change_pct": -1.57,
+        "change": -61.35,
+        "source": "株探",
+        "source_url": "https://kabutan.jp/stock/?code=0010"
+      },
+      {
+        "symbol": "S&P500",
+        "value": 7416.59,
+        "change_pct": -1.92,
+        "change": -145.08,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+      },
+      {
+        "symbol": "NASDAQ",
+        "value": 24509.76,
+        "change_pct": -2.49,
+        "change": -626.51,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EIXIC/"
+      },
+      {
+        "symbol": "DOW",
+        "value": 51608.17,
+        "change_pct": -1.41,
+        "change": -739.38,
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+      }
+    ],
+    "rates": [
+      {
+        "symbol": "JP10Y",
+        "value": 2.927,
+        "unit": "%",
+        "change_bp": 2.8,
+        "source": "財務省 国債金利情報 (R8.11.16)",
+        "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm"
+      },
+      {
+        "symbol": "US2Y",
+        "value": 4.83,
+        "unit": "%",
+        "change_bp": -5,
+        "source": "U.S. Treasury (11/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      },
+      {
+        "symbol": "US10Y",
+        "value": 5.12,
+        "unit": "%",
+        "change_bp": -3,
+        "source": "U.S. Treasury (11/16/2026)",
+        "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      }
+    ],
+    "commodities": [
+      {
+        "symbol": "GOLD",
+        "value": 3849.5,
+        "change_pct": -0.09,
+        "change": -3.5,
+        "unit": "USD/oz",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "symbol": "WTI",
+        "value": 86.01,
+        "change_pct": 0.34,
+        "change": 0.29,
+        "unit": "USD/bbl",
+        "source": "株探",
+        "source_url": "https://s.kabutan.jp/news/n202611180062/"
+      }
+    ],
+    "crypto": [
+      {
+        "symbol": "BITCOIN",
+        "value": 63863.74,
+        "change_pct": -1.53,
+        "change": -992.11,
+        "unit": "USD",
+        "source": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+      }
+    ],
+    "as_of": "Japan stocks are closes for Tuesday, Nov 17; US stocks and yields are closes for Monday, Nov 16, as Wall Street closes at 6 a.m. Japan time; oil is the Tuesday, Nov 17 settlement; gold is the Yahoo Finance price at publishing time, compared with the Monday, Nov 16 settlement; JP10Y is the Ministry of Finance figure for Nov 16; FX and Bitcoin as of publishing time on Wednesday morning.",
+    "market_moves": [
+      {
+        "symbol": "NIKKEI225",
+        "move": "-1.34%",
+        "explanation": "株探によりますと、半導体株を中心にリスク回避の売りが続き、大幅続落いたしました。"
+      },
+      {
+        "symbol": "NASDAQ",
+        "move": "-2.49%",
+        "explanation": "ナスダック総合指数が月曜に2.49%下げましたが、理由は確かめられませんでした。"
+      }
+    ]
+  }
+}
